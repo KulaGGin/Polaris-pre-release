@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "LandscapeLayerInfoObject",
+        "AssetName": "DataLayer",
+        "FTopLevelAssetPath": {
+            "AssetName": "LandscapeLayerInfoObject",
+            "PackageName": "/Script/Landscape"
+        },
+        "PackageName": "/Engine/EditorLandscapeResources/DataLayer",
+        "PackagePath": "/Engine/EditorLandscapeResources"
+    }
+]

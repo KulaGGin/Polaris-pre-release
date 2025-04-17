@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "BP_Character_OKM_Pca_Curve_DataAsset_C",
+        "AssetName": "DA_Character_OKM_Pca_Curve",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_Character_OKM_Pca_Curve_DataAsset_C",
+            "PackageName": "/Game/Character/Blueprints/Missile/okm/pca/BP_Character_OKM_Pca_Curve_DataAsset"
+        },
+        "PackageName": "/Game/Character/Blueprints/Missile/okm/pca/DA_Character_OKM_Pca_Curve",
+        "PackagePath": "/Game/Character/Blueprints/Missile/okm/pca"
+    }
+]

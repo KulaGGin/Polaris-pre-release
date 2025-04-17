@@ -1,0 +1,22 @@
+[
+    {
+        "AssetClass": "OptimusDeformer",
+        "AssetName": "DG_LinearBlendSkin_Morph_Cloth",
+        "FTopLevelAssetPath": {
+            "AssetName": "OptimusDeformer",
+            "PackageName": "/Script/OptimusCore"
+        },
+        "PackageName": "/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth",
+        "PackagePath": "/DeformerGraph/Deformers"
+    },
+    {
+        "AssetClass": "OptimusDeformer",
+        "AssetName": "DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals",
+        "FTopLevelAssetPath": {
+            "AssetName": "OptimusDeformer",
+            "PackageName": "/Script/OptimusCore"
+        },
+        "PackageName": "/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals",
+        "PackagePath": "/DeformerGraph/Deformers"
+    }
+]

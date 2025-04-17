@@ -1,0 +1,1982 @@
+[
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "EVolumeTextureDimensions",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Volumetrics/Tools/FluidSimulation/Blueprints/Enums/EVolumeTextureDimensions",
+        "PackagePath": "/Volumetrics/Tools/FluidSimulation/Blueprints/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "RageFresnelType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/RageFresnelType",
+        "PackagePath": "/Game/Blueprints"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarItemTag_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/E_AvatarItemTag_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_DramaLightCenter",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Light/E_DramaLightCenter",
+        "PackagePath": "/Game/Blueprints/Light"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_LUT_Mode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Light/Color/E_LUT_Mode",
+        "PackagePath": "/Game/Blueprints/Light/Color"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "EProfile_Menu_Phese",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Profile/EProfile_Menu_Phese",
+        "PackagePath": "/Game/Blueprints/Profile"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "EProfile_Menu_Type",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Profile/EProfile_Menu_Type",
+        "PackagePath": "/Game/Blueprints/Profile"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_Floating_Item_Chase_Type",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/E_Floating_Item_Chase_Type",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_ItemGhostChaseType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/ghost/E_ItemGhostChaseType",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/ghost"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_ItemGhostState",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/ghost/E_ItemGhostState",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/ghost"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_Item_Mokujin_State",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/mokujin/E_Item_Mokujin_State",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/mokujin"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_StoreSubMenuType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/E_StoreSubMenuType",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_ChatTabCategory",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Chat/E_ChatTabCategory",
+        "PackagePath": "/Game/Lobby/Blueprints/Chat"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_CommandKeyType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/AvatarParameter/E_CommandKeyType",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/AvatarParameter"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_InputKeyType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/AvatarParameter/E_InputKeyType",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/AvatarParameter"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_StampCategory_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/Chat/Stamp/E_StampCategory_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/Chat/Stamp"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_TemplateMessage_Category",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/Chat/TemplateMessage/E_TemplateMessage_Category",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/Chat/TemplateMessage"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_UI_DebugWidgetHandleType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Debug/UI/E_UI_DebugWidgetHandleType",
+        "PackagePath": "/Game/Lobby/Blueprints/Debug/UI"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_OperationType_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/E_OperationType_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_ExclusiveAnim_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/LobbyAvatar/E_ExclusiveAnim_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/LobbyAvatar"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_OneshotAnim_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/LobbyAvatar/E_OneshotAnim_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/LobbyAvatar"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_StatusIcon_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/LobbyAvatar/E_StatusIcon_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/LobbyAvatar"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ELobbyMatchingAnywhereStatus",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/MatchingAnywhere/ELobbyMatchingAnywhereStatus",
+        "PackagePath": "/Game/Lobby/Blueprints/MatchingAnywhere"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_Lobby_Area_Npc_Action_Type",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Npc/Data/E_Lobby_Area_Npc_Action_Type",
+        "PackagePath": "/Game/Lobby/Blueprints/Npc/Data"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_LoungeSelectType_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Others/E_LoungeSelectType_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/Others"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "PlayerProfileMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Profile/PlayerProfileMode",
+        "PackagePath": "/Game/Lobby/Blueprints/Profile"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ProfileSelectEditType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Profile/ProfileSelectEditType",
+        "PackagePath": "/Game/Lobby/Blueprints/Profile"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarColorType_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/E_AvatarColorType_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarItemGettingType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/E_AvatarItemGettingType",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarItemRarityType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/E_AvatarItemRarityType",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarMotionType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/E_AvatarMotionType",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarPartType_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/E_AvatarPartType_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarItemColorTag_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/ItemColor/E_AvatarItemColorTag_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/ItemColor"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarCustomizeOperationType_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/UI/AvatarCustomize/E_AvatarCustomizeOperationType_Onl",
+        "PackagePath": "/Game/Lobby/UI/AvatarCustomize"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarCustomizeMenuType_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/UI/AvatarCustomize/MainMenu/E_AvatarCustomizeMenuType_Onl",
+        "PackagePath": "/Game/Lobby/UI/AvatarCustomize/MainMenu"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarCustomizeBodySubMenuType_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/UI/AvatarCustomize/SubMenu/E_AvatarCustomizeBodySubMenuType_Onl",
+        "PackagePath": "/Game/Lobby/UI/AvatarCustomize/SubMenu"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarCustomizeClothesSubMenuType_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/UI/AvatarCustomize/SubMenu/E_AvatarCustomizeClothesSubMenuType_Onl",
+        "PackagePath": "/Game/Lobby/UI/AvatarCustomize/SubMenu"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_AvatarCustomizeOtherSubMenuType_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/UI/AvatarCustomize/SubMenu/E_AvatarCustomizeOtherSubMenuType_Onl",
+        "PackagePath": "/Game/Lobby/UI/AvatarCustomize/SubMenu"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ALS_Gait",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums/ALS_Gait",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ALS_MovementAction",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ALS_MovementState",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums/ALS_MovementState",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ALS_OverlayState",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ALS_RotationMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ALS_Stance",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums/ALS_Stance",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ALS_ViewMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "GroundedEntryState",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums/GroundedEntryState",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "MantleType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums/MantleType",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "BlendModes",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/Chameleon/Enums/BlendModes",
+        "PackagePath": "/Game/Marketplace/Chameleon/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "InactiveBehaviour_Enum",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/InactiveBehaviour_Enum",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "QuantizerAxisIgnore",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/QuantizerAxisIgnore",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "QuantizerMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/QuantizerMode",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "RenderTargetList",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/RenderTargetList",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "SimPrecision_Enum",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/SimPrecision_Enum",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "SingleObjectType_Enum",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/SingleObjectType_Enum",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "UserInput_Enum",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/UserInput_Enum",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "UDS_FeatureToggle",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum/UDS_FeatureToggle",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "UDS_NoiseType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum/UDS_NoiseType",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "UDS_Season",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum/UDS_Season",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "UDS_SkyLightMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum/UDS_SkyLightMode",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "UDS_SkyMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum/UDS_SkyMode",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "UDS_VolRT_Mode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum/UDS_VolRT_Mode",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "UDS_WeatherTypes",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum/UDS_WeatherTypes",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "UDS_WeatherVariables",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum/UDS_WeatherVariables",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Blueprints/Enum"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_TAM_NpcFacialType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/BluePrints/NPC/Base/E_TAM_NpcFacialType",
+        "PackagePath": "/Game/TrueArcadeMode/BluePrints/NPC/Base"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_TAM_NpcTurnType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/BluePrints/NPC/Base/E_TAM_NpcTurnType",
+        "PackagePath": "/Game/TrueArcadeMode/BluePrints/NPC/Base"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_TAM_Event_Type",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/BluePrints/NPC/Event/E_TAM_Event_Type",
+        "PackagePath": "/Game/TrueArcadeMode/BluePrints/NPC/Event"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ECSIconAnimType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/CharaSelectSimple/ECSIconAnimType",
+        "PackagePath": "/Game/UI/Widget/CharaSelectSimple"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "GhostSelectSideUIState",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/GhostVsGhost/GhostSelectSideUIState",
+        "PackagePath": "/Game/UI/Widget/GhostVsGhost"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ELobbyMenu_Focus",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Lobby/ELobbyMenu_Focus",
+        "PackagePath": "/Game/UI/Widget/Lobby"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "EFriendListTabType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/LobbyCommunity/EFriendListTabType",
+        "PackagePath": "/Game/UI/Widget/LobbyCommunity"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ESubMenuConfirmEnum",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/MyProfile/ESubMenuConfirmEnum",
+        "PackagePath": "/Game/UI/Widget/MyProfile"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ESubMenuExecType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/MyProfile/ESubMenuExecType",
+        "PackagePath": "/Game/UI/Widget/MyProfile"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "E_SessionRoom_Group_Info_Status",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/PlayerMatch/E_SessionRoom_Group_Info_Status",
+        "PackagePath": "/Game/UI/Widget/PlayerMatch"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "NameTypeEnum",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/StaffRoll/NameTypeEnum",
+        "PackagePath": "/Game/UI/Widget/StaffRoll"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_AngleInput",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Angles/ENiagara_AngleInput",
+        "PackagePath": "/Niagara/Enums/Angles"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_GDFQueryExecutionRate",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/DistanceFields/ENiagara_GDFQueryExecutionRate",
+        "PackagePath": "/Niagara/Enums/DistanceFields"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_GlobalVsRigidBodyDistanceFields",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/DistanceFields/ENiagara_GlobalVsRigidBodyDistanceFields",
+        "PackagePath": "/Niagara/Enums/DistanceFields"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_AttributeSamplingApplyOutput",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_AttributeSamplingApplyOutput",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_CameraProperties",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_CameraProperties",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_CameraVectors",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_CameraVectors",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_ColorInitializationMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_ColorInitializationMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_CPUCollisionType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_CPUCollisionType",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_DirectReadApplicationMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_DirectReadApplicationMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_DirectReadParticleIDSampling",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_DirectReadParticleIDSampling",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_DirectReadSamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_DirectReadSamplingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_EmitterLocSamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_EmitterLocSamplingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_EmitterStateOptions",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_EmitterStateOptions",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_Float4Channel",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_Float4Channel",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_GPUCollisionType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_GPUCollisionType",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_IDAttributes",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_IDAttributes",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_InfiniteLoopDuration",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_InfiniteLoopDuration",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_LifetimeInheritanceOptions",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_LifetimeInheritanceOptions",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_LifetimeMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_LifetimeMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_MassInitializationMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_MassInitializationMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_MultipleLerpCount",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_MultipleLerpCount",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_PositionInitializationMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_PositionInitializationMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_RotationDefinitionApproach",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_RotationDefinitionApproach",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_SizeScaleMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_SizeScaleMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_SpriteRotationMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_SpriteRotationMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_SubUVLookupMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_SubUVLookupMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_SubUVLookupModeV2",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_SubUVLookupModeV2",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_UVFlippingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_UVFlippingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_WrapClamp",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagara_WrapClamp",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraAerodynamicDragPivotMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraAerodynamicDragPivotMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraArraySamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraArraySamplingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraBoneSamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraBoneSamplingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraBoneSocketSamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraBoneSocketSamplingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraBooleanLogicOps",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraBooleanLogicOps",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraBooleanLogicOps_v2",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraBooleanLogicOps_v2",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraCalculateRadiusOptions",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraCalculateRadiusOptions",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraChannelCorrelation",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraChannelCorrelation",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraCollisionRadiusOptions",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraCollisionRadiusOptions",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraCoordinateSpace",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraCoordinateSpace",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraCurlNoiseQuality",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraCurlNoiseQuality",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraDecalTransforms",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraDecalTransforms",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraDragCoefficientShapeMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraDragCoefficientShapeMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraEmitterLifeCycleMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraEmitterLifeCycleMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraEmitterScalabilityMode_Limited",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraExecutionStateManagement",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraExecutionStateManagement",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraExpansionMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraExpansionMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraFrictionMergeType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraFrictionMergeType",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraGridPlacementType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraGridPlacementType",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraInactiveMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraInactiveMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraKillVolumeOptions",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraKillVolumeOptions",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraMassByVolume",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraMassByVolume",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraMeshOrSprite",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraMeshOrSprite",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraMeshTransforms",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraMeshTransforms",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraRandomnessEvaluation",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraRandomnessEvaluation",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraRandomnessMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraRandomnessMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraRestitutionMergeType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraRestitutionMergeType",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraScaleColorMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraScaleColorMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraShapeTorusMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraShapeTorusMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraSkelMeshPositionSamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraSkelMeshPositionSamplingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraSkelMeshTransforms",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraSkelMeshTransforms",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraSkelSamplingModeFull",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraSkelSamplingModeFull",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraSocketSamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraSocketSamplingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraSphereDistributionMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraSphereDistributionMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraSUbUVAnimationMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraSUbUVAnimationMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraSystemInactiveMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraSystemInactiveMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraTorusDistributionMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraTorusDistributionMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraTorusMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraTorusMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraTriangleSamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraTriangleSamplingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraVector2_Channels",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraVector2_Channels",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraVector3_Channels",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraVector3_Channels",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraVector4_Channels",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraVector4_Channels",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraVertexSamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/ENiagaraVertexSamplingMode",
+        "PackagePath": "/Niagara/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_LocEventType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Events/ENiagara_LocEventType",
+        "PackagePath": "/Niagara/Enums/Events"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_BoxPlaneMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Location/ENiagara_BoxPlaneMode",
+        "PackagePath": "/Niagara/Enums/Location"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_ConeMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Location/ENiagara_ConeMode",
+        "PackagePath": "/Niagara/Enums/Location"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_CylinderMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Location/ENiagara_CylinderMode",
+        "PackagePath": "/Niagara/Enums/Location"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_LocationShapes",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Location/ENiagara_LocationShapes",
+        "PackagePath": "/Niagara/Enums/Location"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraRingDiscMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Location/ENiagaraRingDiscMode",
+        "PackagePath": "/Niagara/Enums/Location"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_UnsetDirectSet",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet",
+        "PackagePath": "/Niagara/Enums/Ribbons"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_UnsetDirectSetRandom",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom",
+        "PackagePath": "/Niagara/Enums/Ribbons"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_AutomaticManual",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/SpriteRenderer/ENiagara_AutomaticManual",
+        "PackagePath": "/Niagara/Enums/SpriteRenderer"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_FPSPlayrate",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/SpriteRenderer/ENiagara_FPSPlayrate",
+        "PackagePath": "/Niagara/Enums/SpriteRenderer"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_ScaleSpriteSize",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize",
+        "PackagePath": "/Niagara/Enums/SpriteRenderer"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_StaticSamplingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/StaticMesh/ENiagara_StaticSamplingMode",
+        "PackagePath": "/Niagara/Enums/StaticMesh"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_StaticSocketMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/StaticMesh/ENiagara_StaticSocketMode",
+        "PackagePath": "/Niagara/Enums/StaticMesh"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_StaticTriangleMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/StaticMesh/ENiagara_StaticTriangleMode",
+        "PackagePath": "/Niagara/Enums/StaticMesh"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_StaticVertexMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/StaticMesh/ENiagara_StaticVertexMode",
+        "PackagePath": "/Niagara/Enums/StaticMesh"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_LWCConvertPosToVec",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Transforms/ENiagara_LWCConvertPosToVec",
+        "PackagePath": "/Niagara/Enums/Transforms"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_LWCConvertVecToPos",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Transforms/ENiagara_LWCConvertVecToPos",
+        "PackagePath": "/Niagara/Enums/Transforms"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_MeshOrientationOptions",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Transforms/ENiagara_MeshOrientationOptions",
+        "PackagePath": "/Niagara/Enums/Transforms"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_OffsetMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Transforms/ENiagara_OffsetMode",
+        "PackagePath": "/Niagara/Enums/Transforms"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_RotationMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Transforms/ENiagara_RotationMode",
+        "PackagePath": "/Niagara/Enums/Transforms"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_ScaleMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Transforms/ENiagara_ScaleMode",
+        "PackagePath": "/Niagara/Enums/Transforms"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_TransformOrder",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Transforms/ENiagara_TransformOrder",
+        "PackagePath": "/Niagara/Enums/Transforms"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_TransformType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Transforms/ENiagara_TransformType",
+        "PackagePath": "/Niagara/Enums/Transforms"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_ImportanceColorMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Utility/ENiagara_ImportanceColorMode",
+        "PackagePath": "/Niagara/Enums/Utility"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_ImportanceRejectionMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Utility/ENiagara_ImportanceRejectionMode",
+        "PackagePath": "/Niagara/Enums/Utility"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_IntegerConversion",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Utility/ENiagara_IntegerConversion",
+        "PackagePath": "/Niagara/Enums/Utility"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_OrientVectorCount",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Utility/ENiagara_OrientVectorCount",
+        "PackagePath": "/Niagara/Enums/Utility"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_PartitionMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Utility/ENiagara_PartitionMode",
+        "PackagePath": "/Niagara/Enums/Utility"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_UpdateMeshOrientationMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Utility/ENiagara_UpdateMeshOrientationMode",
+        "PackagePath": "/Niagara/Enums/Utility"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagara_VelocityMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Utility/ENiagara_VelocityMode",
+        "PackagePath": "/Niagara/Enums/Utility"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraWindCombingMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Wind/ENiagaraWindCombingMode",
+        "PackagePath": "/Niagara/Enums/Wind"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraWindFrictionDistanceMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Wind/ENiagaraWindFrictionDistanceMode",
+        "PackagePath": "/Niagara/Enums/Wind"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraWindFrictionMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Wind/ENiagaraWindFrictionMode",
+        "PackagePath": "/Niagara/Enums/Wind"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraWindGroundMaskMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Wind/ENiagaraWindGroundMaskMode",
+        "PackagePath": "/Niagara/Enums/Wind"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraWindOffsetMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Wind/ENiagaraWindOffsetMode",
+        "PackagePath": "/Niagara/Enums/Wind"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraWindTurbulenceContributionMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Wind/ENiagaraWindTurbulenceContributionMode",
+        "PackagePath": "/Niagara/Enums/Wind"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraWindTurbulenceFrequencyMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Wind/ENiagaraWindTurbulenceFrequencyMode",
+        "PackagePath": "/Niagara/Enums/Wind"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraWindTurbulenceMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/Enums/Wind/ENiagaraWindTurbulenceMode",
+        "PackagePath": "/Niagara/Enums/Wind"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraAdvectionMethod",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraAdvectionMethod",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraDebugSliceAttributeList",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraDebugSliceAttributeList",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraDebugVectorMode",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraDebugVectorMode",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraFluidAttributeList",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraFluidAttributeList",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraFluidAttributeListReduced",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraFluidAttributeListReduced",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraGasDensityRenderTypes",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraGasDensityRenderTypes",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraGasTemperatureRenderTypes",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraGasTemperatureRenderTypes",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraGasTurbulenceMaskType",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraGasTurbulenceMaskType",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraGrid2DResolution",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraGrid2DResolution",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraGrid3DVolumePlane",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraGrid3DVolumePlane",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraInterpolationMethod",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraInterpolationMethod",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraScalabilityQualityLevels",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraScalabilityQualityLevels",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraSourcingCompModes",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraSourcingCompModes",
+        "PackagePath": "/NiagaraFluids/Enums"
+    },
+    {
+        "AssetClass": "UserDefinedEnum",
+        "AssetName": "ENiagaraTurbulenceMaskChannels",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedEnum",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/NiagaraFluids/Enums/ENiagaraTurbulenceMaskChannels",
+        "PackagePath": "/NiagaraFluids/Enums"
+    }
+]

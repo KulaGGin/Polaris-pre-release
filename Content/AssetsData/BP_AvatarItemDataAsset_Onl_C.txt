@@ -1,0 +1,132 @@
+[
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarFacialContoursDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarFacialContoursDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarFaceItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarFaceItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarLowerBodyItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarLowerBodyItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarUpperBodyItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarUpperBodyItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarFullBodyItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarFullBodyItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarAccessories2ItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarAccessories2ItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarGlassesItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarGlassesItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarBeardItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarBeardItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarAccessories1ItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarAccessories1ItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarHairItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarHairItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarFullFaceItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarFullFaceItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarHeadItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarHeadItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    },
+    {
+        "AssetClass": "BP_AvatarItemDataAsset_Onl_C",
+        "AssetName": "DA_AvatarShoesItemDataAsset_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarItemDataAsset_Onl_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarItemDataAsset_Onl"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarShoesItemDataAsset_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    }
+]

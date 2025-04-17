@@ -1,0 +1,381 @@
+{
+    "floors": [
+        {
+            "ActorName": "PolarisStageFloorActor_1",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDummyBreak": false,
+            "IsDurable": false,
+            "IsFloorBlast": false,
+            "IsFloorBreakable": false,
+            "IsNextStageSequence": false,
+            "IsStageDestruction": false,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Script/Polaris.PolarisStageFloorActor",
+            "State": 1,
+            "TKCollisionEnable": true,
+            "TotalDamage": 0,
+            "WallDamageId": 0
+        }
+    ],
+    "playerStarts": [
+        {
+            "ActorName": "PolarisBattlePlayerStart1_0",
+            "Distance": 0.0,
+            "FloorId": 0,
+            "IsWallAdjust": false,
+            "Position": {
+                "x": -100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RoundStartCameraAssets": [],
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "SoftClassPath": "/Script/Polaris.PolarisBattlePlayerStart",
+            "StageBrokenHistory": 0,
+            "StageForcusCameraAssets": [
+                {
+                    "BattleRound": 0,
+                    "Camera1P": "/Game/cinematics/round_extra/polaris/stage/Common/00/stage_Common_00_cam1p_master.stage_Common_00_cam1p_master",
+                    "Camera2P": "/Game/cinematics/round_extra/polaris/stage/Common/00/stage_Common_00_cam2p_master.stage_Common_00_cam2p_master"
+                },
+                {
+                    "BattleRound": 0,
+                    "Camera1P": "/Game/cinematics/round_extra/polaris/stage/Common/02/stage_Common_02_cam1p_master.stage_Common_02_cam1p_master",
+                    "Camera2P": "/Game/cinematics/round_extra/polaris/stage/Common/02/stage_Common_02_cam2p_master.stage_Common_02_cam2p_master"
+                },
+                {
+                    "BattleRound": 0,
+                    "Camera1P": "/Game/cinematics/round_extra/polaris/stage/Common/04/stage_Common_04_cam1p_master.stage_Common_04_cam1p_master",
+                    "Camera2P": "/Game/cinematics/round_extra/polaris/stage/Common/04/stage_Common_04_cam2p_master.stage_Common_04_cam2p_master"
+                }
+            ],
+            "StageLightType": 0,
+            "StagePositionTypeId": 1,
+            "StageSequenceId": 0
+        },
+        {
+            "ActorName": "PolarisDramaPlayerStart_STA_1",
+            "Distance": 0.0,
+            "FloorId": 0,
+            "IsWallAdjust": false,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "RoundStartCameraAssets": [],
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "SoftClassPath": "/Script/Polaris.PolarisBattlePlayerStart",
+            "StageBrokenHistory": 0,
+            "StageForcusCameraAssets": [],
+            "StageLightType": 5,
+            "StagePositionTypeId": 0,
+            "StageSequenceId": 0
+        },
+        {
+            "ActorName": "PolarisDramaPlayerStart_WIN_2",
+            "Distance": 0.0,
+            "FloorId": 0,
+            "IsWallAdjust": false,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "RoundStartCameraAssets": [],
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "SoftClassPath": "/Script/Polaris.PolarisBattlePlayerStart",
+            "StageBrokenHistory": 0,
+            "StageForcusCameraAssets": [],
+            "StageLightType": 5,
+            "StagePositionTypeId": 2,
+            "StageSequenceId": 0
+        }
+    ],
+    "walls": [
+        {
+            "ActorName": "PolarisStageWallActor17",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": 4287.97021484375,
+                "y": -0.0037807777989655733,
+                "z": 464.0263366699219
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": -90.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 102.7780532836914,
+                "y": 5.0,
+                "z": 11.848915100097656
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Script/Polaris.PolarisStageWallActor",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "PolarisStageWallActor18",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -4263.31005859375,
+                "y": 16.963623046875,
+                "z": 464.0653991699219
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": -90.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 93.66529083251953,
+                "y": 5.0,
+                "z": 11.97397232055664
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Script/Polaris.PolarisStageWallActor",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "PolarisStageWallActor19",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": 0.0,
+                "y": -6230.486328125,
+                "z": 464.0650329589844
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 59.21836853027344,
+                "y": 5.0,
+                "z": 12.12479305267334
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Script/Polaris.PolarisStageWallActor",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "PolarisStageWallActor20",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": 0.0,
+                "y": 6234.21826171875,
+                "z": 464.0829772949219
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 59.5157356262207,
+                "y": 5.0,
+                "z": 10.821659088134766
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Script/Polaris.PolarisStageWallActor",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "PolarisStageWallActor21",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": 3592.1181640625,
+                "y": 5420.04345703125,
+                "z": 464.0650329589844
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": -45.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 27.964487075805664,
+                "y": 5.0,
+                "z": 11.806086540222168
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Script/Polaris.PolarisStageWallActor",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "PolarisStageWallActor22",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -3421.703857421875,
+                "y": 5252.21630859375,
+                "z": 464.0591735839844
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 45.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 27.326019287109375,
+                "y": 5.0,
+                "z": 12.512345314025879
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Script/Polaris.PolarisStageWallActor",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "PolarisStageWallActor23",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -3574.089111328125,
+                "y": -5255.8173828125,
+                "z": 464.0663757324219
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": -45.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 39.01769256591797,
+                "y": 5.0,
+                "z": 12.141042709350586
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Script/Polaris.PolarisStageWallActor",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "PolarisStageWallActor24",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": 3617.02099609375,
+                "y": -5273.94482421875,
+                "z": 464.0404357910156
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 45.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 26.551044464111328,
+                "y": 5.0,
+                "z": 12.057870864868164
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Script/Polaris.PolarisStageWallActor",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        }
+    ]
+}

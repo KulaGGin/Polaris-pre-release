@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "ControlRigBlueprintGeneratedClass",
+        "AssetName": "EyeControlRigBlueprint_C",
+        "FTopLevelAssetPath": {
+            "AssetName": "ControlRigBlueprintGeneratedClass",
+            "PackageName": "/Script/ControlRig"
+        },
+        "PackageName": "/Game/Character/Common/ControlRig/EyeControlRigBlueprint",
+        "PackagePath": "/Game/Character/Common/ControlRig"
+    }
+]

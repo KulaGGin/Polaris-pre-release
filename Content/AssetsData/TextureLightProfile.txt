@@ -1,0 +1,112 @@
+[
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "15fe9ddade105aaba607014bb8eaf52a",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/Common/Asset/15fe9ddade105aaba607014bb8eaf52a",
+        "PackagePath": "/Game/Lobby/Stage/Common/Asset"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "IES_ONL06_LightA",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL06_Custom/IES_ONL06_LightA",
+        "PackagePath": "/Game/Lobby/Stage/ONL06_Custom"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "Capped2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/LightProfilePack/Lighting/Profiles/Capped2",
+        "PackagePath": "/Game/Marketplace/LightProfilePack/Lighting/Profiles"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "LEDBeam5",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/LightProfilePack/Lighting/Profiles/LEDBeam5",
+        "PackagePath": "/Game/Marketplace/LightProfilePack/Lighting/Profiles"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "Shattered1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/LightProfilePack/Lighting/Profiles/Shattered1",
+        "PackagePath": "/Game/Marketplace/LightProfilePack/Lighting/Profiles"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "Star_Bow",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/LightProfilePack/Lighting/Profiles/Star_Bow",
+        "PackagePath": "/Game/Marketplace/LightProfilePack/Lighting/Profiles"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "T_IES",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/V_Residences/Textures/T_IES",
+        "PackagePath": "/Game/Marketplace/V_Residences/Textures"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "DefinedDiffuse",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Asset/Light/DefinedDiffuse",
+        "PackagePath": "/Game/Stage/ST01_Arena/Asset/Light"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "T_IES_Lobby_LightA",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/IES_Texture/T_IES_Lobby_LightA",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/IES_Texture"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "T_IES_Lobby_LightB",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/IES_Texture/T_IES_Lobby_LightB",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/IES_Texture"
+    },
+    {
+        "AssetClass": "TextureLightProfile",
+        "AssetName": "T_IES_Lobby_LightC",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureLightProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/IES_Texture/T_IES_Lobby_LightC",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/IES_Texture"
+    }
+]

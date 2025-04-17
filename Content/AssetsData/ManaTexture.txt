@@ -1,0 +1,2272 @@
+[
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_SU_OPmovie",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StartUp/MT_Mov_UI_SU_OPmovie",
+        "PackagePath": "/Game/Movies/StartUp"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_BlackPen_Top_Loop_Texture",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/BlackPen/MT_Mov_UI_BlackPen_Top_Loop_Texture",
+        "PackagePath": "/Game/Movies/BlackPen"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epent_arena_mov",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epent_arena_mov",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epfinal_arena_mov",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epfinal_arena_mov",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_aml_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_aml_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_aml_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_aml_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ant_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ant_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ant_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ant_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_bbn_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_bbn_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_bbn_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_bbn_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_bsn_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_bsn_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_bsn_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_bsn_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_cat_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_cat_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_cat_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_cat_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ccn_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ccn_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ccn_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ccn_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_cht_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_cht_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_cht_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_cht_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_cml_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_cml_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_cml_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_cml_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_crw_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_crw_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_crw_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_crw_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ctr_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ctr_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ctr_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ctr_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_der_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_der_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_der_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_der_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ghp_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ghp_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ghp_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ghp_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_grf_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_grf_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_grf_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_grf_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_grl_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_grl_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_grl_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_grl_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_hms_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_hms_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_hms_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_hms_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_hrs_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_hrs_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_hrs_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_hrs_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_jly_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_jly_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_jly_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_jly_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_kal_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_kal_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_kal_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_kal_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_klw_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_klw_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_klw_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_klw_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_kmd_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_kmd_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_kmd_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_kmd_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_lon_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_lon_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_lon_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_lon_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_lzd_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_lzd_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_lzd_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_lzd_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_mnt_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_mnt_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_mnt_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_mnt_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_pgn_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_pgn_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_pgn_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_pgn_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_pig_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_pig_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_pig_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_pig_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_rat_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_rat_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_rat_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_rat_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_rbt_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_rbt_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_rbt_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_rbt_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_snk_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_snk_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_snk_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_snk_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_swl_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_swl_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_swl_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_swl_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ttr_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ttr_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_ttr_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_ttr_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_wlf_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_wlf_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_wlf_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_wlf_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_zbr_ed",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_zbr_ed",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epi_zbr_op",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epi_zbr_op",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_epwin_arena_mov",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/CharEpisode/MT_epwin_arena_mov",
+        "PackagePath": "/Game/Movies/CharEpisode"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Digest_TK1",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Digest_TK1",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Digest_TK2",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Digest_TK2",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Digest_TK3",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Digest_TK3",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Digest_TK4",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Digest_TK4",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Digest_TK5",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Digest_TK5",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Digest_TK6",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Digest_TK6",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Digest_TK7",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Digest_TK7",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Side_aml_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Side_aml_01",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Side_aml_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Side_aml_02",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_UI_GA_Side_ghp",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Gallery/Special/MT_UI_GA_Side_ghp",
+        "PackagePath": "/Game/Movies/Gallery/Special"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ONL02_Movie_OKM",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Lobby/MT_ONL02_Movie_OKM",
+        "PackagePath": "/Game/Movies/Lobby"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ONL02_MovieA",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Lobby/MT_ONL02_MovieA",
+        "PackagePath": "/Game/Movies/Lobby"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_OnlineMatch_Loop_Texture",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Online/MT_Mov_UI_OnlineMatch_Loop_Texture",
+        "PackagePath": "/Game/Movies/Online"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_OnlineMatch_Start_Texture",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Online/MT_Mov_UI_OnlineMatch_Start_Texture",
+        "PackagePath": "/Game/Movies/Online"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Movie_ST02A",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Stage/MT_Movie_ST02A",
+        "PackagePath": "/Game/Movies/Stage"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Movie_ST02B",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Stage/MT_Movie_ST02B",
+        "PackagePath": "/Game/Movies/Stage"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Movie_ST02C",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Stage/MT_Movie_ST02C",
+        "PackagePath": "/Game/Movies/Stage"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Movie_ST02D",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Stage/MT_Movie_ST02D",
+        "PackagePath": "/Game/Movies/Stage"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Movie_ST02E",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Stage/MT_Movie_ST02E",
+        "PackagePath": "/Game/Movies/Stage"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Movie_ST02F",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Stage/MT_Movie_ST02F",
+        "PackagePath": "/Game/Movies/Stage"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Movie_ST02H",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Stage/MT_Movie_ST02H",
+        "PackagePath": "/Game/Movies/Stage"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Movie_ST02J",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Stage/MT_Movie_ST02J",
+        "PackagePath": "/Game/Movies/Stage"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_SU_BNElogo_TekkenPJ",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StartUp/MT_Mov_UI_SU_BNElogo_TekkenPJ",
+        "PackagePath": "/Game/Movies/StartUp"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac01_b01_fb01a",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/fb/MT_ac01_b01_fb01a",
+        "PackagePath": "/Game/Movies/Story/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac01_b01_fb01b",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/fb/MT_ac01_b01_fb01b",
+        "PackagePath": "/Game/Movies/Story/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_b06_fb01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/fb/MT_ac05_b06_fb01",
+        "PackagePath": "/Game/Movies/Story/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_b04_fb01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/fb/MT_ac15_b04_fb01",
+        "PackagePath": "/Game/Movies/Story/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_b04_fb02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/fb/MT_ac15_b04_fb02",
+        "PackagePath": "/Game/Movies/Story/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_b04_fb03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/fb/MT_ac15_b04_fb03",
+        "PackagePath": "/Game/Movies/Story/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MS_Movie_NOSIGNAL",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/mt/MS_Movie_NOSIGNAL",
+        "PackagePath": "/Game/Movies/Story/mt"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac01_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac01_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac01_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac01_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac01_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac01_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac01_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac01_p04",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac01_p05",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac01_p05",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac02_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac02_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac02_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac02_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac03_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac03_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac03_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac03_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac03_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac03_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac03_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac03_p04",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac03_p05",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac03_p05",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac04_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac04_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac04_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac04_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p04",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p05",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p05",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p06",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p06",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p07",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p07",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p08",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p08",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p09",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p09",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac05_p10",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac05_p10",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac06_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac06_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac06_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac06_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac06_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac06_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac07_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac07_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac07_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac07_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac07_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac07_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac08_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac08_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac08_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac08_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac09_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac09_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac09_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac09_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p04",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p05",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p05",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p06",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p06",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p07",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p07",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p08",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p08",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p09",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p09",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p10",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p10",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p11",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p11",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p12",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p12",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac10_p13",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac10_p13",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac11_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac11_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac11_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac11_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac11_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac11_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac12_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac12_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac12_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac12_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac12_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac12_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac12_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac12_p04",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac13_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac13_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac13_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac13_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac13_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac13_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac14_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac14_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac14_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac14_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac14_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac14_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac15_p01",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac15_p02",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac15_p03",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac15_p04",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_p05",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac15_p05",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_p06",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac15_p06",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_p07",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac15_p07",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_ac15_p08",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/Story/MT_ac15_p08",
+        "PackagePath": "/Game/Movies/Story"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac00",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac00",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac01",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac02",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac03",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac04",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac04",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac05",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac05",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac06",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac06",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac07",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac07",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac08",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac08",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac09",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac09",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac10",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac10",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac11",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac11",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac12",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac12",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac13",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac13",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac14",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac14",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_ChapterSelect_ac15",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/StoryChapterSelect/MT_Mov_UI_ST_ChapterSelect_ac15",
+        "PackagePath": "/Game/Movies/StoryChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_EP_010_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/TAM/MT_EP_010_01",
+        "PackagePath": "/Game/Movies/TAM"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_OP_00_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/TAM/MT_OP_00_01",
+        "PackagePath": "/Game/Movies/TAM"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_OP_03_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/TAM/MT_OP_03_01",
+        "PackagePath": "/Game/Movies/TAM"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_OP_03_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/TAM/MT_OP_03_02",
+        "PackagePath": "/Game/Movies/TAM"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_OP_03_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/TAM/MT_OP_03_03",
+        "PackagePath": "/Game/Movies/TAM"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_OP_03_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/TAM/MT_OP_03_04",
+        "PackagePath": "/Game/Movies/TAM"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_OP_03_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/TAM/MT_OP_03_05",
+        "PackagePath": "/Game/Movies/TAM"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_tam_opening",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/TAM/MT_tam_opening",
+        "PackagePath": "/Game/Movies/TAM"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_bee_fb01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/fb/MT_bee_fb01",
+        "PackagePath": "/Game/Movies/YellowBook/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_cbr_fb01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/fb/MT_cbr_fb01",
+        "PackagePath": "/Game/Movies/YellowBook/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_cbr_fb02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/fb/MT_cbr_fb02",
+        "PackagePath": "/Game/Movies/YellowBook/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_cbr_fb03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/fb/MT_cbr_fb03",
+        "PackagePath": "/Game/Movies/YellowBook/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_dog_fb01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/fb/MT_dog_fb01",
+        "PackagePath": "/Game/Movies/YellowBook/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_dog_fb02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/fb/MT_dog_fb02",
+        "PackagePath": "/Game/Movies/YellowBook/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_dog_fb03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/fb/MT_dog_fb03",
+        "PackagePath": "/Game/Movies/YellowBook/fb"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac01_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac01_p01",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac01_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac01_p02",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac01_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac01_p03",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac02_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac02_p01",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac02_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac02_p02",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac02_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac02_p03",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac03_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac03_p01",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac03_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac03_p02",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac03_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac03_p03",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac04_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac04_p01",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac04_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac04_p02",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac04_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac04_p03",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac05_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac05_p01",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac05_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac05_p02",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac05_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac05_p03",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac06_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac06_p01",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac06_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac06_p02",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac07_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac07_p01",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac07_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac07_p02",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac08_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac08_p01",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_yac08_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBook/MT_yac08_p02",
+        "PackagePath": "/Game/Movies/YellowBook"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_DLC_ac01",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBookChapterSelect/MT_Mov_UI_ST_DLC_ac01",
+        "PackagePath": "/Game/Movies/YellowBookChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_DLC_ac02",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBookChapterSelect/MT_Mov_UI_ST_DLC_ac02",
+        "PackagePath": "/Game/Movies/YellowBookChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_DLC_ac03",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBookChapterSelect/MT_Mov_UI_ST_DLC_ac03",
+        "PackagePath": "/Game/Movies/YellowBookChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_DLC_ac04",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBookChapterSelect/MT_Mov_UI_ST_DLC_ac04",
+        "PackagePath": "/Game/Movies/YellowBookChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_DLC_ac05",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBookChapterSelect/MT_Mov_UI_ST_DLC_ac05",
+        "PackagePath": "/Game/Movies/YellowBookChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_DLC_ac06",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBookChapterSelect/MT_Mov_UI_ST_DLC_ac06",
+        "PackagePath": "/Game/Movies/YellowBookChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_DLC_ac07",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBookChapterSelect/MT_Mov_UI_ST_DLC_ac07",
+        "PackagePath": "/Game/Movies/YellowBookChapterSelect"
+    },
+    {
+        "AssetClass": "ManaTexture",
+        "AssetName": "MT_Mov_UI_ST_DLC_ac08",
+        "FTopLevelAssetPath": {
+            "AssetName": "ManaTexture",
+            "PackageName": "/Script/CriWareRuntime"
+        },
+        "PackageName": "/Game/Movies/YellowBookChapterSelect/MT_Mov_UI_ST_DLC_ac08",
+        "PackagePath": "/Game/Movies/YellowBookChapterSelect"
+    }
+]

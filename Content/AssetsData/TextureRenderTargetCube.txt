@@ -1,0 +1,62 @@
+[
+    {
+        "AssetClass": "TextureRenderTargetCube",
+        "AssetName": "T_ONL01_RenderTargetCubeA",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTargetCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL01_Entrance/T_ONL01_RenderTargetCubeA",
+        "PackagePath": "/Game/Lobby/Stage/ONL01_Entrance"
+    },
+    {
+        "AssetClass": "TextureRenderTargetCube",
+        "AssetName": "T_ONL02_RenderTargetCubeA",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTargetCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL02_Battle/T_ONL02_RenderTargetCubeA",
+        "PackagePath": "/Game/Lobby/Stage/ONL02_Battle"
+    },
+    {
+        "AssetClass": "TextureRenderTargetCube",
+        "AssetName": "T_ONL05_RenderTargetCubeA",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTargetCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL05_Minigame/T_ONL05_RenderTargetCubeA",
+        "PackagePath": "/Game/Lobby/Stage/ONL05_Minigame"
+    },
+    {
+        "AssetClass": "TextureRenderTargetCube",
+        "AssetName": "T_ONL06_RenderTargetCubeA",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTargetCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL06_Custom/T_ONL06_RenderTargetCubeA",
+        "PackagePath": "/Game/Lobby/Stage/ONL06_Custom"
+    },
+    {
+        "AssetClass": "TextureRenderTargetCube",
+        "AssetName": "T_Cubemap_ST15",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTargetCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Asset/Cubemap_ST15/T_Cubemap_ST15",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Asset/Cubemap_ST15"
+    },
+    {
+        "AssetClass": "TextureRenderTargetCube",
+        "AssetName": "T_TAM_Home01_cubeMapA_RenderTarget",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTargetCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Home01/T_TAM_Home01_cubeMapA_RenderTarget",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Home01"
+    }
+]

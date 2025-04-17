@@ -1,0 +1,362 @@
+[
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_grl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/grl/DA_MainMenu_grl",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/grl"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_okm",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/okm/DA_MainMenu_okm",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/okm"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_aml",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/aml/DA_MainMenu_aml",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/aml"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_ant",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/ant/DA_MainMenu_ant",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/ant"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_bbn",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/bbn/DA_MainMenu_bbn",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/bbn"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_bee",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/bee/DA_MainMenu_bee",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/bee"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_bsn",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/bsn/DA_MainMenu_bsn",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/bsn"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_cat",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/cat/DA_MainMenu_cat",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/cat"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_cbr",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/cbr/DA_MainMenu_cbr",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/cbr"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_ccn",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/ccn/DA_MainMenu_ccn",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/ccn"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_cht",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/cht/DA_MainMenu_cht",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/cht"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_cml",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/cml/DA_MainMenu_cml",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/cml"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_crw",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/crw/DA_MainMenu_crw",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/crw"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_ctr",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/ctr/DA_MainMenu_ctr",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/ctr"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_der",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/der/DA_MainMenu_der",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/der"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_dog",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/dog/DA_MainMenu_dog",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/dog"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_ghp",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/ghp/DA_MainMenu_ghp",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/ghp"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_grf",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/grf/DA_MainMenu_grf",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/grf"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_hms",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/hms/DA_MainMenu_hms",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/hms"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_hrs",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/hrs/DA_MainMenu_hrs",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/hrs"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_jly",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/jly/DA_MainMenu_jly",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/jly"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_kal",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/kal/DA_MainMenu_kal",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/kal"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_klw",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/klw/DA_MainMenu_klw",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/klw"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_kmd",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/kmd/DA_MainMenu_kmd",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/kmd"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_lon",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/lon/DA_MainMenu_lon",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/lon"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_lzd",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/lzd/DA_MainMenu_lzd",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/lzd"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_mnt",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/mnt/DA_MainMenu_mnt",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/mnt"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_pgn",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/pgn/DA_MainMenu_pgn",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/pgn"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_pig",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/pig/DA_MainMenu_pig",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/pig"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_rat",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/rat/DA_MainMenu_rat",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/rat"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_rbt",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/rbt/DA_MainMenu_rbt",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/rbt"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_snk",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/snk/DA_MainMenu_snk",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/snk"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_swl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/swl/DA_MainMenu_swl",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/swl"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_ttr",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/ttr/DA_MainMenu_ttr",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/ttr"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_wlf",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/wlf/DA_MainMenu_wlf",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/wlf"
+    },
+    {
+        "AssetClass": "BP_MainMenuSequenceDataAsset_C",
+        "AssetName": "DA_MainMenu_zbr",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_MainMenuSequenceDataAsset_C",
+            "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/BP_MainMenuSequenceDataAsset"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/character/zbr/DA_MainMenu_zbr",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/character/zbr"
+    }
+]

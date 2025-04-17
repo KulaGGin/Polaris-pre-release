@@ -1,0 +1,462 @@
+[
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_L_1P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_L_1P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_R_N_2P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_R_N_2P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_FootShadow_R_2P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/FootShadow/RT_FootShadow_R_2P",
+        "PackagePath": "/Game/Character/FootShadow"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_TempAlpha2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/RT_TempAlpha2",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_L_H_2P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_L_H_2P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_TempColor2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/RT_TempColor2",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_R_1P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_R_1P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_R_H_1P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_R_H_1P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_FootShadow_L_2P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/FootShadow/RT_FootShadow_L_2P",
+        "PackagePath": "/Game/Character/FootShadow"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_L_H_1P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_L_H_1P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_R_2P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_R_2P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_FootShadow_L_1P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/FootShadow/RT_FootShadow_L_1P",
+        "PackagePath": "/Game/Character/FootShadow"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_FootShadow_R_1P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/FootShadow/RT_FootShadow_R_1P",
+        "PackagePath": "/Game/Character/FootShadow"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_L_N_2P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_L_N_2P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_R_N_1P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_R_N_1P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_L_N_1P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_L_N_1P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_L_2P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_L_2P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Foot_R_H_2P",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/Texture/RT_Foot_R_H_2P",
+        "PackagePath": "/Game/Stage/Physical/Texture"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Value",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/RT_Value",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/BP"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_OffscreenDebug",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Light/Result/RT_OffscreenDebug",
+        "PackagePath": "/Game/Blueprints/Light/Result"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_TempAlpha1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/RT_TempAlpha1",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_TempColor1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/RT_TempColor1",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "AvatarCustomizeSlotThumbnailRenderTarget",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/AvatarCustomize/Thumbnail/AvatarCustomizeSlotThumbnailRenderTarget",
+        "PackagePath": "/Game/Lobby/Blueprints/AvatarCustomize/Thumbnail"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "T_RenderTarget2D",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/Tests/WB/T_RenderTarget2D",
+        "PackagePath": "/Game/Lobby/Maps/Tests/WB"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "T_ONL00_RenderTarget_forUI",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL00_Env/T_ONL00_RenderTarget_forUI",
+        "PackagePath": "/Game/Lobby/Stage/ONL00_Env"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_POM_source1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinja/Usecases/ParallaxMapping/RT_POM_source1",
+        "PackagePath": "/Game/Marketplace/FluidNinja/Usecases/ParallaxMapping"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_POM_source2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinja/Usecases/ParallaxMapping/RT_POM_source2",
+        "PackagePath": "/Game/Marketplace/FluidNinja/Usecases/ParallaxMapping"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_POM_source3",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinja/Usecases/Tiling/Misc/RT_POM_source3",
+        "PackagePath": "/Game/Marketplace/FluidNinja/Usecases/Tiling/Misc"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Black",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/Assets/RT_Black",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core/Assets"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_FluidTemp1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/UseCases/001_WorldSpaceOffset_FluidSurface/RT_FluidTemp1",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/UseCases/001_WorldSpaceOffset_FluidSurface"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_FluidTemp2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/UseCases/001_WorldSpaceOffset_FluidSurface/RT_FluidTemp2",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/UseCases/001_WorldSpaceOffset_FluidSurface"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_VolumeCloudsRGBA1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Volumetrics/TempRenderTargets/RT_VolumeCloudsRGBA1",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Volumetrics/TempRenderTargets"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_VolumeFog3",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Volumetrics/TempRenderTargets/RT_VolumeFog3",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Volumetrics/TempRenderTargets"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_VolumeSmoke1_368",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Volumetrics/TempRenderTargets/RT_VolumeSmoke1_368",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Volumetrics/TempRenderTargets"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_VolumeSmoke5_512",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Volumetrics/TempRenderTargets/RT_VolumeSmoke5_512",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Volumetrics/TempRenderTargets"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "T_ScreenA_Screen",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Asset/Screen_ST01/T_ScreenA_Screen",
+        "PackagePath": "/Game/Stage/ST01_Arena/Asset/Screen_ST01"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_MonitorA_ST02",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Asset/MonitorA_ST02/RT_MonitorA_ST02",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Asset/MonitorA_ST02"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "TR_TournamentScreenA_TextureRenderTarget2D",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Asset/TournamentScreenA_ST04/TR_TournamentScreenA_TextureRenderTarget2D",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Asset/TournamentScreenA_ST04"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Waves",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Asset/BNSMY_Materials/Ocean/Functions/RT_Waves",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Asset/BNSMY_Materials/Ocean/Functions"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "SpritScreenRenderTarget_cam1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_sele/SpritScreenRenderTarget_cam1",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_sele"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "SpritScreenRenderTarget_cam1_Mask",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_sele/SpritScreenRenderTarget_cam1_Mask",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_sele"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "SpritScreenRenderTarget_cam2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_sele/SpritScreenRenderTarget_cam2",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_sele"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "SpritScreenRenderTarget_cam2_Mask",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_sele/SpritScreenRenderTarget_cam2_Mask",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_sele"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_ValueBP",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/RT_ValueBP",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/BP"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "RT_Wave",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/RT_Wave",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/BP"
+    },
+    {
+        "AssetClass": "TextureRenderTarget2D",
+        "AssetName": "T_UI_PL_Screen",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureRenderTarget2D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Practice/Texture/T_UI_PL_Screen",
+        "PackagePath": "/Game/UI/Widget/Practice/Texture"
+    }
+]

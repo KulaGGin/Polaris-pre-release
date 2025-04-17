@@ -1,0 +1,102 @@
+[
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_AML",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_AML",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    },
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_CAT",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_CAT",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    },
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_CBR",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_CBR",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    },
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_CRW",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_CRW",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    },
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_DER",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_DER",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    },
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_HMS",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_HMS",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    },
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_KAL",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_KAL",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    },
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_MNT",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_MNT",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    },
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_RAT",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_RAT",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    },
+    {
+        "AssetClass": "DynamicBoneParamAsset",
+        "AssetName": "DYB_Param_ZBR",
+        "FTopLevelAssetPath": {
+            "AssetName": "DynamicBoneParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/DynamicBone/DYB_Param_ZBR",
+        "PackagePath": "/Game/Character/Item/DynamicBone"
+    }
+]

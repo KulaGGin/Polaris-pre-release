@@ -1,0 +1,82 @@
+[
+    {
+        "AssetClass": "SubsurfaceProfile",
+        "AssetName": "MP_Eye_Profile",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubsurfaceProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialProfiles/MP_Eye_Profile",
+        "PackagePath": "/Game/Common/MaterialProfiles"
+    },
+    {
+        "AssetClass": "SubsurfaceProfile",
+        "AssetName": "SP_skin_V2_okm",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubsurfaceProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/shared/unique_body/okm/materials/SP_skin_V2_okm",
+        "PackagePath": "/Game/Character/Item/shared/unique_body/okm/materials"
+    },
+    {
+        "AssetClass": "SubsurfaceProfile",
+        "AssetName": "SP_skin_V2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubsurfaceProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialProfiles/SP_skin_V2",
+        "PackagePath": "/Game/Common/MaterialProfiles"
+    },
+    {
+        "AssetClass": "SubsurfaceProfile",
+        "AssetName": "SP_skin",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubsurfaceProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialProfiles/SP_skin",
+        "PackagePath": "/Game/Common/MaterialProfiles"
+    },
+    {
+        "AssetClass": "SubsurfaceProfile",
+        "AssetName": "SP_skin_V2_female",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubsurfaceProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialProfiles/SP_skin_V2_female",
+        "PackagePath": "/Game/Common/MaterialProfiles"
+    },
+    {
+        "AssetClass": "SubsurfaceProfile",
+        "AssetName": "SP_skin_V2_female_MFPD5",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubsurfaceProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialProfiles/SP_skin_V2_female_MFPD5",
+        "PackagePath": "/Game/Common/MaterialProfiles"
+    },
+    {
+        "AssetClass": "SubsurfaceProfile",
+        "AssetName": "SP_sekirei",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubsurfaceProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Demo/Ingame/Model/Props/sekirei/materials/SP_sekirei",
+        "PackagePath": "/Game/Demo/Ingame/Model/Props/sekirei/materials"
+    },
+    {
+        "AssetClass": "SubsurfaceProfile",
+        "AssetName": "EyeInner_Profile",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubsurfaceProfile",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/DigitalHuman/Characters/Shared/EyeMaterials/SubsurfaceProfiles/EyeInner_Profile",
+        "PackagePath": "/Game/Marketplace/DigitalHuman/Characters/Shared/EyeMaterials/SubsurfaceProfiles"
+    }
+]

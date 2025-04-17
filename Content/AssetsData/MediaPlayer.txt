@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "MediaPlayer",
+        "AssetName": "Live_MediaPlayer",
+        "FTopLevelAssetPath": {
+            "AssetName": "MediaPlayer",
+            "PackageName": "/Script/MediaAssets"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/MediaPlayer/Live_MediaPlayer",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core/MediaPlayer"
+    }
+]

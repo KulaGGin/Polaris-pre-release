@@ -1,0 +1,202 @@
+[
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_DestructibleNiagara_Stone_12",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Stage/ST02/CSV/HCSV_DestructibleNiagara_Stone_12",
+        "PackagePath": "/Game/Effect/Polariswork/Stage/ST02/CSV"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_DestructibleNiagara_Stone_24",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Stage/ST02/CSV/HCSV_DestructibleNiagara_Stone_24",
+        "PackagePath": "/Game/Effect/Polariswork/Stage/ST02/CSV"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_DestructibleNiagara_Stone_12_ST10",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Stage/ST10/CSV/HCSV_DestructibleNiagara_Stone_12_ST10",
+        "PackagePath": "/Game/Effect/Polariswork/Stage/ST10/CSV"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_DestructibleNiagara_Stone_24_ST10",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Stage/ST10/CSV/HCSV_DestructibleNiagara_Stone_24_ST10",
+        "PackagePath": "/Game/Effect/Polariswork/Stage/ST10/CSV"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_DeadLeaves02_S_RBD",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Debri/DeadLeaves/HCSV_DeadLeaves02_S_RBD",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Debri/DeadLeaves"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_coffee_Ad_set_RBD",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Debri/Debri_TrashSet/HCSV_coffee_Ad_set_RBD",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Debri/Debri_TrashSet"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_Debri_TrashSetA_RBD",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Debri/Debri_TrashSet/HCSV_Debri_TrashSetA_RBD",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Debri/Debri_TrashSet"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_Debri_TrashSetB_RBD",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Debri/Debri_TrashSet/HCSV_Debri_TrashSetB_RBD",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Debri/Debri_TrashSet"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_Debri_TrashSetC_RBD",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Debri/Debri_TrashSet/HCSV_Debri_TrashSetC_RBD",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Debri/Debri_TrashSet"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "PLAZACROWD4fix2",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/PLAZACROWD4fix2",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "NewyorkcrowdBlock1RETAKE",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes/NewyorkcrowdBlock1RETAKE",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "NewyorkcrowdBlock3RETKE",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes/NewyorkcrowdBlock3RETKE",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "NewyorkcrowdRETAKE",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes/NewyorkcrowdRETAKE",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "NEWYORKPLAZA4FIX1RETAKE",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes/NEWYORKPLAZA4FIX1RETAKE",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "NEWYORKPLAZA4FIX1RETAKE2",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes/NEWYORKPLAZA4FIX1RETAKE2",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "PLAZACROWD2fixretake",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes/PLAZACROWD2fixretake",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "PLAZACROWD3fixRETAKE",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes/PLAZACROWD3fixRETAKE",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "PLAZACROWD3fixretake2",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes/PLAZACROWD3fixretake2",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/VATcrowd/Stg02/Niagaracrowd/Retakes"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "HCSV_FoodCartBb_RBD",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Vehicle/Car/FoodCart/HCSV_FoodCartBb_RBD",
+        "PackagePath": "/Game/Stage/Asset-Library/Vehicle/Car/FoodCart"
+    },
+    {
+        "AssetClass": "HoudiniPointCache",
+        "AssetName": "P_on_surface",
+        "FTopLevelAssetPath": {
+            "AssetName": "HoudiniPointCache",
+            "PackageName": "/Script/HoudiniNiagara"
+        },
+        "PackageName": "/HoudiniNiagara/PointCache/P_on_surface",
+        "PackagePath": "/HoudiniNiagara/PointCache"
+    }
+]

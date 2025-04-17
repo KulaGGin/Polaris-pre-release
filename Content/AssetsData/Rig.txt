@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "Rig",
+        "AssetName": "Humanoid",
+        "FTopLevelAssetPath": {
+            "AssetName": "Rig",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineMeshes/Humanoid",
+        "PackagePath": "/Engine/EngineMeshes"
+    }
+]

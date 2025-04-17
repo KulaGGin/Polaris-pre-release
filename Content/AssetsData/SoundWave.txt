@@ -1,0 +1,3162 @@
+[
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_line_short",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_line_short",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ZoneStart",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ZoneStart",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_line_long",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_line_long",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_electric_shock",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_electric_shock",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_TitleStart",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_TitleStart",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "CloseThunder_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_1",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "CloseThunder_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_2",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "CloseThunder_3",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_3",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "CloseThunder_4",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_4",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "CloseThunder_5",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_5",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "CloseThunder_6",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_6",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_1",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_2",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_3",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_3",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_4",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_4",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_5",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_5",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_6",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_6",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_7",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_7",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_8",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_8",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_9",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_9",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_10",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "DistantThunder_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_11",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "LightRain_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/LightRain_1",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "LightRain_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/LightRain_2",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "LightRain_3",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/LightRain_3",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "LightRain_4",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/LightRain_4",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "MediumRain_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/MediumRain_1",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "MediumRain_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/MediumRain_2",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "MediumRain_3",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/MediumRain_3",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "MediumRain_4",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/MediumRain_4",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "RainHit_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/RainHit_1",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "RainHit_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/RainHit_2",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "RainHit_3",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/RainHit_3",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "BrownianNoise_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Wind/BrownianNoise_1",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Wind"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "BrownianNoise_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Wind/BrownianNoise_2",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Wind"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "BrownianNoise_3",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Wind/BrownianNoise_3",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Wind"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "BrownianNoise_4",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Wind/BrownianNoise_4",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Wind"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Wind_Whistling",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Wind/Wind_Whistling",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Wind"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "ACT04_P01_Vo",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Story/Voice/ACT04/ACT04_P01_Vo",
+        "PackagePath": "/Game/Sound/Story/Voice/ACT04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "ACT04_P02_Vo",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Story/Voice/ACT04/ACT04_P02_Vo",
+        "PackagePath": "/Game/Sound/Story/Voice/ACT04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_AML_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/AML/Vib_AML_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/AML"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_ANT_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/ANT/Vib_ANT_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/ANT"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_ANT_RageArts_n_karate",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/ANT/Vib_ANT_RageArts_n_karate",
+        "PackagePath": "/Game/Sound/Vibration/Character/ANT"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_ANT_RageArts_n_KO",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/ANT/Vib_ANT_RageArts_n_KO",
+        "PackagePath": "/Game/Sound/Vibration/Character/ANT"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_BBN_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/BBN/Vib_BBN_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/BBN"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_BEE_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/BEE/Vib_BEE_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/BEE"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_BEE_RageArts_n_KO",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/BEE/Vib_BEE_RageArts_n_KO",
+        "PackagePath": "/Game/Sound/Vibration/Character/BEE"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_BEE_RageArts_n_shadow",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/BEE/Vib_BEE_RageArts_n_shadow",
+        "PackagePath": "/Game/Sound/Vibration/Character/BEE"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_BEE_RageArts_n_st",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/BEE/Vib_BEE_RageArts_n_st",
+        "PackagePath": "/Game/Sound/Vibration/Character/BEE"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_BSN_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/BSN/Vib_BSN_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/BSN"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_CAT_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/CAT/Vib_CAT_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/CAT"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_CBR_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/CBR/Vib_CBR_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/CBR"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_CCN_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/CCN/Vib_CCN_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/CCN"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_CHT_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/CHT/Vib_CHT_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/CHT"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_CML_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/CML/Vib_CML_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/CML"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_CRW_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/CRW/Vib_CRW_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/CRW"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_CTR_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/CTR/Vib_CTR_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/CTR"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_DER_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/DER/Vib_DER_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/DER"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_DOG_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/DOG/Vib_DOG_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/DOG"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_GHP_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/GHP/Vib_GHP_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/GHP"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_GRF_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/GRF/Vib_GRF_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/GRF"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_GRL_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/GRL/Vib_GRL_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/GRL"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_GRL_RageArts_n_KO",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/GRL/Vib_GRL_RageArts_n_KO",
+        "PackagePath": "/Game/Sound/Vibration/Character/GRL"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_HMS_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/HMS/Vib_HMS_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/HMS"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_HRS_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/HRS/Vib_HRS_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/HRS"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_JLY_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/JLY/Vib_JLY_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/JLY"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_KAL_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/KAL/Vib_KAL_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/KAL"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_KLW_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/KLW/Vib_KLW_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/KLW"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_KMD_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/KMD/Vib_KMD_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/KMD"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_LON_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/LON/Vib_LON_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/LON"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_LZD_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/LZD/Vib_LZD_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/LZD"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_MNT_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/MNT/Vib_MNT_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/MNT"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_OKM_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/OKM/Vib_OKM_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/OKM"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_PGN_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/PGN/Vib_PGN_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/PGN"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_PIG_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/PIG/Vib_PIG_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/PIG"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_PIG_RageArts_n_KO",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/PIG/Vib_PIG_RageArts_n_KO",
+        "PackagePath": "/Game/Sound/Vibration/Character/PIG"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RAT_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/RAT/Vib_RAT_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/RAT"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RBT_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/RBT/Vib_RBT_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/RBT"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_SNK_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/SNK/Vib_SNK_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/SNK"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_SWL_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/SWL/Vib_SWL_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/SWL"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_TTR_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/TTR/Vib_TTR_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/TTR"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_WLF_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/WLF/Vib_WLF_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/WLF"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_XXA_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/XXA/Vib_XXA_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/XXA"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_XXB_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/XXB/Vib_XXB_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/XXB"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_ZBR_RageArts_n",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/ZBR/Vib_ZBR_RageArts_n",
+        "PackagePath": "/Game/Sound/Vibration/Character/ZBR"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_ZBR_RageArts_n_KO",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Character/ZBR/Vib_ZBR_RageArts_n_KO",
+        "PackagePath": "/Game/Sound/Vibration/Character/ZBR"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act00_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act00/Vib_Act00_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act00"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act01_PRE1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act01/Vib_Act01_PRE1",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act01_PRE2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act01/Vib_Act01_PRE2",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act01_PRE3",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act01/Vib_Act01_PRE3",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act01_PRE4",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act01/Vib_Act01_PRE4",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act02_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act02/Vib_Act02_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act02_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act02/Vib_Act02_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act03_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act03/Vib_Act03_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act03_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act03/Vib_Act03_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act03_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act03/Vib_Act03_p04",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act03_p05",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act03/Vib_Act03_p05",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act04_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act04/Vib_Act04_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act04_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act04/Vib_Act04_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p04",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p05",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p05",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p06",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p06",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p07",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p07",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p08",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p08",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p09",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p09",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act05_p10",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act05/Vib_Act05_p10",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act06_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act06/Vib_Act06_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act06_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act06/Vib_Act06_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act07_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act07/Vib_Act07_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act07_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act07/Vib_Act07_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act07_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act07/Vib_Act07_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act08_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act08/Vib_Act08_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act08_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act08/Vib_Act08_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act09_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act09/Vib_Act09_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act09"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act09_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act09/Vib_Act09_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act09"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p04",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p05",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p05",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p06",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p06",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p07",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p07",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p08",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p08",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p09",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p09",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p10",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p10",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p11",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p11",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p12",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p12",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act10_p13",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act10/Vib_Act10_p13",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act11_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act11/Vib_Act11_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act11"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act11_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act11/Vib_Act11_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act11"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act11_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act11/Vib_Act11_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act11"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act12_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act12/Vib_Act12_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act12"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act12_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act12/Vib_Act12_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act12"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act12_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act12/Vib_Act12_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act12"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act12_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act12/Vib_Act12_p04",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act12"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act13_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act13/Vib_Act13_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act13"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act13_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act13/Vib_Act13_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act13"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act13_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act13/Vib_Act13_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act13"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act14_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act14/Vib_Act14_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act14_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act14/Vib_Act14_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act14_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act14/Vib_Act14_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act15_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act15/Vib_Act15_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act15_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act15/Vib_Act15_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act15_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act15/Vib_Act15_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act15_p04",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act15/Vib_Act15_p04",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act15_p05",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act15/Vib_Act15_p05",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act15_p06",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act15/Vib_Act15_p06",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act15_p07",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act15/Vib_Act15_p07",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Act15_p08",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/MainStory/Act15/Vib_Act15_p08",
+        "PackagePath": "/Game/Sound/Vibration/Movie/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac01_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act01/Vib_yac01_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac01_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act01/Vib_yac01_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac01_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act01/Vib_yac01_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac02_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act02/Vib_yac02_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac02_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act02/Vib_yac02_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac02_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act02/Vib_yac02_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac03_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act03/Vib_yac03_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac03_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act03/Vib_yac03_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac03_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act03/Vib_yac03_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac04_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act04/Vib_yac04_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac04_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act04/Vib_yac04_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac04_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act04/Vib_yac04_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac05_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act05/Vib_yac05_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac05_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act05/Vib_yac05_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac05_p03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act05/Vib_yac05_p03",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac06_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act06/Vib_yac06_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac06_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act06/Vib_yac06_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac07_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act07/Vib_yac07_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac07_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act07/Vib_yac07_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac08_p01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act08/Vib_yac08_p01",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_yac08_p02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/Movie/YellowBook/Act08/Vib_yac08_p02",
+        "PackagePath": "/Game/Sound/Vibration/Movie/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_1_attack",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_1_attack",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_1_dodge",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_1_dodge",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_1_fail",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_1_fail",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_1_start",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_1_start",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_b01_a05",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_b01_a05",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_b01_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_b01_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_b02_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_b02_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_b03_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_b03_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act01_b03_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act01/Vib_RT_Act01_b03_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act02_b01_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act02/Vib_RT_Act02_b01_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_b01_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_b01_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_b01_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_b01_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_b02_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_b02_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_b03_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_b03_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_b04_a01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_b04_a01",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_b04_a02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_b04_a02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_b04_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_b04_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_b04_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_b04_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act03_RageArts",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act03/Vib_RT_Act03_RageArts",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b01_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b01_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b01_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b01_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b01_w01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b01_w01",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b02_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b02_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b02_w01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b02_w01",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b03_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b03_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b03_w01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b03_w01",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b04_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b04_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b04_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b04_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b04_w01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b04_w01",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b05_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b05_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b06_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b06_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b06_a01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b06_a01",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b06_a02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b06_a02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act05_b06_a03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act05/Vib_RT_Act05_b06_a03",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act06_b01_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act06/Vib_RT_Act06_b01_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act06_b02_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act06/Vib_RT_Act06_b02_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act06_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act06/Vib_RT_Act06_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act07_b01_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act07/Vib_RT_Act07_b01_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act07_b01_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act07/Vib_RT_Act07_b01_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act07_b02_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act07/Vib_RT_Act07_b02_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act07_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act07/Vib_RT_Act07_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act08_b01_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act08/Vib_RT_Act08_b01_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act09_b01_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act09/Vib_RT_Act09_b01_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act09"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act10_b01_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act10/Vib_RT_Act10_b01_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act10_b04_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act10/Vib_RT_Act10_b04_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act10_b05_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act10/Vib_RT_Act10_b05_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act10_b06_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act10/Vib_RT_Act10_b06_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act10_b09_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act10/Vib_RT_Act10_b09_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act10_b10_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act10/Vib_RT_Act10_b10_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act10_b12_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act10/Vib_RT_Act10_b12_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act10_b12_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act10/Vib_RT_Act10_b12_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act10"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act11_b02_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act11/Vib_RT_Act11_b02_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act11"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act12_b01_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act12/Vib_RT_Act12_b01_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act12"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act12_b02_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act12/Vib_RT_Act12_b02_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act12"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act12_b03_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act12/Vib_RT_Act12_b03_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act12"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act13_b01_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act13/Vib_RT_Act13_b01_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act13"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act13_b01_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act13/Vib_RT_Act13_b01_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act13"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act13_b02_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act13/Vib_RT_Act13_b02_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act13"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act14_b01_a03",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act14/Vib_RT_Act14_b01_a03",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act14_b01_a04",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act14/Vib_RT_Act14_b01_a04",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act14_b01_a05",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act14/Vib_RT_Act14_b01_a05",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act14_b01_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act14/Vib_RT_Act14_b01_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act14_b01_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act14/Vib_RT_Act14_b01_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act14_b02_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act14/Vib_RT_Act14_b02_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act14_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act14/Vib_RT_Act14_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act14"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b01_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b01_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b01_a07",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b01_a07",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b01_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b01_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b02_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b02_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b02_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b02_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b03_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b03_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_a01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_a01",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_a02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_a02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_a04",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_a04",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_a05",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_a05",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_a06",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_a06",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_a07",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_a07",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_a08",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_a08",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_a10",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_a10",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_Act15_b04_w01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/MainStory/Act15/Vib_RT_Act15_b04_w01",
+        "PackagePath": "/Game/Sound/Vibration/RT/MainStory/Act15"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac01_b01_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act01/Vib_RT_yac01_b01_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac01_b01_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act01/Vib_RT_yac01_b01_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac01_b01_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act01/Vib_RT_yac01_b01_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac01_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act01/Vib_RT_yac01_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act01"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac02_b01_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act02/Vib_RT_yac02_b01_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac02_b01_a02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act02/Vib_RT_yac02_b01_a02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac02_b01_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act02/Vib_RT_yac02_b01_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac02_b02_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act02/Vib_RT_yac02_b02_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac02_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act02/Vib_RT_yac02_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac02_b03_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act02/Vib_RT_yac02_b03_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac02_b03_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act02/Vib_RT_yac02_b03_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac02_dDm_XXCbombAC09_story",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act02/Vib_RT_yac02_dDm_XXCbombAC09_story",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac02_Xxc_StageIn04_story",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act02/Vib_RT_yac02_Xxc_StageIn04_story",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act02"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac03_b01_s00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act03/Vib_RT_yac03_b01_s00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac03_b01_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act03/Vib_RT_yac03_b01_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac03_b02_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act03/Vib_RT_yac03_b02_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac03_dDm_deleteU_YAC",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act03/Vib_RT_yac03_dDm_deleteU_YAC",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act03"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac04_b01_s02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act04/Vib_RT_yac04_b01_s02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac04_b02_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act04/Vib_RT_yac04_b02_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac04_b02_a01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act04/Vib_RT_yac04_b02_a01",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac04_RageArts",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act04/Vib_RT_yac04_RageArts",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act04"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac05_bee_s01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act05/Vib_RT_yac05_bee_s01",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act05"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac06_b01_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act06/Vib_RT_yac06_b01_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac06_bee_sta_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act06/Vib_RT_yac06_bee_sta_01",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac06_bee_sta_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act06/Vib_RT_yac06_bee_sta_02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act06"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac07_b01_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act07/Vib_RT_yac07_b01_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac07_b01_a02",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act07/Vib_RT_yac07_b01_a02",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac07_b01_a04",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act07/Vib_RT_yac07_b01_a04",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac07_bee_sta_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act07/Vib_RT_yac07_bee_sta_00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac07_He_sKAM00_v1_YAC7B1END",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act07/Vib_RT_yac07_He_sKAM00_v1_YAC7B1END",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act07"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_b01_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_b01_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_b02_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_b02_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_b02_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_b02_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_b03_a00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_b03_a00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_b03_w00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_b03_w00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_b03_w01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_b03_w01",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_bee_RageArts01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_bee_RageArts01",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_cbr_RageArts",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_cbr_RageArts",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_cml_sta_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_cml_sta_01",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_dog_sta_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_dog_sta_00",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_RT_yac08_fate_bee_cbrvsbee_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/RT/YellowBook/Act08/Vib_RT_yac08_fate_bee_cbrvsbee_10",
+        "PackagePath": "/Game/Sound/Vibration/RT/YellowBook/Act08"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST07_Co_floorblast",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST07_Co_floorblast",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST09_Fall",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST09_Fall",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST10_Co_Wallbreak",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST10_Co_Wallbreak",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST10_Destruction",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST10_Destruction",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST11_Destruction",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST11_Destruction",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST12_balconybreak",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST12_balconybreak",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST12_FallBalconyFKAM1-2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST12_FallBalconyFKAM1-2",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST14_Co_Wallbreak",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST14_Co_Wallbreak",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST15_Co_Wbound",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST15_Co_Wbound",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST15_FallBalconyFKAM1-3",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST15_FallBalconyFKAM1-3",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST16_Co_Wallbomber",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST16_Co_Wallbomber",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST19_Destruction",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST19_Destruction",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST19_Destruction2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST19_Destruction2",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST19_floorblast",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST19_floorblast",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST19_Prestart",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST19_Prestart",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    },
+    {
+        "AssetClass": "SoundWave",
+        "AssetName": "Vib_Sys_ST19_Wbound",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundWave",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/Vibration/System/Vib_Sys_ST19_Wbound",
+        "PackagePath": "/Game/Sound/Vibration/System"
+    }
+]

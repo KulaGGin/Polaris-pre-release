@@ -1,0 +1,1712 @@
+[
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_DevilFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_DevilFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PowerCrushFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PowerCrushFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_ZoneFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ZoneFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_RageFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_RageFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_FinishZoneFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_FinishZoneFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_RageFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_RageFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_ZoneRageFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ZoneRageFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_WarpFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_WarpFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_RageFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_RageFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_BlinkFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_BlinkFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_ChipDamageFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ChipDamageFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_DevilFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_DevilFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_WarpFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_WarpFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_FinishZoneFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_FinishZoneFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_ChipDamageFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ChipDamageFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_ChipDamageFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ChipDamageFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_ZoneFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ZoneFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_FinishZoneFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_FinishZoneFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_DevilFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_DevilFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_BlinkFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_BlinkFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PowerCrushFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PowerCrushFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_WarpFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_WarpFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PowerCrushFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PowerCrushFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_ZoneRageFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ZoneRageFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_ZoneRageFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ZoneRageFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_BlinkFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_BlinkFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PreExplosionFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PreExplosionFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_ZoneFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ZoneFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PreExplosionFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PreExplosionFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_FinishDevilFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_FinishDevilFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_FinishDevilFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_FinishDevilFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_FinishDevilFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_FinishDevilFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PreExplosionFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PreExplosionFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_LightningFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_LightningFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_LightningFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_LightningFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_LightningFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_LightningFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "A_UI_ScrollText_Out",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Elements/Curve/A_UI_ScrollText_Out",
+        "PackagePath": "/Game/UI/Widget/Elements/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "A_UI_ScrollText_In",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Elements/Curve/A_UI_ScrollText_In",
+        "PackagePath": "/Game/UI/Widget/Elements/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FadeCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/FadeCurve",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/BP"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CameraCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/CameraCurve",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/BP"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_ex0Fresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/Demo/FX_Okm_ex0Fresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/Demo"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_DodgeFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_DodgeFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_ex0Fresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/Demo/FX_Okm_ex0Fresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/Demo"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_PhkFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_PhkFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_ex0Fresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/Demo/FX_Okm_ex0Fresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/Demo"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/05/FX_Okm_Fresnel_Intensity_Curve_05",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/05"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/00/FX_Okm_Fresnel_Power_Curve_00",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/00"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/00/FX_Okm_Fresnel_Intensity_Curve_00",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/00"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/08/FX_Okm_Fresnel_Power_Curve_08",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/08"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/09/FX_Okm_Fresnel_Intensity_Curve_09",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/09"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/09/FX_Okm_Fresnel_Emissive_Curve_09",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/09"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/06/FX_Okm_Fresnel_Intensity_Curve_06",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/06"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/08/FX_Okm_Fresnel_Intensity_Curve_08",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/08"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/03/FX_Okm_Fresnel_Emissive_Curve_03",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/03"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/10/FX_Okm_Fresnel_Intensity_Curve_10",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/10"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/00/FX_Okm_Fresnel_Emissive_Curve_00",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/00"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_PhkFresnel_Emissive1_Mask_CotrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_PhkFresnel_Emissive1_Mask_CotrastCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_OKM_KisekiScaleCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/okm/FC_OKM_KisekiScaleCurve",
+        "PackagePath": "/Game/Character/Trace/okm"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/05/FX_Okm_Fresnel_Power_Curve_05",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/05"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/07/FX_Okm_Fresnel_Emissive_Curve_07",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/07"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/09/FX_Okm_Fresnel_Power_Curve_09",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/09"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/06/FX_Okm_Fresnel_Power_Curve_06",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/06"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11/FX_Okm_Fresnel_Intensity_Curve_11",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/04/FX_Okm_Fresnel_Intensity_Curve_04",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/04"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11/FX_Okm_Fresnel_Emissive_Curve_11",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/03/FX_Okm_Fresnel_Power_Curve_03",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/03"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11/FX_Okm_Fresnel_Power_Curve_11",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/04/FX_Okm_Fresnel_Emissive_Curve_04",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/04"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/02/FX_Okm_Fresnel_Emissive_Curve_02",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/02"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/10/FX_Okm_Fresnel_Emissive_Curve_10",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/10"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/07/FX_Okm_Fresnel_Intensity_Curve_07",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/07"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/07/FX_Okm_Fresnel_Power_Curve_07",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/07"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/02/FX_Okm_Fresnel_Intensity_Curve_02",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/02"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/01/FX_Okm_Fresnel_Intensity_Curve_01",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/01"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/08/FX_Okm_Fresnel_Emissive_Curve_08",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/08"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/02/FX_Okm_Fresnel_Power_Curve_02",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/02"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/05/FX_Okm_Fresnel_Emissive_Curve_05",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/05"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/01/FX_Okm_Fresnel_Emissive_Curve_01",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/01"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/01/FX_Okm_Fresnel_Power_Curve_01",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/01"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Intensity_Curve_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/03/FX_Okm_Fresnel_Intensity_Curve_03",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/03"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Emissive_Curve_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/06/FX_Okm_Fresnel_Emissive_Curve_06",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/06"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/04/FX_Okm_Fresnel_Power_Curve_04",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/04"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Fresnel_Power_Curve_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/10/FX_Okm_Fresnel_Power_Curve_10",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/10"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_DodgeFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_DodgeFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_PhkFresnelFinish_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11/FX_Okm_PhkFresnelFinish_ContrastCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_PhkFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_PhkFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_PhkFresnelFinish_Emissive1_Mask_CotrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11/FX_Okm_PhkFresnelFinish_Emissive1_Mask_CotrastCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Phosft_Curve_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_Phosft_Curve_01",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_Phosft_Curve_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_Phosft_Curve_00",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_WarpFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_WarpFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_WarpFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_WarpFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_PhkFresnelFinish_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11/FX_Okm_PhkFresnelFinish_IntensityCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_WarpFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_WarpFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_DodgeFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_DodgeFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_PhkFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_PhkFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_Okm_PhkFresnelFinish_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11/FX_Okm_PhkFresnelFinish_AlphaCurve",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CV_BlackPen_CharacterViewer_Accessory_SizeRatio",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/CharacterViewer/CV_BlackPen_CharacterViewer_Accessory_SizeRatio",
+        "PackagePath": "/Game/BlackPen/CharacterViewer"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "UDSDummyCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Sky/UDS/UDSDummyCurve",
+        "PackagePath": "/Game/Blueprints/Sky/UDS"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_CH_bee_exp_heat",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/bee/extra/bee_exp_heat/materials/FC_CH_bee_exp_heat",
+        "PackagePath": "/Game/Character/Item/model/unique/bee/extra/bee_exp_heat/materials"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_ANT_KisekiScaleCurve_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/ant/FC_ANT_KisekiScaleCurve_LR",
+        "PackagePath": "/Game/Character/Trace/ant"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_CML_KisekiScaleCurve_L",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/cml/FC_CML_KisekiScaleCurve_L",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_CML_KisekiScaleCurve_L2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/cml/FC_CML_KisekiScaleCurve_L2",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_CML_KisekiScaleCurve_R",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/cml/FC_CML_KisekiScaleCurve_R",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_CRW_KisekiScaleCurve_L",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/crw/FC_CRW_KisekiScaleCurve_L",
+        "PackagePath": "/Game/Character/Trace/crw"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_JLY_KisekiScaleCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/jly/FC_JLY_KisekiScaleCurve",
+        "PackagePath": "/Game/Character/Trace/jly"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_LON_KisekiScaleCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/lon/FC_LON_KisekiScaleCurve",
+        "PackagePath": "/Game/Character/Trace/lon"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_LON_KisekiScaleCurve1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/lon/FC_LON_KisekiScaleCurve1",
+        "PackagePath": "/Game/Character/Trace/lon"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_LON_KisekiScaleCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/lon/FC_LON_KisekiScaleCurve2",
+        "PackagePath": "/Game/Character/Trace/lon"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_MNT_KisekiScaleCurve_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/mnt/FC_MNT_KisekiScaleCurve_LR",
+        "PackagePath": "/Game/Character/Trace/mnt"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_OKM_KisekiScaleCurve1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/okm/FC_OKM_KisekiScaleCurve1",
+        "PackagePath": "/Game/Character/Trace/okm"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_OKM_KisekiScaleCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/okm/FC_OKM_KisekiScaleCurve2",
+        "PackagePath": "/Game/Character/Trace/okm"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_PIG_KisekiScaleCurve_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/pig/FC_PIG_KisekiScaleCurve_LR",
+        "PackagePath": "/Game/Character/Trace/pig"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_PIG_KisekiScaleCurve_LR2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/pig/FC_PIG_KisekiScaleCurve_LR2",
+        "PackagePath": "/Game/Character/Trace/pig"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_RBT_KisekiScaleCurve_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/rbt/FC_RBT_KisekiScaleCurve_LR",
+        "PackagePath": "/Game/Character/Trace/rbt"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_SWL_KisekiScaleCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/swl/FC_SWL_KisekiScaleCurve",
+        "PackagePath": "/Game/Character/Trace/swl"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_SWL_KisekiScaleCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/swl/FC_SWL_KisekiScaleCurve2",
+        "PackagePath": "/Game/Character/Trace/swl"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_SWL_KisekiScaleCurve3",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/swl/FC_SWL_KisekiScaleCurve3",
+        "PackagePath": "/Game/Character/Trace/swl"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_TTR_KisekiScaleCurve_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/ttr/FC_TTR_KisekiScaleCurve_LR",
+        "PackagePath": "/Game/Character/Trace/ttr"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_XXA_KisekiScaleCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/xxa/FC_XXA_KisekiScaleCurve",
+        "PackagePath": "/Game/Character/Trace/xxa"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_XXA_KisekiScaleCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Trace/xxa/FC_XXA_KisekiScaleCurve2",
+        "PackagePath": "/Game/Character/Trace/xxa"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_BlinkZoneRageFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_BlinkZoneRageFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_BlinkZoneRageFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_BlinkZoneRageFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_BlinkZoneRageFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_BlinkZoneRageFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_HeatFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_HeatFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_HeatFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_HeatFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_HeatFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_HeatFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_LightningFresnel_AlphaCurve_test",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_LightningFresnel_AlphaCurve_test",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_LightningFresnel_ContrastCurve_test",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_LightningFresnel_ContrastCurve_test",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_LightningFresnel_IntensityCurve_test",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_LightningFresnel_IntensityCurve_test",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PoisonFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PoisonFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PoisonFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PoisonFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PoisonFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PoisonFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PreExplosionFresnel_IntensityCurve1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PreExplosionFresnel_IntensityCurve1",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_PreExplosionFresnel_IntensityCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PreExplosionFresnel_IntensityCurve2",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_RageDriveFresnel_AlphaCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_RageDriveFresnel_AlphaCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_RageDriveFresnel_ContrastCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_RageDriveFresnel_ContrastCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FX_RageDriveFresnel_IntensityCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_RageDriveFresnel_IntensityCurve",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "NormalRotation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves/NormalRotation",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "ResponsiveRotation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves/ResponsiveRotation",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "SluggishRotation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves/SluggishRotation",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "C_DistanceToSizeLogo",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/Chameleon/Curves/C_DistanceToSizeLogo",
+        "PackagePath": "/Game/Marketplace/Chameleon/Curves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "BridgeCurve3",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/SmartSplineGen/Blueprints/BridgeCurves/BridgeCurve3",
+        "PackagePath": "/Game/Marketplace/SmartSplineGen/Blueprints/BridgeCurves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FogDensity_Curve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves/FogDensity_Curve",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "Moon_Intensity",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves/Moon_Intensity",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "Night_Filter",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves/Night_Filter",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "Shine_Intensity",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves/Shine_Intensity",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "Stars_Intensity",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves/Stars_Intensity",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "Sun_Highlight_Intensity",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves/Sun_Highlight_Intensity",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Float_Curves"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "Rain_Fadein_Curve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/Rain_Fadein_Curve",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlcapaJump_Normal5",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/CurveAlcapaJump_Normal5",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlcapaJump_X1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/CurveAlcapaJump_X1",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlcapaRot_Z360Spin",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/CurveAlcapaRot_Z360Spin",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlcapaJump_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/CurveAlcapaJump_Normal",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlcapaJump_Normal2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/CurveAlcapaJump_Normal2",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlcapaJump_Normal3",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/CurveAlcapaJump_Normal3",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlcapaJump_X",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/CurveAlcapaJump_X",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlcapaJump_YSwing",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/CurveAlcapaJump_YSwing",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlpaca_Rotate",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/CurveAlpaca_Rotate",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlpaca_Rotate2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/CurveAlpaca_Rotate2",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "CurveAlpaca_Rotate3",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/CurveAlpaca_Rotate3",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "Identify",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/Identify",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_UI_CharSelect_FacePanel",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/CharSelect/Curve/FC_UI_CharSelect_FacePanel",
+        "PackagePath": "/Game/UI/Widget/CharSelect/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_UI_CharSelect_RedFrame",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/CharSelect/Curve/FC_UI_CharSelect_RedFrame",
+        "PackagePath": "/Game/UI/Widget/CharSelect/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_UI_CharSelect_RedPanel",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/CharSelect/Curve/FC_UI_CharSelect_RedPanel",
+        "PackagePath": "/Game/UI/Widget/CharSelect/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "A_UI_ScrollText_Speed",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Elements/Curve/A_UI_ScrollText_Speed",
+        "PackagePath": "/Game/UI/Widget/Elements/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "A_UI_LB_maptarget",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Lobby/Curve/A_UI_LB_maptarget",
+        "PackagePath": "/Game/UI/Widget/Lobby/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "BannerAnimationCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/MainMenu/Curve/BannerAnimationCurve",
+        "PackagePath": "/Game/UI/Widget/MainMenu/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "LineAnimationCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/MainMenu/Curve/LineAnimationCurve",
+        "PackagePath": "/Game/UI/Widget/MainMenu/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "A_UI_RS_Button_Select_One",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Result/Curve/A_UI_RS_Button_Select_One",
+        "PackagePath": "/Game/UI/Widget/Result/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_UI_Result_New_RankProgress_Scroll",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Result/Curve/FC_UI_Result_New_RankProgress_Scroll",
+        "PackagePath": "/Game/UI/Widget/Result/Curve"
+    },
+    {
+        "AssetClass": "CurveFloat",
+        "AssetName": "FC_UI_Result_New_Reward",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveFloat",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Result/Curve/FC_UI_Result_New_Reward",
+        "PackagePath": "/Game/UI/Widget/Result/Curve"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "TilingCurl16",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/VectorFields/Assets/TilingCurl16",
+        "PackagePath": "/Niagara/VectorFields/Assets"
+    },
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "TilingCurl32",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/VectorFields/Assets/TilingCurl32",
+        "PackagePath": "/Niagara/VectorFields/Assets"
+    },
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "VF_EF_vectorsample_500",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/cmn/VectorField/VF_EF_vectorsample_500",
+        "PackagePath": "/Game/Effect/Polariswork/Character/cmn/VectorField"
+    },
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "VF_EF_CMN_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/VectorField/VF_EF_CMN_01",
+        "PackagePath": "/Game/Effect/Polariswork/Common/VectorField"
+    },
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "VF_EF_Critical01",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/VectorField/VF_EF_Critical01",
+        "PackagePath": "/Game/Effect/Polariswork/Common/VectorField"
+    },
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "VF_EF_Critical02",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/VectorField/VF_EF_Critical02",
+        "PackagePath": "/Game/Effect/Polariswork/Common/VectorField"
+    },
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "VF_EF_CriticalTest",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/VectorField/VF_EF_CriticalTest",
+        "PackagePath": "/Game/Effect/Polariswork/Common/VectorField"
+    },
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "VF_EF_Hit_500",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/VectorField/VF_EF_Hit_500",
+        "PackagePath": "/Game/Effect/Polariswork/Common/VectorField"
+    },
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "VectorField_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/Realistic_Starter_VFX_Pack_Niagara/Vectorfields/VectorField_2",
+        "PackagePath": "/Game/Marketplace/Realistic_Starter_VFX_Pack_Niagara/Vectorfields"
+    },
+    {
+        "AssetClass": "VectorFieldStatic",
+        "AssetName": "TilingCurl64",
+        "FTopLevelAssetPath": {
+            "AssetName": "VectorFieldStatic",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/VectorFields/Assets/TilingCurl64",
+        "PackagePath": "/Niagara/VectorFields/Assets"
+    }
+]

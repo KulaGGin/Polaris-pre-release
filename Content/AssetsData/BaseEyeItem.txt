@@ -1,0 +1,772 @@
+[
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_aml_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/aml/BEI_aml_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/aml"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_aml_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/aml/BEI_aml_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/aml"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_ant_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/ant/BEI_ant_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/ant"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_ant_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/ant/BEI_ant_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/ant"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_bbn_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/bbn/BEI_bbn_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/bbn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_bbn_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/bbn/BEI_bbn_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/bbn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_bee_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/bee/BEI_bee_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/bee"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_bee_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/bee/BEI_bee_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/bee"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_bsn_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/bsn/BEI_bsn_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/bsn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_bsn_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/bsn/BEI_bsn_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/bsn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cat_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cat/BEI_cat_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cat"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cat_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cat/BEI_cat_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cat"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cbr_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cbr/BEI_cbr_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cbr"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cbr_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cbr/BEI_cbr_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cbr"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_ccn_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/ccn/BEI_ccn_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/ccn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_ccn_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/ccn/BEI_ccn_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/ccn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cht_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cht/BEI_cht_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cht"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cht_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cht/BEI_cht_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cht"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_beast01",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_beast01",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_beast02",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_beast02",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_dial",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_dial",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_dragon",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_dragon",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_eight",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_eight",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_electron",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_electron",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_heartmark",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_heartmark",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_kanzi_ryu",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_kanzi_ryu",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_mz",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_mz",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_pentagram",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_pentagram",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_snow_crystal",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_snow_crystal",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_solarsymbol",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_solarsymbol",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_sunflower",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_sunflower",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_taijitu",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_taijitu",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_cmn_eye_universe",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/cmn/BEI_cmn_eye_universe",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/cmn"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_crw_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/crw/BEI_crw_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/crw"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_crw_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/crw/BEI_crw_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/crw"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_ctr_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/ctr/BEI_ctr_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/ctr"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_ctr_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/ctr/BEI_ctr_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/ctr"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_der_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/der/BEI_der_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/der"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_der_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/der/BEI_der_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/der"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_dog_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/dog/BEI_dog_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/dog"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_dog_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/dog/BEI_dog_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/dog"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_ghp_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/ghp/BEI_ghp_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/ghp"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_ghp_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/ghp/BEI_ghp_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/ghp"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_grf_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/grf/BEI_grf_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/grf"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_grf_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/grf/BEI_grf_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/grf"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_grl_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/grl/BEI_grl_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/grl"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_grl_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/grl/BEI_grl_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/grl"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_hms_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/hms/BEI_hms_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/hms"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_hms_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/hms/BEI_hms_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/hms"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_hrs_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/hrs/BEI_hrs_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/hrs"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_hrs_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/hrs/BEI_hrs_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/hrs"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_jly_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/jly/BEI_jly_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/jly"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_jly_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/jly/BEI_jly_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/jly"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_kal_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/kal/BEI_kal_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/kal"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_kal_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/kal/BEI_kal_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/kal"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_klw_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/klw/BEI_klw_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/klw"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_klw_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/klw/BEI_klw_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/klw"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_kmd_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/kmd/BEI_kmd_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/kmd"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_kmd_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/kmd/BEI_kmd_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/kmd"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_lon_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/lon/BEI_lon_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/lon"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_lon_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/lon/BEI_lon_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/lon"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_lzd_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/lzd/BEI_lzd_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/lzd"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_lzd_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/lzd/BEI_lzd_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/lzd"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_mnt_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/mnt/BEI_mnt_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/mnt"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_mnt_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/mnt/BEI_mnt_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/mnt"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_pig_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/pig/BEI_pig_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/pig"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_pig_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/pig/BEI_pig_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/pig"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_rat_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/rat/BEI_rat_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/rat"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_rat_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/rat/BEI_rat_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/rat"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_snk_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/snk/BEI_snk_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/snk"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_snk_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/snk/BEI_snk_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/snk"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_swl_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/swl/BEI_swl_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/swl"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_swl_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/swl/BEI_swl_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/swl"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_wlf_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/wlf/BEI_wlf_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/wlf"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_wlf_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/wlf/BEI_wlf_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/wlf"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_zbr_eye_default",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/zbr/BEI_zbr_eye_default",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/zbr"
+    },
+    {
+        "AssetClass": "BaseEyeItem",
+        "AssetName": "BEI_zbr_eye_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "BaseEyeItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Base_Eye_Item/zbr/BEI_zbr_eye_white",
+        "PackagePath": "/Game/Character/Item/Base_Eye_Item/zbr"
+    }
+]

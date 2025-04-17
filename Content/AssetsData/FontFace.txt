@@ -1,0 +1,382 @@
+[
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "DroidSansFallback",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/Faces/DroidSansFallback",
+        "PackagePath": "/Engine/EngineFonts/Faces"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "RobotoLight",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/Faces/RobotoLight",
+        "PackagePath": "/Engine/EngineFonts/Faces"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "RobotoItalic",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/Faces/RobotoItalic",
+        "PackagePath": "/Engine/EngineFonts/Faces"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "RobotoRegular",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/Faces/RobotoRegular",
+        "PackagePath": "/Engine/EngineFonts/Faces"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "RobotoBold",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/Faces/RobotoBold",
+        "PackagePath": "/Engine/EngineFonts/Faces"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "RobotoBoldItalic",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/Faces/RobotoBoldItalic",
+        "PackagePath": "/Engine/EngineFonts/Faces"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "FOT-UDKAKUGO_LARGEPR6N-M",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/FOT-UDKAKUGO_LARGEPR6N-M",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "EmptyFont",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/EmptyFont",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NotoSansCJKjp-Regular",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NotoSansCJKjp-Regular",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NotoSansCJKjp-Medium",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NotoSansCJKjp-Medium",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "FOT-TSUKUGOPRO-E",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/FOT-TSUKUGOPRO-E",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "SupplementalFont-Regular",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/SupplementalFont-Regular",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NotoSansArabic-Condensed",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NotoSansArabic-Condensed",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "AKKOPRO-CONDENSED",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/AKKOPRO-CONDENSED",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "BebasNeueForBDMono-SmERg",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/BebasNeueForBDMono-SmERg",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "BebasNeueForBDMono-SmEBd",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/BebasNeueForBDMono-SmEBd",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "BebasNeuePro-SmEBd",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/BebasNeuePro-SmEBd",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NEUEFRUTIGERWORLD-BOLD",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NEUEFRUTIGERWORLD-BOLD",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NEUEFRUTIGERWORLD-REGULAR",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NEUEFRUTIGERWORLD-REGULAR",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NotoSans-Condensed",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NotoSans-Condensed",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "FOT-UDKAKUGO_LARGEPR6N-DB",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/FOT-UDKAKUGO_LARGEPR6N-DB",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NotoLoopedThai-Condensed",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NotoLoopedThai-Condensed",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "BebasNeuePro-SmERg",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/BebasNeuePro-SmERg",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "BebasNeueForBandai-SmEBd",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/BebasNeueForBandai-SmEBd",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "BebasNeueForBandai-SmERg",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/BebasNeueForBandai-SmERg",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "FOT-NEWCINEMAASTD-D",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/FOT-NEWCINEMAASTD-D",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "SEOLSANS-REGULAR",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/SEOLSANS-REGULAR",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NotoSansCJKkr-Medium",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NotoSansCJKkr-Medium",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "BebasNeuePro-Bold",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/BebasNeuePro-Bold",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "BebasNeuePro-SmEIt",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/BebasNeuePro-SmEIt",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "MXIANGHEHEISCPRO-REGULAR",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/MXIANGHEHEISCPRO-REGULAR",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NotoSansCJKtc-Medium",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NotoSansCJKtc-Medium",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "MXIANGHEHEITC-MEDIUM",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/MXIANGHEHEITC-MEDIUM",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "MXIANGHEHEITC-REGULAR",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/MXIANGHEHEITC-REGULAR",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "MXIANGHEHEISCPRO-MEDIUM",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/MXIANGHEHEISCPRO-MEDIUM",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "NotoSansCJKsc-Medium",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/NotoSansCJKsc-Medium",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "SEOLSANS-MEDIUM",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/FontFace/SEOLSANS-MEDIUM",
+        "PackagePath": "/Game/UI/Font/FontFace"
+    },
+    {
+        "AssetClass": "FontFace",
+        "AssetName": "DroidSansMono",
+        "FTopLevelAssetPath": {
+            "AssetName": "FontFace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/Faces/DroidSansMono",
+        "PackagePath": "/Engine/EngineFonts/Faces"
+    }
+]

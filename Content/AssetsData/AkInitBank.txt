@@ -1,0 +1,16 @@
+{
+	"Assets":
+	[
+		
+		{
+			"AssetClass": "AkInitBank",
+			"AssetName": "InitBank",
+			"FTopLevelAssetPath": {
+				"AssetName": "AkInitBank",
+				"PackageName": "/Script/AkAudio"
+			},
+			"PackageName": "/Game/WwiseAudio/InitBank",
+			"PackagePath": "/Game/WwiseAudio"
+		}
+	]
+}

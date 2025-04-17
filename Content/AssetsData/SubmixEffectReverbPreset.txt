@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "SubmixEffectReverbPreset",
+        "AssetName": "MasterReverbEffectPreset",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubmixEffectReverbPreset",
+            "PackageName": "/Script/AudioMixer"
+        },
+        "PackageName": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+        "PackagePath": "/Engine/EngineSounds/Submixes"
+    }
+]

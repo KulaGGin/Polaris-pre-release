@@ -1,0 +1,682 @@
+[
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_bee_ara_BlackAura",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/bee/ACI_bee_ara_BlackAura",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/bee"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_A_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_A_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_A_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_A_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_A_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_A_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_A_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_A_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_A_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_A_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_A_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_A_05",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_Hand_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_Hand_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_Hand_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_Hand_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_Hand_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_Hand_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_Hand_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_Hand_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_Hand_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_Hand_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_Hand_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_Hand_05",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_Hand_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_Hand_06",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_Hand_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_Hand_07",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_handfire_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_handfire_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_handfire_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_handfire_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_handfire_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_handfire_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_handfire_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_handfire_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_handfire_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_handfire_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_handfire_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_handfire_05",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_handfire_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_handfire_06",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_handfire_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_handfire_07",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_LegFire_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_LegFire_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_LegFire_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_LegFire_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_LegFire_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_LegFire_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_LegFire_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_LegFire_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_LegFire_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_LegFire_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_LegFire_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_LegFire_05",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_LegFire_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_LegFire_06",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Aura_LegFire_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Aura_LegFire_07",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_HandRing_big_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_HandRing_big_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_HandRing_big_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_HandRing_big_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_HandRing_big_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_HandRing_big_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_HandRing_big_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_HandRing_big_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_HandRing_big_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_HandRing_big_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_HandRing_big_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_HandRing_big_05",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_SuperAura_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_SuperAura_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_SuperAura_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_SuperAura_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_SuperAura_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_SuperAura_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_SuperAura_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_SuperAura_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_SuperAura_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_SuperAura_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TKAura_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TKAura_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TKAura_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TKAura_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TKAura_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TKAura_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TKAura_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TKAura_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TKAura_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TKAura_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TKAura_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TKAura_05",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TKAura_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TKAura_06",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TKAura_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TKAura_07",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Trail_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Trail_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Trail_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Trail_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Trail_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Trail_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Trail_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Trail_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_Trail_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_Trail_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailFoot_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailFoot_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailFoot_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailFoot_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailFoot_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailFoot_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailFoot_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailFoot_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailFoot_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailFoot_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailHand_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailHand_00",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailHand_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailHand_01",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailHand_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailHand_02",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailHand_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailHand_03",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_cmn_ara_TrailHand_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/cmn/ACI_cmn_ara_TrailHand_04",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_got_ara_cmnGotAura",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/got/ACI_got_ara_got",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/got"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_grl_ara_BlackAura",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Aura_Character_Item/grl/ACI_grl_ara_BlackAura",
+        "PackagePath": "/Game/Character/Item/Aura_Character_Item/grl"
+    },
+    {
+        "AssetClass": "AuraCharacterItem",
+        "AssetName": "ACI_ant_ara_demo",
+        "FTopLevelAssetPath": {
+            "AssetName": "AuraCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Character/Aura_Character_Item/ant/ACI_ant_ara_demo",
+        "PackagePath": "/Game/Demo/Character/Aura_Character_Item/ant"
+    }
+]

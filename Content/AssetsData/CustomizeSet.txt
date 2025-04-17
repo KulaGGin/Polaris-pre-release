@@ -1,0 +1,2182 @@
+[
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_okm_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/okm/CS_okm_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/okm"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cbr_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/AlwaysCook/Title/CS_cbr_1p",
+        "PackagePath": "/Game/AlwaysCook/Title"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_beast_dogi_mainmenu",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/AlwaysCook/Title/CS_grl_beast_dogi_mainmenu",
+        "PackagePath": "/Game/AlwaysCook/Title"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_mainmenu_preset",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/AlwaysCook/Title/CS_grl_mainmenu_preset",
+        "PackagePath": "/Game/AlwaysCook/Title"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_aml_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/aml/CS_aml_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/aml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_aml_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/aml/CS_aml_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/aml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_aml_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/aml/CS_aml_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/aml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_aml_miko",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/aml/CS_aml_miko",
+        "PackagePath": "/Game/Character/Item/Customize_Set/aml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ant/CS_ant_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ant"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ant/CS_ant_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ant"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ant/CS_ant_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ant"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_demon_dogi",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ant/CS_ant_demon_dogi",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ant"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bbn_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bbn/CS_bbn_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bbn_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bbn/CS_bbn_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bbn_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bbn/CS_bbn_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bbn_bluecaw",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bbn/CS_bbn_bluecaw",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bee/CS_bee_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bee"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bee/CS_bee_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bee"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bee/CS_bee_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bee"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_whitetiger",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bee/CS_bee_whitetiger",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bee"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bsn_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bsn/CS_bsn_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bsn_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bsn/CS_bsn_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bsn_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bsn/CS_bsn_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bsn_mods_style",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/bsn/CS_bsn_mods_style",
+        "PackagePath": "/Game/Character/Item/Customize_Set/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cat_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cat/CS_cat_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cat_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cat/CS_cat_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cat_sp01",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cat/CS_cat_sp01",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cat_street",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cat/CS_cat_street",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cbr_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cbr/CS_cbr_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cbr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cbr_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cbr/CS_cbr_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cbr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cbr_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cbr/CS_cbr_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cbr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cbr_president",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cbr/CS_cbr_president",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cbr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ccn_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ccn/CS_ccn_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ccn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ccn_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ccn/CS_ccn_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ccn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ccn_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ccn/CS_ccn_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ccn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ccn_cheering",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ccn/CS_ccn_cheering",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ccn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cht_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cht/CS_cht_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cht"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cht_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cht/CS_cht_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cht"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cht_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cht/CS_cht_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cht"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cht_skull_coat",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cht/CS_cht_skull_coat",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cht"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cml_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cml/CS_cml_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cml_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cml/CS_cml_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cml_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cml/CS_cml_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cml_acala",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/cml/CS_cml_acala",
+        "PackagePath": "/Game/Character/Item/Customize_Set/cml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_crw_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/crw/CS_crw_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/crw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_crw_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/crw/CS_crw_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/crw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_crw_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/crw/CS_crw_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/crw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_crw_pantsdress",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/crw/CS_crw_pantsdress",
+        "PackagePath": "/Game/Character/Item/Customize_Set/crw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ctr_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ctr/CS_ctr_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ctr_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ctr/CS_ctr_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ctr_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ctr/CS_ctr_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ctr_battle_sirius",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ctr/CS_ctr_battle_sirius",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_dek",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/dek/CS_dek",
+        "PackagePath": "/Game/Character/Item/Customize_Set/dek"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_der_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/der/CS_der_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/der"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_der_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/der/CS_der_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/der"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_der_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/der/CS_der_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/der"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_der_yuzen_dogi",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/der/CS_der_yuzen_dogi",
+        "PackagePath": "/Game/Character/Item/Customize_Set/der"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_dog_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/dog/CS_dog_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/dog"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_dog_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/dog/CS_dog_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/dog"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_dog_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/dog/CS_dog_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/dog"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_dog_bijou",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/dog/CS_dog_bijou",
+        "PackagePath": "/Game/Character/Item/Customize_Set/dog"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ghp_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ghp/CS_ghp_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ghp_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ghp/CS_ghp_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ghp_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ghp/CS_ghp_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ghp_detective",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ghp/CS_ghp_detective",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_got_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/got/CS_got_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/got"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grf_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/grf/CS_grf_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/grf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grf_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/grf/CS_grf_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/grf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grf_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/grf/CS_grf_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/grf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grf_luxurysuit",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/grf/CS_grf_luxurysuit",
+        "PackagePath": "/Game/Character/Item/Customize_Set/grf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grf_red_dogi",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/grf/CS_grf_red_dogi",
+        "PackagePath": "/Game/Character/Item/Customize_Set/grf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/grl/CS_grl_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/grl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/grl/CS_grl_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/grl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/grl/CS_grl_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/grl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_beast_dogi",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/grl/CS_grl_beast_dogi",
+        "PackagePath": "/Game/Character/Item/Customize_Set/grl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hms_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/hms/CS_hms_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/hms"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hms_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/hms/CS_hms_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/hms"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hms_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/hms/CS_hms_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/hms"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hms_bewitching",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/hms/CS_hms_bewitching",
+        "PackagePath": "/Game/Character/Item/Customize_Set/hms"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hrs_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/hrs/CS_hrs_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/hrs"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hrs_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/hrs/CS_hrs_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/hrs"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hrs_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/hrs/CS_hrs_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/hrs"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hrs_plant_suit",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/hrs/CS_hrs_plant_suit",
+        "PackagePath": "/Game/Character/Item/Customize_Set/hrs"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_jly_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/jly/CS_jly_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/jly"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_jly_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/jly/CS_jly_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/jly"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_jly_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/jly/CS_jly_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/jly"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_jly_80s_hiphop",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/jly/CS_jly_80s_hiphop",
+        "PackagePath": "/Game/Character/Item/Customize_Set/jly"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kal_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/kal/CS_kal_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/kal"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kal_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/kal/CS_kal_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/kal"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kal_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/kal/CS_kal_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/kal"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kal_intelligence",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/kal/CS_kal_intelligence",
+        "PackagePath": "/Game/Character/Item/Customize_Set/kal"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_klw_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/klw/CS_klw_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/klw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_klw_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/klw/CS_klw_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/klw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_klw_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/klw/CS_klw_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/klw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_klw_underground_suit",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/klw/CS_klw_underground_suit",
+        "PackagePath": "/Game/Character/Item/Customize_Set/klw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kmd_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/kmd/CS_kmd_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/kmd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kmd_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/kmd/CS_kmd_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/kmd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kmd_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/kmd/CS_kmd_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/kmd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kmd_sneaking",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/kmd/CS_kmd_sneaking",
+        "PackagePath": "/Game/Character/Item/Customize_Set/kmd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lon_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/lon/CS_lon_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/lon"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lon_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/lon/CS_lon_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/lon"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lon_ranger",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/lon/CS_lon_ranger",
+        "PackagePath": "/Game/Character/Item/Customize_Set/lon"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lon_sp01",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/lon/CS_lon_sp01",
+        "PackagePath": "/Game/Character/Item/Customize_Set/lon"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lzd_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/lzd/CS_lzd_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lzd_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/lzd/CS_lzd_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lzd_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/lzd/CS_lzd_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lzd_sengoku",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/lzd/CS_lzd_sengoku",
+        "PackagePath": "/Game/Character/Item/Customize_Set/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_mnt_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/mnt/CS_mnt_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_mnt_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/mnt/CS_mnt_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_mnt_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/mnt/CS_mnt_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_mnt_nike",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/mnt/CS_mnt_nike",
+        "PackagePath": "/Game/Character/Item/Customize_Set/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_okm_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/okm/CS_okm_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/okm"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_okm_ift_bk",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/okm/CS_okm_ift_bk",
+        "PackagePath": "/Game/Character/Item/Customize_Set/okm"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_okm_sbq_armor",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/okm/CS_okm_sbq_armor",
+        "PackagePath": "/Game/Character/Item/Customize_Set/okm"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pgn_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/pgn/CS_pgn_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pgn_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/pgn/CS_pgn_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pgn_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/pgn/CS_pgn_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pgn_rudo_jaguar",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/pgn/CS_pgn_rudo_jaguar",
+        "PackagePath": "/Game/Character/Item/Customize_Set/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pig_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/pig/CS_pig_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/pig"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pig_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/pig/CS_pig_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/pig"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pig_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/pig/CS_pig_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/pig"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pig_goodold",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/pig/CS_pig_goodold",
+        "PackagePath": "/Game/Character/Item/Customize_Set/pig"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_rat_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/rat/CS_rat_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/rat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_rat_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/rat/CS_rat_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/rat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_rat_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/rat/CS_rat_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/rat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_rat_phoenix_dress",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/rat/CS_rat_phoenix_dress",
+        "PackagePath": "/Game/Character/Item/Customize_Set/rat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_rbt_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/rbt/CS_rbt_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/rbt"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_rbt_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/rbt/CS_rbt_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/rbt"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_rbt_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/rbt/CS_rbt_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/rbt"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_rbt_farmer",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/rbt/CS_rbt_farmer",
+        "PackagePath": "/Game/Character/Item/Customize_Set/rbt"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_snk_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/snk/CS_snk_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/snk"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_snk_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/snk/CS_snk_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/snk"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_snk_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/snk/CS_snk_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/snk"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_snk_paint",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/snk/CS_snk_paint",
+        "PackagePath": "/Game/Character/Item/Customize_Set/snk"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/swl/CS_swl_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/swl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/swl/CS_swl_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/swl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_1p_v2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/swl/CS_swl_1p_v2",
+        "PackagePath": "/Game/Character/Item/Customize_Set/swl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/swl/CS_swl_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/swl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_diablo_jacket",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/swl/CS_swl_diablo_jacket",
+        "PackagePath": "/Game/Character/Item/Customize_Set/swl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ttr_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ttr/CS_ttr_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ttr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ttr_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ttr/CS_ttr_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ttr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ttr_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ttr/CS_ttr_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ttr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ttr_honeybee",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/ttr/CS_ttr_honeybee",
+        "PackagePath": "/Game/Character/Item/Customize_Set/ttr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_wlf_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/wlf/CS_wlf_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_wlf_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/wlf/CS_wlf_1p_p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_wlf_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/wlf/CS_wlf_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_wlf_elegant_style",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/wlf/CS_wlf_elegant_style",
+        "PackagePath": "/Game/Character/Item/Customize_Set/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxa_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/xxa/CS_xxa_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/xxa"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxb_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/xxb/CS_xxb_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/xxb"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxd_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/xxd/CS_xxd_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/xxd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxf_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/xxf/CS_xxf_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/xxf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxg_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/xxg/CS_xxg_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/xxg"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_zbr_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/zbr/CS_zbr_1p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_zbr_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/zbr/CS_zbr_2p",
+        "PackagePath": "/Game/Character/Item/Customize_Set/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_zbr_kimono",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/zbr/CS_zbr_kimono",
+        "PackagePath": "/Game/Character/Item/Customize_Set/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_zbr_sp01",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Customize_Set/zbr/CS_zbr_sp01",
+        "PackagePath": "/Game/Character/Item/Customize_Set/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_1p_har_down",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_bee_1p_har_down",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_1p_p_shadow",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_bee_1p_p_shadow",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_1p_sp_scars",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_bee_1p_sp_scars",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_whitetiger_nohat",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_bee_whitetiger_nohat",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_whitetiger_nohat_nomask",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_bee_whitetiger_nohat_nomask",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bee_whitetiger_nomask",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_bee_whitetiger_nomask",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cbr_president_headset",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_cbr_president_headset",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ccn_red",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_ccn_red",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_dog_1p_headset",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_dog_1p_headset",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_1p_shadow",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_grl_1p_shadow",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxc",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_xxc",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxd_gsol",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_xxd_gsol",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxd_gsol_red",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_xxd_gsol_red",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxd_gsol_shooter",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_xxd_gsol_shooter",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxd_gsol_shooter_red",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_xxd_gsol_shooter_red",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxd_gsol_shooter_vs",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_xxd_gsol_shooter_vs",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxf_tmhigh",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_xxf_tmhigh",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxf_tmhigh_tall",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_xxf_tmhigh_tall",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_xxg_tmdragon",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Ingame/Item/Sets/CS_xxg_tmdragon",
+        "PackagePath": "/Game/Demo/Ingame/Item/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_1p_chain",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_ant_1p_chain",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_1p_emblem",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_ant_1p_emblem",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_1p_naked",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_ant_1p_naked",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_1p_naked_belt_off",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_ant_1p_naked_belt_off",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_1p_naked_glove_off_belt_off",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_ant_1p_naked_glove_off_belt_off",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_1p_naked_glove_off_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_grl_1p_naked_glove_off_white",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_1p_v2_white",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_grl_1p_v2_white",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_ant_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_swl_ant_1p",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_ant_1p_horn",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_swl_ant_1p_horn",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_ant_1p_horn_bw",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_swl_ant_1p_horn_bw",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_ant_naked",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Demo/Story/Sets/CS_swl_ant_naked",
+        "PackagePath": "/Game/Demo/Story/Sets"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_aml_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/aml/CS_aml_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/aml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ant_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/ant/CS_ant_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/ant"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bbn_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/bbn/CS_bbn_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_bsn_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/bsn/CS_bsn_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cat_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/cat/CS_cat_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/cat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ccn_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/ccn/CS_ccn_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/ccn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cht_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/cht/CS_cht_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/cht"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_cml_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/cml/CS_cml_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/cml"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_crw_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/crw/CS_crw_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/crw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ctr_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/ctr/CS_ctr_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_der_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/der/CS_der_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/der"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_ghp_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/ghp/CS_ghp_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grf_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/grf/CS_grf_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/grf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_grl_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/grl/CS_grl_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/grl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hms_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/hms/CS_hms_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/hms"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_hrs_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/hrs/CS_hrs_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/hrs"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_jly_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/jly/CS_jly_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/jly"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kal_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/kal/CS_kal_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/kal"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_klw_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/klw/CS_klw_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/klw"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kmd_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/kmd/CS_kmd_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/kmd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lon_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/lon/CS_lon_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/lon"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_lzd_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/lzd/CS_lzd_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_mnt_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/mnt/CS_mnt_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pgn_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/pgn/CS_pgn_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_pig_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/pig/CS_pig_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/pig"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_rat_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/rat/CS_rat_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/rat"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_snk_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/snk/CS_snk_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/snk"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_swl_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/swl/CS_swl_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/swl"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_wlf_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/wlf/CS_wlf_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_zbr_RomGhost_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Customize_Set/zbr/CS_zbr_RomGhost_000",
+        "PackagePath": "/Game/RomGhost/Customize_Set/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_kal_mainmenu",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/customize/kal/CS_kal_mainmenu",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/customize/kal"
+    },
+    {
+        "AssetClass": "CustomizeSet",
+        "AssetName": "CS_wlf_mainmenu",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/customize/wlf/CS_wlf_mainmenu",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/customize/wlf"
+    }
+]

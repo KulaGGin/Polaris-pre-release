@@ -1,0 +1,312 @@
+[
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_hms_exp_cat",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/hms/extra/hms_exp_cat/meshes/GF_CH_hms_exp_cat",
+        "PackagePath": "/Game/Character/Item/model/unique/hms/extra/hms_exp_cat/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_jly_exp_dog_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/jly/extra/jly_exp_dog/meshes/GF_CH_jly_exp_dog_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/jly/extra/jly_exp_dog/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_jly_exp_dog_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/jly/extra/jly_exp_dog/meshes/GF_CH_jly_exp_dog_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/jly/extra/jly_exp_dog/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_exp_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/extra/pgn_exp_1p/meshes/GF_CH_pgn_exp_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/extra/pgn_exp_1p/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_A",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_A",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_B",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_B",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_C",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_C",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_D",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_D",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_E",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_E",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_F",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_F",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_G",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_G",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_H",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_H",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_I",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_I",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_pgn_fac_J",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/GF_CH_pgn_fac_J",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_rbt_fac",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/face/rbt_fac/meshes/GF_CH_rbt_fac",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/face/rbt_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_rbt_fac_v2",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/face/rbt_fac/meshes/GF_CH_rbt_fac_v2",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/face/rbt_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_rbt_bdf_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p/meshes/GF_CH_rbt_bdf_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_rbt_bdf_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p/meshes/GF_CH_rbt_bdf_2p",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_rbt_bdf_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p_p/meshes/GF_CH_rbt_bdf_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p_p/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_rbt_bdf_exclusive01",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_exclusive01/meshes/GF_CH_rbt_bdf_exclusive01",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_exclusive01/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_rbt_bdf_exclusive06",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_exclusive06/meshes/GF_CH_rbt_bdf_exclusive06",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_exclusive06/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_rbt_bdf_farmer",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_farmer/meshes/GF_CH_rbt_bdf_farmer",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_farmer/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_ttr_fac",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/face/ttr_fac/meshes/GF_CH_ttr_fac",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/face/ttr_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_ttr_fac_v2",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/face/ttr_fac/meshes/GF_CH_ttr_fac_v2",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/face/ttr_fac/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_ttr_bdf_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p/meshes/GF_CH_ttr_bdf_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_ttr_bdf_2p",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p/meshes/GF_CH_ttr_bdf_2p",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_ttr_bdf_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p_p/meshes/GF_CH_ttr_bdf_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p_p/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_ttr_bdf_exclusive01",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_exclusive01/meshes/GF_CH_ttr_bdf_exclusive01",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_exclusive01/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_ttr_bdf_exclusive06",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_exclusive06/meshes/GF_CH_ttr_bdf_exclusive06",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_exclusive06/meshes"
+    },
+    {
+        "AssetClass": "GFurAsset",
+        "AssetName": "GF_CH_ttr_bdf_honeybee_GFurAsset",
+        "FTopLevelAssetPath": {
+            "AssetName": "GFurAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_honeybee/meshes/GF_CH_ttr_bdf_honeybee_GFurAsset",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_honeybee/meshes"
+    }
+]

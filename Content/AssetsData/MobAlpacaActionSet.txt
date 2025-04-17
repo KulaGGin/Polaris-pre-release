@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "MobAlpacaActionSet",
+        "AssetName": "AlpacaActionSetB",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAlpacaActionSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/AlpacaActionSetB",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset"
+    }
+]

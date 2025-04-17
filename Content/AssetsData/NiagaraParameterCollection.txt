@@ -1,0 +1,32 @@
+[
+    {
+        "AssetClass": "NiagaraParameterCollection",
+        "AssetName": "NPC_MotHead_Info",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraParameterCollection",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/NPC_MotHead_Info",
+        "PackagePath": "/Game/Effect/Polariswork/Common"
+    },
+    {
+        "AssetClass": "NiagaraParameterCollection",
+        "AssetName": "NPC_Interaction",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraParameterCollection",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/NPC_Interaction",
+        "PackagePath": "/Game/Effect/Polariswork/Common"
+    },
+    {
+        "AssetClass": "NiagaraParameterCollection",
+        "AssetName": "NPC_ENV_Fragment",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraParameterCollection",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/NPC_ENV_Fragment",
+        "PackagePath": "/Game/Effect/Polariswork/Common"
+    }
+]

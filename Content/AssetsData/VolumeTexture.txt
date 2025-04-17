@@ -1,0 +1,142 @@
+[
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "DefaultVolumeTexture",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineResources/DefaultVolumeTexture",
+        "PackagePath": "/Engine/EngineResources"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "T_VolumeNoiseErosion32",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32",
+        "PackagePath": "/Engine/EngineSky/VolumetricClouds"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "T_VolumeNoiseShape64",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64",
+        "PackagePath": "/Engine/EngineSky/VolumetricClouds"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "VolumeToRender",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineDebugMaterials/VolumeToRender",
+        "PackagePath": "/Engine/EngineDebugMaterials"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "T_VolumeNoiseShape128",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape128",
+        "PackagePath": "/Engine/EngineSky/VolumetricClouds"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "VolumeNoise4",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/FluidNinja/sub/VolumeNoise4",
+        "PackagePath": "/Game/Blueprints/FluidNinja/sub"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "T_Achromatopsia",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/Textures/Accessibility/T_Achromatopsia",
+        "PackagePath": "/Game/Common/Textures/Accessibility"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "T_Deuteranopia",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/Textures/Accessibility/T_Deuteranopia",
+        "PackagePath": "/Game/Common/Textures/Accessibility"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "T_Protanopia",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/Textures/Accessibility/T_Protanopia",
+        "PackagePath": "/Game/Common/Textures/Accessibility"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "T_Tritanopia",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/Textures/Accessibility/T_Tritanopia",
+        "PackagePath": "/Game/Common/Textures/Accessibility"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "VolumeNoise2",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Volumetrics/VolumeNoises/VolumeNoise2",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Volumetrics/VolumeNoises"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "3D_Cells",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Textures/3D_Clouds/3D_Cells",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Textures/3D_Clouds"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "3D_Cells_32",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Textures/3D_Clouds/3D_Cells_32",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Textures/3D_Clouds"
+    },
+    {
+        "AssetClass": "VolumeTexture",
+        "AssetName": "3DCells_128",
+        "FTopLevelAssetPath": {
+            "AssetName": "VolumeTexture",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Textures/3D_Clouds/3DCells_128",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Textures/3D_Clouds"
+    }
+]

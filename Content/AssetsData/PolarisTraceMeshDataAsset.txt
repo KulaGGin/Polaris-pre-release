@@ -1,0 +1,142 @@
+[
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_OKM_KisekiMesh",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/okm/DA_OKM_KisekiMesh",
+        "PackagePath": "/Game/Character/Trace/okm"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_ANT_KisekiMesh_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ant/DA_ANT_KisekiMesh_LR",
+        "PackagePath": "/Game/Character/Trace/ant"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_CML_KisekiMesh_LLong",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/cml/DA_CML_KisekiMesh_LLong",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_CML_KisekiMesh_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/cml/DA_CML_KisekiMesh_LR",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_CRW_KisekiMesh_L",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/crw/DA_CRW_KisekiMesh_L",
+        "PackagePath": "/Game/Character/Trace/crw"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_JLY_KisekiMesh",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/jly/DA_JLY_KisekiMesh",
+        "PackagePath": "/Game/Character/Trace/jly"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_LON_KisekiMesh",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/lon/DA_LON_KisekiMesh",
+        "PackagePath": "/Game/Character/Trace/lon"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_LON_KisekiMesh02",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/lon/DA_LON_KisekiMesh02",
+        "PackagePath": "/Game/Character/Trace/lon"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_MNT_KisekiMesh_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/mnt/DA_MNT_KisekiMesh_LR",
+        "PackagePath": "/Game/Character/Trace/mnt"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_PIG_KisekiMesh_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/pig/DA_PIG_KisekiMesh_LR",
+        "PackagePath": "/Game/Character/Trace/pig"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_RBT_KisekiMesh_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/rbt/DA_RBT_KisekiMesh_LR",
+        "PackagePath": "/Game/Character/Trace/rbt"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_SWL_KisekiMesh",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/swl/DA_SWL_KisekiMesh",
+        "PackagePath": "/Game/Character/Trace/swl"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_TTR_KisekiMesh_LR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ttr/DA_TTR_KisekiMesh_LR",
+        "PackagePath": "/Game/Character/Trace/ttr"
+    },
+    {
+        "AssetClass": "PolarisTraceMeshDataAsset",
+        "AssetName": "DA_XXA_KisekiMesh",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceMeshDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/xxa/DA_XXA_KisekiMesh",
+        "PackagePath": "/Game/Character/Trace/xxa"
+    }
+]

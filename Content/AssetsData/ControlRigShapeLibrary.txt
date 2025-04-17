@@ -1,0 +1,22 @@
+[
+    {
+        "AssetClass": "ControlRigShapeLibrary",
+        "AssetName": "DefaultGizmoLibrary",
+        "FTopLevelAssetPath": {
+            "AssetName": "ControlRigShapeLibrary",
+            "PackageName": "/Script/ControlRig"
+        },
+        "PackageName": "/ControlRig/Controls/DefaultGizmoLibrary",
+        "PackagePath": "/ControlRig/Controls"
+    },
+    {
+        "AssetClass": "ControlRigShapeLibrary",
+        "AssetName": "DefaultGizmoLibraryNormalized",
+        "FTopLevelAssetPath": {
+            "AssetName": "ControlRigShapeLibrary",
+            "PackageName": "/Script/ControlRig"
+        },
+        "PackageName": "/ControlRig/Controls/DefaultGizmoLibraryNormalized",
+        "PackagePath": "/ControlRig/Controls"
+    }
+]

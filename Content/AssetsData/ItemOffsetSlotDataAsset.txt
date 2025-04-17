@@ -1,0 +1,362 @@
+[
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_okm",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_okm",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_aml",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_aml",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_ant",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_ant",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_bbn",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_bbn",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_bee",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_bee",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_bsn",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_bsn",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_cat",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_cat",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_cbr",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_cbr",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_ccn",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_ccn",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_cht",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_cht",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_cml",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_cml",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_crw",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_crw",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_ctr",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_ctr",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_der",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_der",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_dog",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_dog",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_ghp",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_ghp",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_grf",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_grf",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_grl",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_grl",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_hms",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_hms",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_hrs",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_hrs",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_jly",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_jly",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_kal",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_kal",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_klw",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_klw",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_kmd",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_kmd",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_lon",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_lon",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_lzd",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_lzd",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_mnt",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_mnt",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_pgn",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_pgn",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_pig",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_pig",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_rat",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_rat",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_rbt",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_rbt",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_snk",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_snk",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_swl",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_swl",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_ttr",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_ttr",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_wlf",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_wlf",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    },
+    {
+        "AssetClass": "ItemOffsetSlotDataAsset",
+        "AssetName": "OSD_zbr",
+        "FTopLevelAssetPath": {
+            "AssetName": "ItemOffsetSlotDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Item_Offset_Slot_Data/OSD_zbr",
+        "PackagePath": "/Game/Character/Item/Item_Offset_Slot_Data"
+    }
+]

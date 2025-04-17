@@ -1,0 +1,325 @@
+{
+    "floors": [
+        {
+            "ActorName": "BP_PolarisFloor_C_0",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDummyBreak": false,
+            "IsDurable": false,
+            "IsFloorBlast": false,
+            "IsFloorBreakable": false,
+            "IsNextStageSequence": false,
+            "IsStageDestruction": false,
+            "Position": {
+                "x": -3000.0,
+                "y": 8500.0,
+                "z": -1.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 22.0,
+                "y": 26.0,
+                "z": 0.009999999776482582
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Game/Stage/Common/Blueprints/BP_PolarisFloor.BP_PolarisFloor_C",
+            "State": 1,
+            "TKCollisionEnable": true,
+            "TotalDamage": 0,
+            "WallDamageId": 0
+        }
+    ],
+    "playerStarts": [
+        {
+            "ActorName": "PolarisBattlePlayerStart1_0",
+            "Distance": 0.0,
+            "FloorId": 0,
+            "IsWallAdjust": false,
+            "Position": {
+                "x": -3000.0,
+                "y": 8500.0,
+                "z": -100.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RoundStartCameraAssets": [],
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "SoftClassPath": "/Script/Polaris.PolarisBattlePlayerStart",
+            "StageBrokenHistory": 0,
+            "StageForcusCameraAssets": [
+                {
+                    "BattleRound": 0,
+                    "Camera1P": "/Game/cinematics/round_extra/polaris/stage/Common/00/stage_Common_00_cam1p_master.stage_Common_00_cam1p_master",
+                    "Camera2P": "/Game/cinematics/round_extra/polaris/stage/Common/00/stage_Common_00_cam2p_master.stage_Common_00_cam2p_master"
+                },
+                {
+                    "BattleRound": 0,
+                    "Camera1P": "/Game/cinematics/round_extra/polaris/stage/Common/02/stage_Common_02_cam1p_master.stage_Common_02_cam1p_master",
+                    "Camera2P": "/Game/cinematics/round_extra/polaris/stage/Common/02/stage_Common_02_cam2p_master.stage_Common_02_cam2p_master"
+                },
+                {
+                    "BattleRound": 0,
+                    "Camera1P": "/Game/cinematics/round_extra/polaris/stage/Common/05/stage_Common_05_cam1p_master.stage_Common_05_cam1p_master",
+                    "Camera2P": "/Game/cinematics/round_extra/polaris/stage/Common/05/stage_Common_05_cam2p_master.stage_Common_05_cam2p_master"
+                }
+            ],
+            "StageLightType": 5,
+            "StagePositionTypeId": 1,
+            "StageSequenceId": 0
+        }
+    ],
+    "walls": [
+        {
+            "ActorName": "BP_PolarisWall_0",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -4250.0,
+                "y": 8500.0,
+                "z": 300.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 5.0,
+                "y": 33.5,
+                "z": 15.0
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Game/Stage/Common/Blueprints/BP_PolarisWall.BP_PolarisWall_C",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "BP_PolarisWall2_1",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -1750.0,
+                "y": 8500.0,
+                "z": 300.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 5.0,
+                "y": 33.5,
+                "z": 15.0
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Game/Stage/Common/Blueprints/BP_PolarisWall.BP_PolarisWall_C",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "BP_PolarisWall3_2",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -3000.0,
+                "y": 7050.0,
+                "z": 300.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 90.0000228881836,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 5.0,
+                "y": 26.0,
+                "z": 15.0
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Game/Stage/Common/Blueprints/BP_PolarisWall.BP_PolarisWall_C",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "BP_PolarisWall4_3",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -3000.0,
+                "y": 9950.0,
+                "z": 300.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 90.0000228881836,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 5.0,
+                "y": 26.0,
+                "z": 15.0
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Game/Stage/Common/Blueprints/BP_PolarisWall.BP_PolarisWall_C",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "BP_PolarisWall5_4",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -4170.88916015625,
+                "y": 7217.68896484375,
+                "z": 300.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 44.99999237060547,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 5.0,
+                "y": 26.0,
+                "z": 15.0
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Game/Stage/Common/Blueprints/BP_PolarisWall.BP_PolarisWall_C",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "BP_PolarisWall6_5",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -1843.7587890625,
+                "y": 7202.3359375,
+                "z": 300.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": 135.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 5.0,
+                "y": 26.0,
+                "z": 15.0
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Game/Stage/Common/Blueprints/BP_PolarisWall.BP_PolarisWall_C",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "BP_PolarisWall7_6",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -1854.3349609375,
+                "y": 9808.3046875,
+                "z": 300.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": -134.99998474121094,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 5.0,
+                "y": 26.0,
+                "z": 15.0
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Game/Stage/Common/Blueprints/BP_PolarisWall.BP_PolarisWall_C",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        },
+        {
+            "ActorName": "BP_PolarisWall8_7",
+            "DestructLevel": 0,
+            "FloorNo": 0,
+            "IsDurable": false,
+            "IsNextStageSequence": false,
+            "IsNoBreak": false,
+            "Position": {
+                "x": -4149.4951171875,
+                "y": 9803.3466796875,
+                "z": 300.0
+            },
+            "RelatedStageSequenceId": 0,
+            "Rotation": {
+                "x": 0.0,
+                "y": -45.00006866455078,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 5.0,
+                "y": 26.0,
+                "z": 15.0
+            },
+            "SetNo": 0,
+            "SoftClassPath": "/Game/Stage/Common/Blueprints/BP_PolarisWall.BP_PolarisWall_C",
+            "TKCollisionEnable": false,
+            "TotalDamage": 0,
+            "WallAttribute": 0,
+            "WallDamageId": 0
+        }
+    ]
+}

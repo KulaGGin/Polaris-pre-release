@@ -1,0 +1,462 @@
+[
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_BEE",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/PolarisBEEwork/Character/BEE/DA_CharacterEffect_BEE",
+        "PackagePath": "/Game/Effect/PolarisBEEwork/Character/BEE"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_XXF",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/PolarisBEEwork/Character/XXF/DA_CharacterEffect_XXF",
+        "PackagePath": "/Game/Effect/PolarisBEEwork/Character/XXF"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_XXG",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/PolarisBEEwork/Character/XXG/DA_CharacterEffect_XXG",
+        "PackagePath": "/Game/Effect/PolarisBEEwork/Character/XXG"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_CBR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/PolarisCBRwork/Character/CBR/DA_CharacterEffect_CBR",
+        "PackagePath": "/Game/Effect/PolarisCBRwork/Character/CBR"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_DOG",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/PolarisDOGwork/Character/DOG/DA_CharacterEffect_DOG",
+        "PackagePath": "/Game/Effect/PolarisDOGwork/Character/DOG"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_OKM",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/DA_CharacterEffect_OKM",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_AML",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/aml/DA_CharacterEffect_AML",
+        "PackagePath": "/Game/Effect/Polariswork/Character/aml"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_ANT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/ant/DA_CharacterEffect_ANT",
+        "PackagePath": "/Game/Effect/Polariswork/Character/ant"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_BBN",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/bbn/DA_CharacterEffect_BBN",
+        "PackagePath": "/Game/Effect/Polariswork/Character/bbn"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_BSN",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/bsn/DA_CharacterEffect_BSN",
+        "PackagePath": "/Game/Effect/Polariswork/Character/bsn"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_CAT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/cat/DA_CharacterEffect_CAT",
+        "PackagePath": "/Game/Effect/Polariswork/Character/cat"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_CCN",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/ccn/DA_CharacterEffect_CCN",
+        "PackagePath": "/Game/Effect/Polariswork/Character/ccn"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_CHT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/cht/DA_CharacterEffect_CHT",
+        "PackagePath": "/Game/Effect/Polariswork/Character/cht"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_CML",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/cml/DA_CharacterEffect_CML",
+        "PackagePath": "/Game/Effect/Polariswork/Character/cml"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_TEMPLATE",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/cmn/DA_CharacterEffect_TEMPLATE",
+        "PackagePath": "/Game/Effect/Polariswork/Character/cmn"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_CRW",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/crw/DA_CharacterEffect_CRW",
+        "PackagePath": "/Game/Effect/Polariswork/Character/crw"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_CTR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/ctr/DA_CharacterEffect_CTR",
+        "PackagePath": "/Game/Effect/Polariswork/Character/ctr"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_DER",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/der/DA_CharacterEffect_DER",
+        "PackagePath": "/Game/Effect/Polariswork/Character/der"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_GHP",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/ghp/DA_CharacterEffect_GHP",
+        "PackagePath": "/Game/Effect/Polariswork/Character/ghp"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_GOT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/got/DA_CharacterEffect_GOT",
+        "PackagePath": "/Game/Effect/Polariswork/Character/got"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_GRF",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/grf/DA_CharacterEffect_GRF",
+        "PackagePath": "/Game/Effect/Polariswork/Character/grf"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_GRL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/grl/DA_CharacterEffect_GRL",
+        "PackagePath": "/Game/Effect/Polariswork/Character/grl"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_HMS",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/hms/DA_CharacterEffect_HMS",
+        "PackagePath": "/Game/Effect/Polariswork/Character/hms"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_HRS",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/hrs/DA_CharacterEffect_HRS",
+        "PackagePath": "/Game/Effect/Polariswork/Character/hrs"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_JLY",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/jly/DA_CharacterEffect_JLY",
+        "PackagePath": "/Game/Effect/Polariswork/Character/jly"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_KAL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/kal/DA_CharacterEffect_KAL",
+        "PackagePath": "/Game/Effect/Polariswork/Character/kal"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_KLW",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/klw/DA_CharacterEffect_KLW",
+        "PackagePath": "/Game/Effect/Polariswork/Character/klw"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_KMD",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/kmd/DA_CharacterEffect_KMD",
+        "PackagePath": "/Game/Effect/Polariswork/Character/kmd"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_LON",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/lon/DA_CharacterEffect_LON",
+        "PackagePath": "/Game/Effect/Polariswork/Character/lon"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_LZD",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/lzd/DA_CharacterEffect_LZD",
+        "PackagePath": "/Game/Effect/Polariswork/Character/lzd"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_MNT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/mnt/DA_CharacterEffect_MNT",
+        "PackagePath": "/Game/Effect/Polariswork/Character/mnt"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_PGN",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/pgn/DA_CharacterEffect_PGN",
+        "PackagePath": "/Game/Effect/Polariswork/Character/pgn"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_PIG",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/pig/DA_CharacterEffect_PIG",
+        "PackagePath": "/Game/Effect/Polariswork/Character/pig"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_RAT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/rat/DA_CharacterEffect_RAT",
+        "PackagePath": "/Game/Effect/Polariswork/Character/rat"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_RBT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/RBT/DA_CharacterEffect_RBT",
+        "PackagePath": "/Game/Effect/Polariswork/Character/RBT"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_SNK",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/snk/DA_CharacterEffect_SNK",
+        "PackagePath": "/Game/Effect/Polariswork/Character/snk"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_SWL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/swl/DA_CharacterEffect_SWL",
+        "PackagePath": "/Game/Effect/Polariswork/Character/swl"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_TTR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/ttr/DA_CharacterEffect_TTR",
+        "PackagePath": "/Game/Effect/Polariswork/Character/ttr"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_WLF",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/wlf/DA_CharacterEffect_WLF",
+        "PackagePath": "/Game/Effect/Polariswork/Character/wlf"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_XXA",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/xxa/DA_CharacterEffect_XXA",
+        "PackagePath": "/Game/Effect/Polariswork/Character/xxa"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_XXB",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/xxb/DA_CharacterEffect_XXB",
+        "PackagePath": "/Game/Effect/Polariswork/Character/xxb"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_XXC",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/xxc/DA_CharacterEffect_XXC",
+        "PackagePath": "/Game/Effect/Polariswork/Character/xxc"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_XXD",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/xxd/DA_CharacterEffect_XXD",
+        "PackagePath": "/Game/Effect/Polariswork/Character/xxd"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_XXE",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/xxe/DA_CharacterEffect_XXE",
+        "PackagePath": "/Game/Effect/Polariswork/Character/xxe"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_ZBR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Character/zbr/DA_CharacterEffect_ZBR",
+        "PackagePath": "/Game/Effect/Polariswork/Character/zbr"
+    },
+    {
+        "AssetClass": "PolarisCharacterEffectDataAsset",
+        "AssetName": "DA_CharacterEffect_BALL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Ball/DA_CharacterEffect_BALL",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Ball"
+    }
+]

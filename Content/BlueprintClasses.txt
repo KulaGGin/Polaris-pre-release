@@ -1,0 +1,356 @@
+{
+	"classesInformation": [
+		{
+			"classSoftObjectPath": "/Script/Engine.Texture",
+			"parentSoftObjectPath": "/Script/Engine.Texture"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Texture",
+			"parentSoftObjectPath": "/Script/Engine.Texture"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Texture",
+			"parentSoftObjectPath": "/Script/Engine.Texture"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.MaterialFunctionInterface",
+			"parentSoftObjectPath": "/Script/Engine.MaterialFunctionInterface"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.MaterialInterface",
+			"parentSoftObjectPath": "/Script/Engine.MaterialInterface"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.StreamableRenderAsset",
+			"parentSoftObjectPath": "/Script/Engine.StreamableRenderAsset"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.BlueprintCore",
+			"parentSoftObjectPath": "/Script/Engine.BlueprintCore"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.MaterialInstance",
+			"parentSoftObjectPath": "/Script/Engine.MaterialInstance"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Enum",
+			"parentSoftObjectPath": "/Script/CoreUObject.Enum"
+		},
+		{
+			"classSoftObjectPath": "/Script/UnrealEd.BaseWidgetBlueprint",
+			"parentSoftObjectPath": "/Script/UnrealEd.BaseWidgetBlueprint"
+		},
+		{
+			"classSoftObjectPath": "/Script/Niagara.NiagaraParameterDefinitionsBase",
+			"parentSoftObjectPath": "/Script/Niagara.NiagaraParameterDefinitionsBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.SoundEffectSubmixPreset",
+			"parentSoftObjectPath": "/Script/Engine.SoundEffectSubmixPreset"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.SoundSubmixWithParentBase",
+			"parentSoftObjectPath": "/Script/Engine.SoundSubmixWithParentBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.SoundEffectSubmixPreset",
+			"parentSoftObjectPath": "/Script/Engine.SoundEffectSubmixPreset"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.CurveBase",
+			"parentSoftObjectPath": "/Script/Engine.CurveBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/UMGEditor.WidgetBlueprint",
+			"parentSoftObjectPath": "/Script/UMGEditor.WidgetBlueprint"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.PrimaryDataAsset",
+			"parentSoftObjectPath": "/Script/Engine.PrimaryDataAsset"
+		},
+		{
+			"classSoftObjectPath": "/Script/MovieScene.MovieSceneSequence",
+			"parentSoftObjectPath": "/Script/MovieScene.MovieSceneSequence"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.SoundEffectSubmixPreset",
+			"parentSoftObjectPath": "/Script/Engine.SoundEffectSubmixPreset"
+		},
+		{
+			"classSoftObjectPath": "/Script/NiagaraShader.NiagaraScriptBase",
+			"parentSoftObjectPath": "/Script/NiagaraShader.NiagaraScriptBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.FXSystemAsset",
+			"parentSoftObjectPath": "/Script/Engine.FXSystemAsset"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.CurveBase",
+			"parentSoftObjectPath": "/Script/Engine.CurveBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/MovieRenderPipelineCore.MoviePipelineConfigBase",
+			"parentSoftObjectPath": "/Script/MovieRenderPipelineCore.MoviePipelineConfigBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Texture",
+			"parentSoftObjectPath": "/Script/Engine.Texture"
+		},
+		{
+			"classSoftObjectPath": "/Script/InterchangeCore.InterchangePipelineBase",
+			"parentSoftObjectPath": "/Script/InterchangeCore.InterchangePipelineBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/InterchangeCore.InterchangePipelineBase",
+			"parentSoftObjectPath": "/Script/InterchangeCore.InterchangePipelineBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/InterchangeCore.InterchangePipelineBase",
+			"parentSoftObjectPath": "/Script/InterchangeCore.InterchangePipelineBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/InterchangeCore.InterchangePipelineBase",
+			"parentSoftObjectPath": "/Script/InterchangeCore.InterchangePipelineBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.TextureRenderTarget",
+			"parentSoftObjectPath": "/Script/Engine.TextureRenderTarget"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Texture2D",
+			"parentSoftObjectPath": "/Script/Engine.Texture2D"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.VectorField",
+			"parentSoftObjectPath": "/Script/Engine.VectorField"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.ScriptStruct",
+			"parentSoftObjectPath": "/Script/CoreUObject.ScriptStruct"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.TextureRenderTarget",
+			"parentSoftObjectPath": "/Script/Engine.TextureRenderTarget"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.SkinnedAsset",
+			"parentSoftObjectPath": "/Script/Engine.SkinnedAsset"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.MaterialFunction",
+			"parentSoftObjectPath": "/Script/Engine.MaterialFunction"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.DataAsset",
+			"parentSoftObjectPath": "/Script/Engine.DataAsset"
+		},
+		{
+			"classSoftObjectPath": "/Script/ComputeFramework.ComputeSource",
+			"parentSoftObjectPath": "/Script/ComputeFramework.ComputeSource"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.MeshDeformer",
+			"parentSoftObjectPath": "/Script/Engine.MeshDeformer"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Blueprint",
+			"parentSoftObjectPath": "/Script/Engine.Blueprint"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Actor",
+			"parentSoftObjectPath": "/Script/Engine.Actor"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Light",
+			"parentSoftObjectPath": "/Script/Engine.Light"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Info",
+			"parentSoftObjectPath": "/Script/Engine.Info"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Actor",
+			"parentSoftObjectPath": "/Script/Engine.Actor"
+		},
+		{
+			"classSoftObjectPath": "/Script/Landscape.LandscapeProxy",
+			"parentSoftObjectPath": "/Script/Landscape.LandscapeProxy"
+		},
+		{
+			"classSoftObjectPath": "/Script/Landscape.LandscapeProxy",
+			"parentSoftObjectPath": "/Script/Landscape.LandscapeProxy"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Info",
+			"parentSoftObjectPath": "/Script/Engine.Info"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Info",
+			"parentSoftObjectPath": "/Script/Engine.Info"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Info",
+			"parentSoftObjectPath": "/Script/Engine.Info"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Info",
+			"parentSoftObjectPath": "/Script/Engine.Info"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Info",
+			"parentSoftObjectPath": "/Script/Engine.Info"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.DataAsset",
+			"parentSoftObjectPath": "/Script/Engine.DataAsset"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.DataAsset",
+			"parentSoftObjectPath": "/Script/Engine.DataAsset"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.SoundBase",
+			"parentSoftObjectPath": "/Script/Engine.SoundBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.SoundBase",
+			"parentSoftObjectPath": "/Script/Engine.SoundBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.FXSystemAsset",
+			"parentSoftObjectPath": "/Script/Engine.FXSystemAsset"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Blueprint",
+			"parentSoftObjectPath": "/Script/Engine.Blueprint"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.AnimSequenceBase",
+			"parentSoftObjectPath": "/Script/Engine.AnimSequenceBase"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.BlendSpace",
+			"parentSoftObjectPath": "/Script/Engine.BlendSpace"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.MaterialFunction",
+			"parentSoftObjectPath": "/Script/Engine.MaterialFunction"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/CoreUObject.Object",
+			"parentSoftObjectPath": "/Script/CoreUObject.Object"
+		},
+		{
+			"classSoftObjectPath": "/Script/Engine.Texture2D",
+			"parentSoftObjectPath": "/Script/Engine.Texture2D"
+		}
+	]
+}

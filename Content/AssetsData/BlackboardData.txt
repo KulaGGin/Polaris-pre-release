@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "BlackboardData",
+        "AssetName": "ALS_BB_AICharacter",
+        "FTopLevelAssetPath": {
+            "AssetName": "BlackboardData",
+            "PackageName": "/Script/AIModule"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Blueprints/CharacterLogic/AI/ALS_BB_AICharacter",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Blueprints/CharacterLogic/AI"
+    }
+]

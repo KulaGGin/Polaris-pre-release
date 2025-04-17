@@ -1,0 +1,4572 @@
+[
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_aml_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/aml/GhostAvatarData_aml_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/aml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_aml_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/aml/GhostAvatarData_aml_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/aml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_aml_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/aml/GhostAvatarData_aml_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/aml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_aml_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/aml/GhostAvatarData_aml_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/aml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_ant_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ant/AvatarData_ant_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ant"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ant_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ant/GhostAvatarData_ant_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ant"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ant_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ant/GhostAvatarData_ant_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ant"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ant_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ant/GhostAvatarData_ant_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ant"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ant_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ant/GhostAvatarData_ant_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ant"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_bbn_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/bbn/AvatarData_bbn_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/bbn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_bbn_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/bbn/GhostAvatarData_bbn_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/bbn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_bbn_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/bbn/GhostAvatarData_bbn_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/bbn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_bbn_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/bbn/GhostAvatarData_bbn_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/bbn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_bbn_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/bbn/GhostAvatarData_bbn_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/bbn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_bsn_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/bsn/GhostAvatarData_bsn_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/bsn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_bsn_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/bsn/GhostAvatarData_bsn_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/bsn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_bsn_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/bsn/GhostAvatarData_bsn_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/bsn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cat_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cat/GhostAvatarData_cat_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cat"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cat_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cat/GhostAvatarData_cat_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cat"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cat_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cat/GhostAvatarData_cat_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cat"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_cat_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cat/NpcAvatarData_cat_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cat"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ccn_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ccn/GhostAvatarData_ccn_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ccn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ccn_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ccn/GhostAvatarData_ccn_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ccn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ccn_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ccn/GhostAvatarData_ccn_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ccn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_cht_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/AvatarData_cht_004",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cht_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/GhostAvatarData_cht_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cht_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/GhostAvatarData_cht_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cht_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/GhostAvatarData_cht_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cht_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/GhostAvatarData_cht_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cht_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/GhostAvatarData_cht_004",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "InternalData_cht_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/InternalData_cht_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "InternalData_cht_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/InternalData_cht_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_cml_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cml/AvatarData_cml_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cml_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cml/GhostAvatarData_cml_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cml_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cml/GhostAvatarData_cml_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cml_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cml/GhostAvatarData_cml_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cml_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cml/GhostAvatarData_cml_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_cml_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cml/GhostAvatarData_cml_004",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_cml_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cml/NpcAvatarData_cml_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cml"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_crw_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/crw/GhostAvatarData_crw_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/crw"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_crw_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/crw/GhostAvatarData_crw_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/crw"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_crw_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/crw/GhostAvatarData_crw_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/crw"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ctr_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ctr/GhostAvatarData_ctr_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ctr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ctr_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ctr/GhostAvatarData_ctr_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ctr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ctr_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ctr/GhostAvatarData_ctr_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ctr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ctr_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ctr/GhostAvatarData_ctr_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ctr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_269",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/der/AvatarData_der_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/der"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_der_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/der/GhostAvatarData_der_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/der"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_der_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/der/GhostAvatarData_der_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/der"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_der_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/der/GhostAvatarData_der_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/der"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_der_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/der/GhostAvatarData_der_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/der"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_der_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/der/NpcAvatarData_der_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/der"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ghp_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ghp/GhostAvatarData_ghp_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ghp"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ghp_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ghp/GhostAvatarData_ghp_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ghp"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ghp_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ghp/GhostAvatarData_ghp_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ghp"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_grf_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grf/AvatarData_grf_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_grf_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grf/AvatarData_grf_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_grf_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grf/GhostAvatarData_grf_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_grf_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grf/GhostAvatarData_grf_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_grf_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grf/GhostAvatarData_grf_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_grf_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grf/GhostAvatarData_grf_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_grl_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grl/GhostAvatarData_grl_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grl"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_grl_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grl/GhostAvatarData_grl_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grl"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_grl_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grl/GhostAvatarData_grl_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grl"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_grl_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grl/GhostAvatarData_grl_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grl"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_grl_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grl/NpcAvatarData_grl_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grl"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_hms_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hms/AvatarData_hms_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hms"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_hms_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hms/GhostAvatarData_hms_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hms"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_hms_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hms/GhostAvatarData_hms_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hms"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_hms_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hms/GhostAvatarData_hms_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hms"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_hms_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hms/GhostAvatarData_hms_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hms"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_hms_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hms/NpcAvatarData_hms_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hms"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_hrs_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hrs/GhostAvatarData_hrs_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hrs"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_hrs_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hrs/GhostAvatarData_hrs_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hrs"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_hrs_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hrs/GhostAvatarData_hrs_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hrs"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_270",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/jly/AvatarData_jly_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/jly"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_jly_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/jly/GhostAvatarData_jly_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/jly"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_jly_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/jly/GhostAvatarData_jly_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/jly"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_jly_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/jly/GhostAvatarData_jly_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/jly"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_jly_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/jly/GhostAvatarData_jly_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/jly"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_jly_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/jly/NpcAvatarData_jly_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/jly"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_kal_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kal/GhostAvatarData_kal_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kal"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_kal_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kal/GhostAvatarData_kal_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kal"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_kal_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kal/GhostAvatarData_kal_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kal"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_klw_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/klw/GhostAvatarData_klw_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/klw"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_klw_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/klw/GhostAvatarData_klw_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/klw"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_klw_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/klw/GhostAvatarData_klw_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/klw"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_klw_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/klw/GhostAvatarData_klw_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/klw"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_klw_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/klw/NpcAvatarData_klw_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/klw"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_kmd_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kmd/AvatarData_kmd_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kmd"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_kmd_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kmd/AvatarData_kmd_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kmd"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_kmd_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kmd/GhostAvatarData_kmd_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kmd"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_kmd_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kmd/GhostAvatarData_kmd_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kmd"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_kmd_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kmd/GhostAvatarData_kmd_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kmd"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_kmd_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kmd/GhostAvatarData_kmd_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kmd"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_lon_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/lon/GhostAvatarData_lon_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/lon"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_lon_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/lon/GhostAvatarData_lon_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/lon"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_lon_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/lon/GhostAvatarData_lon_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/lon"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_lon_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/lon/NpcAvatarData_lon_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/lon"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_lzd_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/lzd/GhostAvatarData_lzd_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/lzd"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_lzd_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/lzd/GhostAvatarData_lzd_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/lzd"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_lzd_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/lzd/GhostAvatarData_lzd_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/lzd"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_mnt_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/mnt/AvatarData_mnt_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/mnt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_mnt_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/mnt/GhostAvatarData_mnt_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/mnt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_mnt_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/mnt/GhostAvatarData_mnt_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/mnt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_mnt_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/mnt/GhostAvatarData_mnt_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/mnt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_mnt_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/mnt/GhostAvatarData_mnt_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/mnt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_mnt_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/mnt/NpcAvatarData_mnt_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/mnt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_pgn_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/AvatarData_pgn_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_270",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/AvatarData_pgn_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_pgn_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/AvatarData_pgn_004",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_pgn_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/GhostAvatarData_pgn_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_pgn_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/GhostAvatarData_pgn_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_pgn_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/GhostAvatarData_pgn_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_pgn_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/GhostAvatarData_pgn_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_pgn_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/GhostAvatarData_pgn_004",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_pig_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pig/GhostAvatarData_pig_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pig"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_pig_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pig/GhostAvatarData_pig_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pig"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_pig_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pig/GhostAvatarData_pig_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pig"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_pig_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pig/GhostAvatarData_pig_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pig"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_rat_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rat/GhostAvatarData_rat_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rat"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_rat_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rat/GhostAvatarData_rat_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rat"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_rat_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rat/GhostAvatarData_rat_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rat"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_rat_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rat/NpcAvatarData_rat_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rat"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_rbt_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rbt/AvatarData_rbt_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rbt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_rbt_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rbt/GhostAvatarData_rbt_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rbt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_rbt_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rbt/GhostAvatarData_rbt_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rbt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_rbt_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rbt/GhostAvatarData_rbt_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rbt"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_snk_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/snk/AvatarData_snk_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/snk"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "AvatarData_snk_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/snk/AvatarData_snk_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/snk"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_snk_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/snk/GhostAvatarData_snk_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/snk"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_snk_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/snk/GhostAvatarData_snk_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/snk"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_snk_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/snk/GhostAvatarData_snk_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/snk"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_snk_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/snk/GhostAvatarData_snk_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/snk"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_snk_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/snk/GhostAvatarData_snk_004",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/snk"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_swl_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/swl/GhostAvatarData_swl_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/swl"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_swl_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/swl/GhostAvatarData_swl_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/swl"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_swl_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/swl/GhostAvatarData_swl_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/swl"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ttr_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ttr/GhostAvatarData_ttr_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ttr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ttr_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ttr/GhostAvatarData_ttr_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ttr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_ttr_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ttr/GhostAvatarData_ttr_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ttr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_272",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/wlf/AvatarData_wlf_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/wlf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_wlf_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/wlf/GhostAvatarData_wlf_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/wlf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_wlf_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/wlf/GhostAvatarData_wlf_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/wlf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_wlf_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/wlf/GhostAvatarData_wlf_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/wlf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_wlf_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/wlf/NpcAvatarData_wlf_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/wlf"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_269",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/zbr/AvatarData_zbr_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/zbr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_zbr_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/zbr/GhostAvatarData_zbr_000",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/zbr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_zbr_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/zbr/GhostAvatarData_zbr_001",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/zbr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_zbr_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/zbr/GhostAvatarData_zbr_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/zbr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "GhostAvatarData_zbr_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/zbr/GhostAvatarData_zbr_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/zbr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_zbr_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/zbr/NpcAvatarData_zbr_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/zbr"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_1",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_2",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_3",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_3",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_4",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_4",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_5",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_5",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_6",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_6",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_7",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_7",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_8",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_8",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_9",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_9",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_10",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_11",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_12",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_12",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_13",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_13",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_14",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_14",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_15",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_15",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_16",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_16",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_17",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_17",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_18",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_18",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_19",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_19",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_20",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_20",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_21",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_21",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_22",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_22",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_23",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_23",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_24",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_24",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_25",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_25",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_26",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_26",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_27",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_27",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_28",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_28",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_29",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_29",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_30",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_30",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_31",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_31",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_32",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_32",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_33",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_33",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_34",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_34",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_35",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_35",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_36",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_36",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_37",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_37",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_38",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_38",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_39",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_39",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_40",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_40",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_41",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_41",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_42",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_42",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_43",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_43",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_44",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_44",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_45",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_45",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_46",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_46",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_47",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_47",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_48",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_48",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_49",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_49",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_50",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_50",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_51",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_51",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_52",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_52",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_53",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_53",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_54",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_54",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_55",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_55",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_56",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_56",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_57",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_57",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_58",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_58",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_59",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_59",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_60",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_60",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_61",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_61",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_62",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_62",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_63",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_63",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_64",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_64",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_65",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_65",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_66",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_66",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_67",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_67",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_68",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_68",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_69",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_69",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_70",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_70",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_71",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_71",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_72",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_72",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_73",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_73",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_74",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_74",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_75",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_75",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_76",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_76",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_77",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_77",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_78",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_78",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_79",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_79",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_80",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_80",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_81",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_81",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_82",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_82",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_83",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_83",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_84",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_84",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_85",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_85",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_86",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_86",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_87",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_87",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_88",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_88",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_89",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_89",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_90",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_90",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_91",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_91",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_92",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_92",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_93",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_93",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_94",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_94",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_95",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_95",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_96",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_96",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_97",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_97",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_98",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_98",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_99",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_99",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_100",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_100",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_101",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_101",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_102",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_102",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_103",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_103",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_104",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_104",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_105",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_105",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_106",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_106",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_107",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_107",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_108",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_108",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_109",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_109",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_110",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_110",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_111",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_111",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_112",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_112",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_113",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_113",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_114",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_114",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_115",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_115",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_116",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_116",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_117",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_117",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_118",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_118",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_119",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_119",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_120",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_120",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_121",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_121",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_122",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_122",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_123",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_123",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_124",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_124",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_125",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_125",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_126",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_126",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_127",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_127",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_128",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_128",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_129",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_129",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_130",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_130",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_131",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_131",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_132",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_132",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_133",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_133",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_134",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_134",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_135",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_135",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_136",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_136",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_137",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_137",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_138",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_138",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_139",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_139",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_140",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_140",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_141",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_141",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_142",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_142",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_143",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_143",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_145",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_145",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_147",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_147",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_148",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_148",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_150",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_150",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_151",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_151",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_152",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_152",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_153",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_153",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_154",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_154",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_155",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_155",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_156",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_156",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_157",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_157",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_158",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_158",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_159",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_159",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_160",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_160",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_161",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_161",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_162",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_162",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_163",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_163",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_164",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_164",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_165",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_165",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_166",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_166",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_167",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_167",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_168",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_168",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_169",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_169",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_170",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_170",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_171",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_171",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_172",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_172",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_174",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_174",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_175",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_175",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_176",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_176",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_177",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_177",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_178",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_178",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_179",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_179",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_180",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_180",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_181",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_181",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_182",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_182",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_183",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_183",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_184",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_184",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_185",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_185",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_186",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_186",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_187",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_187",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_188",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_188",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_189",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_189",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_190",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_190",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_191",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_191",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_192",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_192",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_193",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_193",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_194",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_194",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_195",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_195",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_196",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_196",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_197",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_197",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_198",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_198",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_199",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_199",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_200",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_200",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_201",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_201",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_202",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_202",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_203",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_203",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_204",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_204",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_205",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_205",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_206",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_206",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_207",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_207",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_208",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_208",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_209",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_209",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_210",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_210",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_211",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_211",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_212",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_212",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_213",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_213",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_214",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_214",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_215",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_215",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_216",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_216",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_217",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_217",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_218",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_218",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_219",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_219",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_220",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_220",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_221",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_221",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_222",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_222",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_223",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_223",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_224",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_224",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_225",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_225",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_226",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_226",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_227",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_227",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_228",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_228",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_229",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_229",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_230",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_230",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_231",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_231",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_232",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_232",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_234",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_234",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_235",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_235",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_236",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_236",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_237",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_237",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_238",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_238",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_239",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_239",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_240",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_240",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_241",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_241",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_242",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_242",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_243",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_243",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_244",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_244",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_245",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_245",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_246",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_246",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_247",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_247",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_248",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_248",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_249",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_249",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_250",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_250",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_251",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_251",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_252",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_252",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_253",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_253",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_254",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_254",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_255",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_255",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_257",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_257",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_258",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_258",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_259",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_259",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_260",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_260",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_261",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_261",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_262",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_262",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_263",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_263",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_264",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_264",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_265",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_265",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_266",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_266",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_268",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_268",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_269",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_269",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_271",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_271",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_272",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_272",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_276",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_276",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_277",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_277",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_278",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_278",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_279",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_279",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_280",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_280",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_281",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_281",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_282",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_282",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_283",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_283",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_284",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_284",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_288",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_288",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_290",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_290",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_292",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_292",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_304",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_304",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_305",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_305",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_308",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_308",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_313",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_313",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_314",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_314",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_315",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_315",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_323",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_323",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_329",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_329",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_332",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_332",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_334",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_334",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_338",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_338",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_341",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_341",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_342",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_342",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_344",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_344",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_345",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_345",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_346",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_346",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_347",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_347",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_348",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_348",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_349",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_349",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_351",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_351",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_352",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_352",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_353",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_353",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_359",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_359",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_360",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_360",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_366",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_366",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_367",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_367",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_368",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_368",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_369",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_369",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    },
+    {
+        "AssetClass": "NpcAvatarData",
+        "AssetName": "NpcAvatarData_370",
+        "FTopLevelAssetPath": {
+            "AssetName": "NpcAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/AvatarCustomize/NpcData/NpcAvatarData_370",
+        "PackagePath": "/Game/TrueArcadeMode/AvatarCustomize/NpcData"
+    }
+]

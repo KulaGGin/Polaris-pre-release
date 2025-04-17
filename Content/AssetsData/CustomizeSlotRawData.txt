@@ -1,0 +1,2122 @@
+[
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_aml_tam_162",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml/CSRD_aml_tam_162",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_aml_tam_312",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml/CSRD_aml_tam_312",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_aml_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml/CSRD_aml_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_aml_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml/CSRD_aml_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_aml_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml/CSRD_aml_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_aml_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml/CSRD_aml_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/aml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_ant_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant/CS_ant_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ant_tam_177",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant/CSRD_ant_tam_177",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ant_tam_211",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant/CSRD_ant_tam_211",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ant_tam_561",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant/CSRD_ant_tam_561",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ant_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant/CSRD_ant_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ant_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant/CSRD_ant_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ant_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant/CSRD_ant_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ant_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant/CSRD_ant_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ant"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bbn_tam_214",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn/CSRD_bbn_tam_214",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bbn_tam_400",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn/CSRD_bbn_tam_400",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bbn_tam_532",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn/CSRD_bbn_tam_532",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bbn_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn/CSRD_bbn_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bbn_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn/CSRD_bbn_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bbn_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn/CSRD_bbn_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bbn_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn/CSRD_bbn_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bbn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bee_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bee/CSRD_bee_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bee"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bee_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bee/CSRD_bee_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bee"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bsn_tam_417",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn/CSRD_bsn_tam_417",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bsn_tam_515",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn/CSRD_bsn_tam_515",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bsn_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn/CSRD_bsn_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bsn_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn/CSRD_bsn_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_bsn_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn/CSRD_bsn_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/bsn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cat_tam_101",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat/CSRD_cat_tam_101",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cat_tam_402",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat/CSRD_cat_tam_402",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cat_tam_538",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat/CSRD_cat_tam_538",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cat_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat/CSRD_cat_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cat_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat/CSRD_cat_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cat_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat/CSRD_cat_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ccn_tam_413",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ccn/CSRD_ccn_tam_413",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ccn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ccn_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ccn/CSRD_ccn_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ccn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ccn_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ccn/CSRD_ccn_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ccn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ccn_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ccn/CSRD_ccn_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ccn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_cht_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CS_cht_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cht_tam_104",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CSRD_cht_tam_104",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cht_tam_531",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CSRD_cht_tam_531",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cht_tam_660",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CSRD_cht_tam_660",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cht_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CSRD_cht_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cht_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CSRD_cht_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cht_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CSRD_cht_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cht_tam_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CSRD_cht_tam_004",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cht_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CSRD_cht_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cht_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht/CSRD_cht_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cht"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_cml_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml/CS_cml_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cml_tam_317",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml/CSRD_cml_tam_317",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cml_tam_403",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml/CSRD_cml_tam_403",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cml_tam_536",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml/CSRD_cml_tam_536",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cml_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml/CSRD_cml_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cml_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml/CSRD_cml_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cml_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml/CSRD_cml_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cml_tam_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml/CSRD_cml_tam_004",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_cml_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml/CSRD_cml_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/cml"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_crw_tam_302",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw/CSRD_crw_tam_302",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_crw_tam_416",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw/CSRD_crw_tam_416",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_crw_tam_512",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw/CSRD_crw_tam_512",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_crw_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw/CSRD_crw_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_crw_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw/CSRD_crw_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/crw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ctr_tam_212",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr/CSRD_ctr_tam_212",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ctr_tam_404",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr/CSRD_ctr_tam_404",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ctr_tam_514",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr/CSRD_ctr_tam_514",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ctr_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr/CSRD_ctr_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ctr_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr/CSRD_ctr_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ctr_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr/CSRD_ctr_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ctr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_der_tam_313",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der/CSRD_der_tam_313",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_der_tam_000",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der/CSRD_der_tam_000",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_der_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der/CSRD_der_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_der_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der/CSRD_der_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_der_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der/CSRD_der_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_der_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der/CSRD_der_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/der"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ghp_tam_215",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp/CSRD_ghp_tam_215",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ghp_tam_419",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp/CSRD_ghp_tam_419",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ghp_tam_530",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp/CSRD_ghp_tam_530",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ghp_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp/CSRD_ghp_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ghp_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp/CSRD_ghp_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ghp"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grf_tam_200",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf/CSRD_grf_tam_200",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grf_tam_410",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf/CSRD_grf_tam_410",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_Created_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf/CSRD_grf_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grf_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf/CSRD_grf_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grf_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf/CSRD_grf_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grf_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf/CSRD_grf_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grf_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf/CSRD_grf_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grf_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf/CSRD_grf_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "_CSRD_grl_tam_311",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl/_CSRD_grl_tam_311",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grl_tam_311",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl/CSRD_grl_tam_311",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grl_tam_507",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl/CSRD_grl_tam_507",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grl_tam_663",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl/CSRD_grl_tam_663",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grl_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl/CSRD_grl_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grl_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl/CSRD_grl_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grl_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl/CSRD_grl_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_grl_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl/CSRD_grl_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/grl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_hms_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms/CS_hms_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hms_tam_300",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms/CSRD_hms_tam_300",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hms_tam_415",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms/CSRD_hms_tam_415",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hms_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms/CSRD_hms_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hms_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms/CSRD_hms_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hms_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms/CSRD_hms_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hms_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms/CSRD_hms_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hms_tam_011",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms/CSRD_hms_tam_011",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hms"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hrs_tam_102",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hrs/CSRD_hrs_tam_102",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hrs"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hrs_tam_421",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hrs/CSRD_hrs_tam_421",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hrs"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hrs_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hrs/CSRD_hrs_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hrs"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_hrs_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hrs/CSRD_hrs_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/hrs"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_jly_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly/CS_jly_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_jly_tam_177",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly/CSRD_jly_tam_177",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_jly_tam_303",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly/CSRD_jly_tam_303",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_jly_tam_513",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly/CSRD_jly_tam_513",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_jly_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly/CSRD_jly_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_jly_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly/CSRD_jly_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_jly_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly/CSRD_jly_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/jly"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kal_tam_213",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal/CSRD_kal_tam_213",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kal_tam_510",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal/CSRD_kal_tam_510",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kal_tam_661",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal/CSRD_kal_tam_661",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kal_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal/CSRD_kal_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kal_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal/CSRD_kal_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kal_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal/CSRD_kal_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kal"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_klw_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw/CS_klw_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_klw_tam_533",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw/CSRD_klw_tam_533",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_klw_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw/CSRD_klw_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_klw_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw/CSRD_klw_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_klw_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw/CSRD_klw_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/klw"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kmd_tam_534",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kmd/CSRD_kmd_tam_534",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kmd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kmd_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kmd/CSRD_kmd_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kmd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kmd_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kmd/CSRD_kmd_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kmd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_kmd_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kmd/CSRD_kmd_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/kmd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lon_tam_319",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon/CSRD_lon_tam_319",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lon_tam_401",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon/CSRD_lon_tam_401",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lon_tam_537",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon/CSRD_lon_tam_537",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lon_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon/CSRD_lon_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lon_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon/CSRD_lon_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lon_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon/CSRD_lon_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lon"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lzd_tam_202",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd/CSRD_lzd_tam_202",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lzd_tam_412",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd/CSRD_lzd_tam_412",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lzd_tam_509",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd/CSRD_lzd_tam_509",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lzd_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd/CSRD_lzd_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lzd_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd/CSRD_lzd_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_lzd_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd/CSRD_lzd_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/lzd"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_mnt_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt/CS_mnt_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_mnt_tam_314",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt/CSRD_mnt_tam_314",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_mnt_tam_418",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt/CSRD_mnt_tam_418",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_mnt_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt/CSRD_mnt_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_mnt_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt/CSRD_mnt_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_mnt_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt/CSRD_mnt_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_mnt_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt/CSRD_mnt_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/mnt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_pgn_tam_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn/CS_pgn_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pgn_tam_161",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn/CSRD_pgn_tam_161",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pgn_tam_310",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn/CSRD_pgn_tam_310",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pgn_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn/CSRD_pgn_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pgn_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn/CSRD_pgn_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pgn_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn/CSRD_pgn_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pgn_tam_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn/CSRD_pgn_tam_004",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pgn_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn/CSRD_pgn_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pgn_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn/CSRD_pgn_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pgn"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pig_tam_210",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig/CSRD_pig_tam_210",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pig_tam_411",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig/CSRD_pig_tam_411",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pig_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig/CSRD_pig_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pig_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig/CSRD_pig_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pig_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig/CSRD_pig_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pig_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig/CSRD_pig_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_pig_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig/CSRD_pig_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/pig"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rat_tam_103",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat/CSRD_rat_tam_103",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rat_tam_320",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat/CSRD_rat_tam_320",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rat_tam_508",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat/CSRD_rat_tam_508",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rat_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat/CSRD_rat_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rat_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat/CSRD_rat_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rat_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat/CSRD_rat_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rat_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat/CSRD_rat_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rat"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rbt_tam_318",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt/CSRD_rbt_tam_318",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rbt_tam_535",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt/CSRD_rbt_tam_535",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rbt_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt/CSRD_rbt_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rbt_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt/CSRD_rbt_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_rbt_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt/CSRD_rbt_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/rbt"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_snk_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk/CS_snk_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_snk_tam_201",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk/CSRD_snk_tam_201",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_snk_tam_414",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk/CSRD_snk_tam_414",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_snk_tam_511",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk/CSRD_snk_tam_511",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_snk_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk/CSRD_snk_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_snk_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk/CSRD_snk_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_snk_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk/CSRD_snk_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_snk_tam_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk/CSRD_snk_tam_004",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_snk_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk/CSRD_snk_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/snk"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_swl_tam_315",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl/CSRD_swl_tam_315",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_swl_tam_562",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl/CSRD_swl_tam_562",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_swl_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl/CSRD_swl_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_swl_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl/CSRD_swl_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_swl_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl/CSRD_swl_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/swl"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ttr_tam_160",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ttr/CSRD_ttr_tam_160",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ttr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ttr_tam_316",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ttr/CSRD_ttr_tam_316",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ttr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ttr_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ttr/CSRD_ttr_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ttr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_ttr_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ttr/CSRD_ttr_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/ttr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_wlf_tam_301",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf/CSRD_wlf_tam_301",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_wlf_tam_420",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf/CSRD_wlf_tam_420",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_wlf_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf/CSRD_wlf_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_wlf_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf/CSRD_wlf_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_wlf_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf/CSRD_wlf_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_wlf_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf/CSRD_wlf_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_wlf_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf/CSRD_wlf_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/wlf"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_zbr_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CS_zbr_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CS_zbr_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CS_zbr_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_Created_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CSRD_Created_1",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_Created_5",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CSRD_Created_5",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_zbr_tam_216",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CSRD_zbr_tam_216",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_zbr_tam_563",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CSRD_zbr_tam_563",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_zbr_tam_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CSRD_zbr_tam_001",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_zbr_tam_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CSRD_zbr_tam_002",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_zbr_tam_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CSRD_zbr_tam_003",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_zbr_tam_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CSRD_zbr_tam_010",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    },
+    {
+        "AssetClass": "CustomizeSlotRawData",
+        "AssetName": "CSRD_zbr_tam_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "CustomizeSlotRawData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr/CSRD_zbr_tam_019",
+        "PackagePath": "/Game/TrueArcadeMode/Character/Item/Customize_Slot_Raw_Data/zbr"
+    }
+]

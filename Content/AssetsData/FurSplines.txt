@@ -1,0 +1,252 @@
+[
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_hms_exp_cat",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/hms/extra/hms_exp_cat/meshes/FS_CH_hms_exp_cat",
+        "PackagePath": "/Game/Character/Item/model/unique/hms/extra/hms_exp_cat/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_jly_exp_dog_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/jly/extra/jly_exp_dog/meshes/FS_CH_jly_exp_dog_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/jly/extra/jly_exp_dog/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_jly_exp_dog_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/jly/extra/jly_exp_dog/meshes/FS_CH_jly_exp_dog_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/jly/extra/jly_exp_dog/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_exp_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/extra/pgn_exp_1p/meshes/FS_CH_pgn_exp_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/extra/pgn_exp_1p/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_A",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_A",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_B",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_B",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_C",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_C",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_D",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_D",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_E",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_E",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_F",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_F",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_G",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_G",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_H",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_H",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_I",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_I",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_pgn_fac_J",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes/FS_CH_pgn_fac_J",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/face/pgn_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_rbt_fac",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/face/rbt_fac/meshes/FS_CH_rbt_fac",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/face/rbt_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_rbt_bdf_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p/meshes/FS_CH_rbt_bdf_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_rbt_bdf_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p_p/meshes/FS_CH_rbt_bdf_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_1p_p/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_rbt_bdf_exclusive01",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_exclusive01/meshes/FS_CH_rbt_bdf_exclusive01",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_exclusive01/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_rbt_bdf_farmer",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_farmer/meshes/FS_CH_rbt_bdf_farmer",
+        "PackagePath": "/Game/Character/Item/model/unique/rbt/full_body/rbt_bdf_farmer/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_ttr_fac",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/face/ttr_fac/meshes/FS_CH_ttr_fac",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/face/ttr_fac/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_ttr_bdf_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p/meshes/FS_CH_ttr_bdf_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_ttr_bdf_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p_p/meshes/FS_CH_ttr_bdf_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p_p/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_ttr_bdf_exclusive01",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_exclusive01/meshes/FS_CH_ttr_bdf_exclusive01",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_exclusive01/meshes"
+    },
+    {
+        "AssetClass": "FurSplines",
+        "AssetName": "FS_CH_ttr_bdf_honeybee",
+        "FTopLevelAssetPath": {
+            "AssetName": "FurSplines",
+            "PackageName": "/Script/GFur"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_honeybee/meshes/FS_CH_ttr_bdf_honeybee",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_honeybee/meshes"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "BehaviorTree",
+        "AssetName": "ALS_BT_AICharacter",
+        "FTopLevelAssetPath": {
+            "AssetName": "BehaviorTree",
+            "PackageName": "/Script/AIModule"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Blueprints/CharacterLogic/AI/ALS_BT_AICharacter",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Blueprints/CharacterLogic/AI"
+    }
+]

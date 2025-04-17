@@ -1,0 +1,22 @@
+[
+    {
+        "AssetClass": "JiggleParamAsset",
+        "AssetName": "JP_CH_female_std",
+        "FTopLevelAssetPath": {
+            "AssetName": "JiggleParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/JP_CH_female_std",
+        "PackagePath": "/Game/Character/Item/shared/skeleton"
+    },
+    {
+        "AssetClass": "JiggleParamAsset",
+        "AssetName": "JP_CH_male_std",
+        "FTopLevelAssetPath": {
+            "AssetName": "JiggleParamAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/JP_CH_male_std",
+        "PackagePath": "/Game/Character/Item/shared/skeleton"
+    }
+]

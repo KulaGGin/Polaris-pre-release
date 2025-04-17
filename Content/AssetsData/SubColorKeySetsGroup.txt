@@ -1,0 +1,1362 @@
+[
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cf0_har_f_prowrestling_long2c_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cf0_har_f_prowrestling_long2c_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cm0_har_m_prowrestling_short2c_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cm0_har_m_prowrestling_short2c_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_bee_fah_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_bee_fah_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_m_moh_2c_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_m_moh_2c_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_sl_hikari_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_sl_hikari_2",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_kal_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_kal_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_sl_hikari_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_sl_hikari_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_mash_gradation_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_mash_gradation_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_sl_hikari_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_sl_hikari_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_bsn_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_bsn_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_long_bob_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_long_bob_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_short_wolf_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_short_wolf_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_pig_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_pig_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_mnt_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_mnt_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_grl_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_grl_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_zbr_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_zbr_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_ant_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_ant_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_ghp_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_ghp_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_wlf_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_wlf_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cm0_har_loose_short_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cm0_har_loose_short_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_snk_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_snk_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_grf_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_grf_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_wlf_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_wlf_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_allback_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_allback_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_aml_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_aml_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_mnt_har_1p_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_mnt_har_1p_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_loose_center_part_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_loose_center_part_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_rat_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_rat_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_mash_gradation_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_mash_gradation_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_mnt_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_mnt_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_grl_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_grl_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_hrs_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_hrs_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_fah_uncle_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_fah_uncle_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_sl_chisato_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_sl_chisato_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cat_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cat_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_hms_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_hms_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_bsn_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_bsn_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_fah_lazy_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_fah_lazy_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_short_bob_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_short_bob_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_kmd_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_kmd_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_aml_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_aml_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_ctr_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_ctr_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_hrs_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_hrs_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_crw_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_crw_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cf0_har_loose_short_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cf0_har_loose_short_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cat_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cat_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_der_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_der_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_lzd_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_lzd_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_pig_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_pig_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_hms_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_hms_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_hrs_fah_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_hrs_fah_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_wave_pony_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_wave_pony_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_crw_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_crw_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_jly_fah_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_jly_fah_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_grf_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_grf_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_acc_hairpiece_straight_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_acc_hairpiece_straight_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_short_center_part_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_short_center_part_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_ghp_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_ghp_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_kal_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_kal_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_der_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_der_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_sl_allison_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_sl_allison_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_mash_solid_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_mash_solid_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_ant_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_ant_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_rat_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_rat_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_jane_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_jane_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_snk_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_snk_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_klw_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_klw_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cht_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cht_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_ctr_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_ctr_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_grf_fah_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_grf_fah_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_okm_fah_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_okm_fah_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cf0_har_f_short_2c_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cf0_har_f_short_2c_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_okm_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_okm_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_grf_har_1p_p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_grf_har_1p_p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_f_halloween_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_f_halloween_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_mnt_har_rev_001_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_mnt_har_rev_001_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_ttr_bdf_1p_scarf_far_ball_R",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_ttr_bdf_1p_scarf_far_ball_R",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_acc_mini_santa_fur",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_acc_mini_santa_fur",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_lzd_har_1p_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_lzd_har_1p_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_f_endbiker_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_f_endbiker_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_dog_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_dog_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_sho_m_santa_fur",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_sho_m_santa_fur",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_mohawk_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_mohawk_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cm0_har_m_hero2b",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cm0_har_m_hero2b",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_bee_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_bee_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_m_endbiker_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_m_endbiker_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cf0_har_f_prowrestling_long2c_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cf0_har_f_prowrestling_long2c_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_jly_har_1p_colorful",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_jly_har_1p_colorful",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_f_kunoichipony2c_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_f_kunoichipony2c_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cf0_har_f_heroshort_2c_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cf0_har_f_heroshort_2c_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_bdu_f_mini_santa_fur",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_bdu_f_mini_santa_fur",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cm0_har_m_heroshort_2c_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cm0_har_m_heroshort_2c_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_f_halloween_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_f_halloween_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_acc_horseears_fur_pom",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_acc_horseears_fur_pom",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_dog_fah_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_dog_fah_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_dog_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_dog_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_klw_har_1p_5",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_klw_har_1p_5",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_bdu_m_kk_hakama_fur",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_bdu_m_kk_hakama_fur",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cf0_har_f_hero2b",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cf0_har_f_hero2b",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cm0_har_m_prowrestling_long2c_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cm0_har_m_prowrestling_long2c_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cbr_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cbr_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_dog_har_rev_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_dog_har_rev_001",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_jly_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_jly_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_lzd_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_lzd_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_ccn_har_1p_p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_ccn_har_1p_p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_rat_acc_cat_glove_fur_opaque",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_rat_acc_cat_glove_fur_opaque",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_acc_catears_fur_pom",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_acc_catears_fur_pom",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_bouzu_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_bouzu_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_acc_cattail",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_acc_cattail",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_bdu_m_ljacketfurdg_fur",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_bdu_m_ljacketfurdg_fur",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_ttr_bdf_1p_scarf_far_ball_L",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_ttr_bdf_1p_scarf_far_ball_L",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_okm_fac_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_okm_fac_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_mnt_har_rev_001_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_mnt_har_rev_001_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cm0_har_m_prowrestling_long2c_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cm0_har_m_prowrestling_long2c_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_bbn_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_bbn_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_short_serious_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_short_serious_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_m_kk_regent_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_m_kk_regent_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_f_endbiker_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_f_endbiker_2",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_dog_bdu_bijou_boa",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_dog_bdu_bijou_boa",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_buzzcut_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_buzzcut_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_hed_santa_fur",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_hed_santa_fur",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_kmd_bdu_1p_boa",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_kmd_bdu_1p_boa",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_rat_har_rev_001_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_rat_har_rev_001_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cf0_har_f_short_2c_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cf0_har_f_short_2c_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_f_endbiker_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_f_endbiker_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_m_moh_2c_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_m_moh_2c_1",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_m_dreadlocks",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_m_dreadlocks",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_kal_har_rev_001_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_kal_har_rev_001_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_klw_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_klw_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_rat_acc_cat_glove_fur",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_rat_acc_cat_glove_fur",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SKCS_cmn_har_m_moh_2c_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SKCS_cmn_har_m_moh_2c_2",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_crw_har_rev_001_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_crw_har_rev_001_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_f_armor_miko_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_f_armor_miko_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_kmd_har_1p_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_kmd_har_1p_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_FurItem_cmn_bdu_m_santa_fur",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/FurItem/SCKS_FurItem_cmn_bdu_m_santa_fur",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/FurItem"
+    },
+    {
+        "AssetClass": "SubColorKeySetsGroup",
+        "AssetName": "SCKS_cmn_har_m_endbiker_0",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsGroup",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/HairItem/SCKS_cmn_har_m_endbiker_0",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets/HairItem"
+    }
+]

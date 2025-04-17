@@ -1,0 +1,476 @@
+{
+	"Assets":
+	[
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Battle1_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/ST02_Battle1_PL",
+        "PackagePath": "/Game/Stage/ST02_NeoCity"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/ST02_Demo1_PL",
+        "PackagePath": "/Game/Stage/ST02_NeoCity"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/ST02_PL",
+        "PackagePath": "/Game/Stage/ST02_NeoCity"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Advertise_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Advertise_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Battle_Advertise_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Battle_Advertise_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Battle_Debug",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Battle_Debug",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Battle_Demo_OFF_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Battle_Demo_OFF_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Battle_Demo_ON_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Battle_Demo_ON_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Battle_Program",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Battle_Program",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Battle_Sound",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Battle_Sound",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Debug",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Debug",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Advertise_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Advertise_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Debug",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Debug",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Demo_OFF_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Demo_OFF_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Demo_ON_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Demo_ON_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Effect_1a",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Effect_1a",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Effect_2a",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Effect_2a",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Effect_3a",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Effect_3a",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Geom_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Geom_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Geom_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Geom_2",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Geom_1a",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Geom_1a",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Geom_1b",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Geom_1b",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Geom_1c",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Geom_1c",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Geom_Base_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Geom_Base_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Light_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Light_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Light_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Light_2",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Post_Round1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Post_Round1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Post_Round2",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Post_Round2",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Program",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Program",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo1_Sound",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Sound",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo_OFF_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo_OFF_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Demo_ON_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo_ON_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Effect_1a",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Effect_1a",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Effect_3a",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Effect_3a",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Geom_1a",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Geom_1a",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Geom_1b",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Geom_1b",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Geom_Base_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Geom_Base_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Light_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Light_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Light_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Light_2",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Light_3",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Light_3",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Mob_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Mob_1",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Mob_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Mob_2",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Mob_3",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Mob_3",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Mob_1crowd",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Mob_1crowd",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Mob_2crowdEVENING",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Mob_2crowdEVENING",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Program",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Program",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "World",
+        "AssetName": "ST02_Sound",
+        "FTopLevelAssetPath": {
+            "AssetName": "World",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Sound",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+
+]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "AssetClass": "BP_PDA_SubColorKeySet_C",
+        "AssetName": "DA_ItemColorsSubColorKeySet_Main",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_PDA_SubColorKeySet_C",
+            "PackageName": "/Game/Character/Blueprints/SubColor/BP_PDA_SubColorKeySet"
+        },
+        "PackageName": "/Game/Character/Blueprints/DataTable/HairColors/DA_ItemColorsSubColorKeySet_Main",
+        "PackagePath": "/Game/Character/Blueprints/DataTable/HairColors"
+    },
+    {
+        "AssetClass": "BP_PDA_SubColorKeySet_C",
+        "AssetName": "DA_HairColorsSubColorKeySet_Main",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_PDA_SubColorKeySet_C",
+            "PackageName": "/Game/Character/Blueprints/SubColor/BP_PDA_SubColorKeySet"
+        },
+        "PackageName": "/Game/Character/Blueprints/DataTable/HairColors/DA_HairColorsSubColorKeySet_Main",
+        "PackagePath": "/Game/Character/Blueprints/DataTable/HairColors"
+    },
+    {
+        "AssetClass": "BP_PDA_SubColorKeySet_C",
+        "AssetName": "DA_HairColorsSubColorKeySet_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_PDA_SubColorKeySet_C",
+            "PackageName": "/Game/Character/Blueprints/SubColor/BP_PDA_SubColorKeySet"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/HairColors/DA_HairColorsSubColorKeySet_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/HairColors"
+    }
+]

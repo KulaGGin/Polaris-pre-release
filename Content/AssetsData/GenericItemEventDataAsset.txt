@@ -1,0 +1,22 @@
+[
+    {
+        "AssetClass": "GenericItemEventDataAsset",
+        "AssetName": "GIE_kal_wepon",
+        "FTopLevelAssetPath": {
+            "AssetName": "GenericItemEventDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Blueprints/DataTable/GenericItemEvent/GIE_kal_wepon",
+        "PackagePath": "/Game/Character/Blueprints/DataTable/GenericItemEvent"
+    },
+    {
+        "AssetClass": "GenericItemEventDataAsset",
+        "AssetName": "GIE_pig_wepon",
+        "FTopLevelAssetPath": {
+            "AssetName": "GenericItemEventDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Blueprints/DataTable/GenericItemEvent/GIE_pig_wepon",
+        "PackagePath": "/Game/Character/Blueprints/DataTable/GenericItemEvent"
+    }
+]

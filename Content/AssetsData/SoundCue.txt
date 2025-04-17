@@ -1,0 +1,52 @@
+[
+    {
+        "AssetClass": "SoundCue",
+        "AssetName": "Close_Thunder_Cue",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundCue",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder/Close_Thunder_Cue",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Close_Thunder"
+    },
+    {
+        "AssetClass": "SoundCue",
+        "AssetName": "DistantThunder_Cue",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundCue",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_Cue",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Distant_Thunder"
+    },
+    {
+        "AssetClass": "SoundCue",
+        "AssetName": "Rain_Cue",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundCue",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Rain/Rain_Cue",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Rain"
+    },
+    {
+        "AssetClass": "SoundCue",
+        "AssetName": "Wind_Cue",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundCue",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Wind/Wind_Cue",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Wind"
+    },
+    {
+        "AssetClass": "SoundCue",
+        "AssetName": "Wind_Whistling_Cue",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundCue",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Sound/Wind/Wind_Whistling_Cue",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Sound/Wind"
+    }
+]

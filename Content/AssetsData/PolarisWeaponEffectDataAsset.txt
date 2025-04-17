@@ -1,0 +1,62 @@
+[
+    {
+        "AssetClass": "PolarisWeaponEffectDataAsset",
+        "AssetName": "DA_OKM_Weapon_Position",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisWeaponEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/okm/DA_OKM_Weapon_Position",
+        "PackagePath": "/Game/Character/Trace/okm"
+    },
+    {
+        "AssetClass": "PolarisWeaponEffectDataAsset",
+        "AssetName": "DA_CML_Weapon_Position",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisWeaponEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/cml/DA_CML_Weapon_Position",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "PolarisWeaponEffectDataAsset",
+        "AssetName": "DA_JLY_Weapon_Position",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisWeaponEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/jly/DA_JLY_Weapon_Position",
+        "PackagePath": "/Game/Character/Trace/jly"
+    },
+    {
+        "AssetClass": "PolarisWeaponEffectDataAsset",
+        "AssetName": "DA_LON_Weapon_Position",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisWeaponEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/lon/DA_LON_Weapon_Position",
+        "PackagePath": "/Game/Character/Trace/lon"
+    },
+    {
+        "AssetClass": "PolarisWeaponEffectDataAsset",
+        "AssetName": "DA_MNT_Weapon_Position",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisWeaponEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/mnt/DA_MNT_Weapon_Position",
+        "PackagePath": "/Game/Character/Trace/mnt"
+    },
+    {
+        "AssetClass": "PolarisWeaponEffectDataAsset",
+        "AssetName": "DA_PIG_Weapon_Position",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisWeaponEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/pig/DA_PIG_Weapon_Position",
+        "PackagePath": "/Game/Character/Trace/pig"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "SoundMix",
+        "AssetName": "Duck_Normal_Attack_MixMod",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundMix",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSounds/Duck_Normal_Attack_MixMod",
+        "PackagePath": "/Engine/EngineSounds"
+    }
+]

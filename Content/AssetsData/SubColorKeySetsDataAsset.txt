@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "SubColorKeySetsDataAsset",
+        "AssetName": "SCKS_DataAsset",
+        "FTopLevelAssetPath": {
+            "AssetName": "SubColorKeySetsDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/SubColorKeySets/SCKS_DataAsset",
+        "PackagePath": "/Game/Character/Item/SubColorKeySets"
+    }
+]

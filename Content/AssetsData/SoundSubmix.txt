@@ -1,0 +1,42 @@
+[
+    {
+        "AssetClass": "SoundSubmix",
+        "AssetName": "TTSMasterSoundSubmix",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundSubmix",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Sound/GameCom/TTSinput/TTSMasterSoundSubmix",
+        "PackagePath": "/Game/Sound/GameCom/TTSinput"
+    },
+    {
+        "AssetClass": "SoundSubmix",
+        "AssetName": "MasterReverbSubmixDefault",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundSubmix",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSounds/Submixes/MasterReverbSubmixDefault",
+        "PackagePath": "/Engine/EngineSounds/Submixes"
+    },
+    {
+        "AssetClass": "SoundSubmix",
+        "AssetName": "MasterSubmixDefault",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundSubmix",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSounds/Submixes/MasterSubmixDefault",
+        "PackagePath": "/Engine/EngineSounds/Submixes"
+    },
+    {
+        "AssetClass": "SoundSubmix",
+        "AssetName": "MasterEQSubmixDefault",
+        "FTopLevelAssetPath": {
+            "AssetName": "SoundSubmix",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSounds/Submixes/MasterEQSubmixDefault",
+        "PackagePath": "/Engine/EngineSounds/Submixes"
+    }
+]

@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Tekken 8 Forge Importer",
+	"Description": "Tekken 8 Asset Importer",
+	"Category": "Others",
+	"CreatedBy": "Sergei Kulagin",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": 
+    [
+			{
+				"Name": "Tekken8ForgeImporter",
+				"Type": "Editor",
+				"LoadingPhase": "PreDefault",
+				"AdditionalDependencies": [
+					"Polaris",
+					"UnrealEd",
+					"Core",
+					"CoreUObject",
+					"LevelSequence",
+					"Json",
+					"JsonUtilities",
+					"UMG",
+					"Blutility"
+				]
+			}
+	]
+}

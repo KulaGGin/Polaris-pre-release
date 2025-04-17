@@ -1,0 +1,52 @@
+[
+    {
+        "AssetClass": "CurveVector",
+        "AssetName": "NormalMovement",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveVector",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves/NormalMovement",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves"
+    },
+    {
+        "AssetClass": "CurveVector",
+        "AssetName": "ResponsiveMovement",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveVector",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves/ResponsiveMovement",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves"
+    },
+    {
+        "AssetClass": "CurveVector",
+        "AssetName": "SluggishMovement",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveVector",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves/SluggishMovement",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/CharacterMovementCurves"
+    },
+    {
+        "AssetClass": "CurveVector",
+        "AssetName": "Mantle_1m",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveVector",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/MantleCurves/Mantle_1m",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/MantleCurves"
+    },
+    {
+        "AssetClass": "CurveVector",
+        "AssetName": "Mantle_2m",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveVector",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/MantleCurves/Mantle_2m",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Curves/MantleCurves"
+    }
+]

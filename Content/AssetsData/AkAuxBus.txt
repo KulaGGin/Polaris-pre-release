@@ -1,0 +1,332 @@
+[
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st19_okm_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/_DLC/v110/BattleCom/Convolution_Reverb/ReVoxel_st19_okm_AmbiX",
+        "PackagePath": "/Game/Sound/_DLC/v110/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "Distortion_Test",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/AuxCom/Distortion_Test",
+        "PackagePath": "/Game/Sound/BattleCom/AuxCom"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "AmbisonicsIR_Church_Ambisonics",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/AmbisonicsIR_Church_Ambisonics",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "AmbisonicsIR_Church_Stereo",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/AmbisonicsIR_Church_Stereo",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "Hanyu_st02_NeoCity_IR_late_stereo_Test_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/Hanyu_st02_NeoCity_IR_late_stereo_Test_001",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "Hanyu_st03_Island_IR_late_stereo_Test_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/Hanyu_st03_Island_IR_late_stereo_Test_001",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "Hanyu_st05_Hangar_IR_late_stereo_Test_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/Hanyu_st05_Hangar_IR_late_stereo_Test_001",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "IR_Test",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/IR_Test",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st01_Arena_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st01_Arena_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st01_Arena_PL_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st01_Arena_PL_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st02_NeoCity",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st02_NeoCity",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st02_NeoCity_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st02_NeoCity_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st03_Island",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st03_Island",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st03_Island_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st03_Island_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st04_Colosseum_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st04_Colosseum_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st05_Hangar",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st05_Hangar",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st05_Hangar_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st05_Hangar_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st07_FinalBattle_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st07_FinalBattle_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st09_SpiritWorld_AmbiX_B1",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st09_SpiritWorld_AmbiX_B1",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st09_SpiritWorld_AmbiX_B2",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st09_SpiritWorld_AmbiX_B2",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st09_SpiritWorld_AmbiX_F1",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st09_SpiritWorld_AmbiX_F1",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st10_Mountains_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st10_Mountains_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st11_VolcanicBomb_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st11_VolcanicBomb_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st12_InTheMist_AmbiX_B1",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st12_InTheMist_AmbiX_B1",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st12_InTheMist_AmbiX_F1",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st12_InTheMist_AmbiX_F1",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st12_InTheMist_AmbiX_F2",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st12_InTheMist_AmbiX_F2",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st13_River_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st13_River_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st14_Garden_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st14_Garden_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st15_PL_hanyu",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st15_PL_hanyu",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st15_PL_Pebthouse_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st15_PL_Pebthouse_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st15_PL_Pebthouse_AmbiX_Balcony",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st15_PL_Pebthouse_AmbiX_Balcony",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st16_WarZone",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st16_WarZone",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    },
+    {
+        "AssetClass": "AkAuxBus",
+        "AssetName": "ReVoxel_st90_BeachSide_AmbiX",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAuxBus",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/BattleCom/Convolution_Reverb/ReVoxel_st90_BeachSide_AmbiX",
+        "PackagePath": "/Game/Sound/BattleCom/Convolution_Reverb"
+    }
+]

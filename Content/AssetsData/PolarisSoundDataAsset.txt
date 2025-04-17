@@ -1,0 +1,942 @@
+[
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankGameCom",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/GameCom/SDA_BankGameCom",
+        "PackagePath": "/Game/Sound/GameCom"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankGeneralBgm",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Bgm/SDA_BankGeneralBgm",
+        "PackagePath": "/Game/Sound/Bgm"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg17",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v106/StageSe/Stg17/SDA_Stg17",
+        "PackagePath": "/Game/Sound/_DLC/v106/StageSe/Stg17"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg18",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/StageSe/Stg18/SDA_Stg18",
+        "PackagePath": "/Game/Sound/_DLC/v108/StageSe/Stg18"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryYac01",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/Story/SE/Yac01/SDA_BankStoryYac01",
+        "PackagePath": "/Game/Sound/_DLC/v108/Story/SE/Yac01"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryYac02",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/Story/SE/Yac02/SDA_BankStoryYac02",
+        "PackagePath": "/Game/Sound/_DLC/v108/Story/SE/Yac02"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryYac03",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/Story/SE/Yac03/SDA_BankStoryYac03",
+        "PackagePath": "/Game/Sound/_DLC/v108/Story/SE/Yac03"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryYac04",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/Story/SE/Yac04/SDA_BankStoryYac04",
+        "PackagePath": "/Game/Sound/_DLC/v108/Story/SE/Yac04"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryYac05",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/Story/SE/Yac05/SDA_BankStoryYac05",
+        "PackagePath": "/Game/Sound/_DLC/v108/Story/SE/Yac05"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryYac06",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/Story/SE/Yac06/SDA_BankStoryYac06",
+        "PackagePath": "/Game/Sound/_DLC/v108/Story/SE/Yac06"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryYac07",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/Story/SE/Yac07/SDA_BankStoryYac07",
+        "PackagePath": "/Game/Sound/_DLC/v108/Story/SE/Yac07"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryYac08",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/Story/SE/Yac08/SDA_BankStoryYac08",
+        "PackagePath": "/Game/Sound/_DLC/v108/Story/SE/Yac08"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankYellowBookCom",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/_DLC/v108/Story/YellowBook/SDA_BankYellowBookCom",
+        "PackagePath": "/Game/Sound/_DLC/v108/Story/YellowBook"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankBattleCom",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/BattleCom/SDA_BankBattleCom",
+        "PackagePath": "/Game/Sound/BattleCom"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaAML",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/AML/SDA_BankCharaAML",
+        "PackagePath": "/Game/Sound/Character/AML"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaANT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/ANT/SDA_BankCharaANT",
+        "PackagePath": "/Game/Sound/Character/ANT"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaBBN",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/BBN/SDA_BankCharaBBN",
+        "PackagePath": "/Game/Sound/Character/BBN"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaBEE",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/BEE/SDA_BankCharaBEE",
+        "PackagePath": "/Game/Sound/Character/BEE"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaBSN",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/BSN/SDA_BankCharaBSN",
+        "PackagePath": "/Game/Sound/Character/BSN"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaCAT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/CAT/SDA_BankCharaCAT",
+        "PackagePath": "/Game/Sound/Character/CAT"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaCBR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/CBR/SDA_BankCharaCBR",
+        "PackagePath": "/Game/Sound/Character/CBR"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaCCN",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/CCN/SDA_BankCharaCCN",
+        "PackagePath": "/Game/Sound/Character/CCN"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaCHT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/CHT/SDA_BankCharaCHT",
+        "PackagePath": "/Game/Sound/Character/CHT"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaCML",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/CML/SDA_BankCharaCML",
+        "PackagePath": "/Game/Sound/Character/CML"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaCRW",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/CRW/SDA_BankCharaCRW",
+        "PackagePath": "/Game/Sound/Character/CRW"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaCTR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/CTR/SDA_BankCharaCTR",
+        "PackagePath": "/Game/Sound/Character/CTR"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaDER",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/DER/SDA_BankCharaDER",
+        "PackagePath": "/Game/Sound/Character/DER"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaDOG",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/DOG/SDA_BankCharaDOG",
+        "PackagePath": "/Game/Sound/Character/DOG"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaGHP",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/GHP/SDA_BankCharaGHP",
+        "PackagePath": "/Game/Sound/Character/GHP"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaGOT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/GOT/SDA_BankCharaGOT",
+        "PackagePath": "/Game/Sound/Character/GOT"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaGRF",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/GRF/SDA_BankCharaGRF",
+        "PackagePath": "/Game/Sound/Character/GRF"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaGRL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/GRL/SDA_BankCharaGRL",
+        "PackagePath": "/Game/Sound/Character/GRL"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaHMS",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/HMS/SDA_BankCharaHMS",
+        "PackagePath": "/Game/Sound/Character/HMS"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaHRS",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/HRS/SDA_BankCharaHRS",
+        "PackagePath": "/Game/Sound/Character/HRS"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaJLY",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/JLY/SDA_BankCharaJLY",
+        "PackagePath": "/Game/Sound/Character/JLY"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaKAL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/KAL/SDA_BankCharaKAL",
+        "PackagePath": "/Game/Sound/Character/KAL"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaKLW",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/KLW/SDA_BankCharaKLW",
+        "PackagePath": "/Game/Sound/Character/KLW"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaKMD",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/KMD/SDA_BankCharaKMD",
+        "PackagePath": "/Game/Sound/Character/KMD"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaLON",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/LON/SDA_BankCharaLON",
+        "PackagePath": "/Game/Sound/Character/LON"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaLZD",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/LZD/SDA_BankCharaLZD",
+        "PackagePath": "/Game/Sound/Character/LZD"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaMNT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/MNT/SDA_BankCharaMNT",
+        "PackagePath": "/Game/Sound/Character/MNT"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaOKM",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/OKM/SDA_BankCharaOKM",
+        "PackagePath": "/Game/Sound/Character/OKM"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaPGN",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/PGN/SDA_BankCharaPGN",
+        "PackagePath": "/Game/Sound/Character/PGN"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaPIG",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/PIG/SDA_BankCharaPIG",
+        "PackagePath": "/Game/Sound/Character/PIG"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaRAT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/RAT/SDA_BankCharaRAT",
+        "PackagePath": "/Game/Sound/Character/RAT"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaRBT",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/RBT/SDA_BankCharaRBT",
+        "PackagePath": "/Game/Sound/Character/RBT"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaSNK",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/SNK/SDA_BankCharaSNK",
+        "PackagePath": "/Game/Sound/Character/SNK"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaSWL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/SWL/SDA_BankCharaSWL",
+        "PackagePath": "/Game/Sound/Character/SWL"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaTTR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/TTR/SDA_BankCharaTTR",
+        "PackagePath": "/Game/Sound/Character/TTR"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaWLF",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/WLF/SDA_BankCharaWLF",
+        "PackagePath": "/Game/Sound/Character/WLF"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaXXA",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/XXA/SDA_BankCharaXXA",
+        "PackagePath": "/Game/Sound/Character/XXA"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaXXB",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/XXB/SDA_BankCharaXXB",
+        "PackagePath": "/Game/Sound/Character/XXB"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaXXC",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/XXC/SDA_BankCharaXXC",
+        "PackagePath": "/Game/Sound/Character/XXC"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaXXD",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/XXD/SDA_BankCharaXXD",
+        "PackagePath": "/Game/Sound/Character/XXD"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaXXE",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/XXE/SDA_BankCharaXXE",
+        "PackagePath": "/Game/Sound/Character/XXE"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaXXF",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/XXF/SDA_BankCharaXXF",
+        "PackagePath": "/Game/Sound/Character/XXF"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaXXG",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/XXG/SDA_BankCharaXXG",
+        "PackagePath": "/Game/Sound/Character/XXG"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankCharaZBR",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Character/ZBR/SDA_BankCharaZBR",
+        "PackagePath": "/Game/Sound/Character/ZBR"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_SoundDebugMap",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/SoundDebugMap/SDA_SoundDebugMap",
+        "PackagePath": "/Game/Sound/StageSe/SoundDebugMap"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg01",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg01/SDA_Stg01",
+        "PackagePath": "/Game/Sound/StageSe/Stg01"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg02",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg02/SDA_Stg02",
+        "PackagePath": "/Game/Sound/StageSe/Stg02"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg03",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg03/SDA_Stg03",
+        "PackagePath": "/Game/Sound/StageSe/Stg03"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg04",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg04/SDA_Stg04",
+        "PackagePath": "/Game/Sound/StageSe/Stg04"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg05",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg05/SDA_Stg05",
+        "PackagePath": "/Game/Sound/StageSe/Stg05"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg07",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg07/SDA_Stg07",
+        "PackagePath": "/Game/Sound/StageSe/Stg07"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg08",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg08/SDA_Stg08",
+        "PackagePath": "/Game/Sound/StageSe/Stg08"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg09",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg09/SDA_Stg09",
+        "PackagePath": "/Game/Sound/StageSe/Stg09"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg10",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg10/SDA_Stg10",
+        "PackagePath": "/Game/Sound/StageSe/Stg10"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg11",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg11/SDA_Stg11",
+        "PackagePath": "/Game/Sound/StageSe/Stg11"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg12",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg12/SDA_Stg12",
+        "PackagePath": "/Game/Sound/StageSe/Stg12"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg13",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg13/SDA_Stg13",
+        "PackagePath": "/Game/Sound/StageSe/Stg13"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg14",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg14/SDA_Stg14",
+        "PackagePath": "/Game/Sound/StageSe/Stg14"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg15",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg15/SDA_Stg15",
+        "PackagePath": "/Game/Sound/StageSe/Stg15"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg16",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg16/SDA_Stg16",
+        "PackagePath": "/Game/Sound/StageSe/Stg16"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg18",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg18/SDA_Stg18",
+        "PackagePath": "/Game/Sound/StageSe/Stg18"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg19",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg19/SDA_Stg19",
+        "PackagePath": "/Game/Sound/StageSe/Stg19"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_Stg90",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg90/SDA_Stg90",
+        "PackagePath": "/Game/Sound/StageSe/Stg90"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankMainStoryCom",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/MainStory/SDA_BankMainStoryCom",
+        "PackagePath": "/Game/Sound/Story/MainStory"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct01",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act01/SDA_BankStoryAct01",
+        "PackagePath": "/Game/Sound/Story/SE/Act01"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct02",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act02/SDA_BankStoryAct02",
+        "PackagePath": "/Game/Sound/Story/SE/Act02"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct03",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act03/SDA_BankStoryAct03",
+        "PackagePath": "/Game/Sound/Story/SE/Act03"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct04",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act04/SDA_BankStoryAct04",
+        "PackagePath": "/Game/Sound/Story/SE/Act04"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct05",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act05/SDA_BankStoryAct05",
+        "PackagePath": "/Game/Sound/Story/SE/Act05"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct06",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act06/SDA_BankStoryAct06",
+        "PackagePath": "/Game/Sound/Story/SE/Act06"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct07",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act07/SDA_BankStoryAct07",
+        "PackagePath": "/Game/Sound/Story/SE/Act07"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct08",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act08/SDA_BankStoryAct08",
+        "PackagePath": "/Game/Sound/Story/SE/Act08"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct09",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act09/SDA_BankStoryAct09",
+        "PackagePath": "/Game/Sound/Story/SE/Act09"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct10",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act10/SDA_BankStoryAct10",
+        "PackagePath": "/Game/Sound/Story/SE/Act10"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct11",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act11/SDA_BankStoryAct11",
+        "PackagePath": "/Game/Sound/Story/SE/Act11"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct12",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act12/SDA_BankStoryAct12",
+        "PackagePath": "/Game/Sound/Story/SE/Act12"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct13",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act13/SDA_BankStoryAct13",
+        "PackagePath": "/Game/Sound/Story/SE/Act13"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct14",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act14/SDA_BankStoryAct14",
+        "PackagePath": "/Game/Sound/Story/SE/Act14"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankStoryAct15",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/Story/SE/Act15/SDA_BankStoryAct15",
+        "PackagePath": "/Game/Sound/Story/SE/Act15"
+    },
+    {
+        "AssetClass": "PolarisSoundDataAsset",
+        "AssetName": "SDA_BankTekkenBall",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisSoundDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Sound/TekkenBall/SDA_BankTekkenBall",
+        "PackagePath": "/Game/Sound/TekkenBall"
+    }
+]

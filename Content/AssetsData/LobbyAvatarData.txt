@@ -1,0 +1,362 @@
+[
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "AvatarPresetData_1",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Preset/AvatarPresetData_1",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Preset"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_ant_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/ant/InternalData_ant_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/ant"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_bbn_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/bbn/InternalData_bbn_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/bbn"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_cat_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cat/NpcInternalData_cat_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cat"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "AvatarData_cht_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/AvatarData_cht_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "AvatarData_cht_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/AvatarData_cht_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_cht_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cht/InternalData_cht_004",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cht"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_cml_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cml/InternalData_cml_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cml"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_cml_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/cml/NpcInternalData_cml_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/cml"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_269",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/der/InternalData_der_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/der"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_der_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/der/NpcInternalData_der_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/der"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_grf_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grf/InternalData_grf_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grf"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_grf_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grf/InternalData_grf_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grf"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_grl_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grl/InternalData_grl_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grl"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_grl_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/grl/NpcInternalData_grl_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/grl"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_hms_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hms/InternalData_hms_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hms"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_hms_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/hms/NpcInternalData_hms_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/hms"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_270",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/jly/InternalData_jly_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/jly"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_jly_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/jly/NpcInternalData_jly_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/jly"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_klw_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/klw/NpcInternalData_klw_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/klw"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_kmd_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kmd/InternalData_kmd_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kmd"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_kmd_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/kmd/InternalData_kmd_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/kmd"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_lon_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/lon/NpcInternalData_lon_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/lon"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_mnt_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/mnt/InternalData_mnt_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/mnt"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_mnt_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/mnt/NpcInternalData_mnt_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/mnt"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_pgn_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/InternalData_pgn_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_270",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/InternalData_pgn_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_pgn_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/pgn/InternalData_pgn_004",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/pgn"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_rat_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rat/NpcInternalData_rat_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rat"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_rbt_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/rbt/InternalData_rbt_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/rbt"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_snk_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/snk/InternalData_snk_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/snk"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "InternalData_snk_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/snk/InternalData_snk_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/snk"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_272",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/wlf/InternalData_wlf_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/wlf"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_wlf_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/wlf/NpcInternalData_wlf_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/wlf"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_269",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/zbr/InternalData_zbr_003",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/zbr"
+    },
+    {
+        "AssetClass": "LobbyAvatarData",
+        "AssetName": "NpcInternalData_zbr_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "LobbyAvatarData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/RomGhost/Avatar_Customize/zbr/NpcInternalData_zbr_002",
+        "PackagePath": "/Game/RomGhost/Avatar_Customize/zbr"
+    }
+]

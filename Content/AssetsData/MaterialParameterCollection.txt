@@ -1,0 +1,302 @@
+[
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_ENV_Fragment",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_ENV_Fragment",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_FootShadow",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/FootShadow/MPC_FootShadow",
+        "PackagePath": "/Game/Character/FootShadow"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_Effect_InvColorGrading",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_Effect_InvColorGrading",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_Character_Aura",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_Character_Aura",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_ChrPost",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_ChrPost",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_Effect_LOD",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_Effect_LOD",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_RageFlare",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Light/RageartsPre/Rage/RageFlare/Base/MPC_RageFlare",
+        "PackagePath": "/Game/Blueprints/Light/RageartsPre/Rage/RageFlare/Base"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_HairColorAdjust",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_HairColorAdjust",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_CH_okm_exp_fade",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/okm/extra/okm_exp_smf/materials/MPC_CH_okm_exp_fade",
+        "PackagePath": "/Game/Character/Item/model/unique/okm/extra/okm_exp_smf/materials"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_ItemMat",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_ItemMat",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_ScreenFilter",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Light/RageartsPre/Rage/MPC_ScreenFilter",
+        "PackagePath": "/Game/Blueprints/Light/RageartsPre/Rage"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_ScreenDrop",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Light/ScreenDrop/MPC_ScreenDrop",
+        "PackagePath": "/Game/Blueprints/Light/ScreenDrop"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_Rage_DepthBlur_Param",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Material/MPC_Rage_DepthBlur_Param",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Material"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_Rage_RadialBlur_Param",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Material/MPC_Rage_RadialBlur_Param",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Material"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_DM",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_DM",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_LB",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_LB",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_PolarisDebug",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/MaterialParameterCollections/MPC_PolarisDebug",
+        "PackagePath": "/Game/Common/MaterialParameterCollections"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_RadialBlur",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Demo/Materials/MPC_RadialBlur",
+        "PackagePath": "/Game/Demo/Materials"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_OceanMatParam",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Environment/Materials/Ocean/Ship/MPC_OceanMatParam",
+        "PackagePath": "/Game/Environment/Materials/Ocean/Ship"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_GlobalFoliageActor",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/BlackAlder/MSPresets/MS_Foliage_Material/MaterialParameterCollection/MPC_GlobalFoliageActor",
+        "PackagePath": "/Game/Marketplace/BlackAlder/MSPresets/MS_Foliage_Material/MaterialParameterCollection"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_Global_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/Downtown_West/Materials/Wind_Function/MPC_Global_Wind",
+        "PackagePath": "/Game/Marketplace/Downtown_West/Materials/Wind_Function"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MP_MaterialParameters1",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/UseCases/001_WorldSpaceOffset_FluidSurface/MP_MaterialParameters1",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/UseCases/001_WorldSpaceOffset_FluidSurface"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_CF_Controller",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/ForestCollection/Materials/MASTER/MPC/MPC_CF_Controller",
+        "PackagePath": "/Game/Marketplace/ForestCollection/Materials/MASTER/MPC"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_RW_Controller",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/RedwoodCollection/Materials/MASTER/MPC/MPC_RW_Controller",
+        "PackagePath": "/Game/Marketplace/RedwoodCollection/Materials/MASTER/MPC"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_CollectionMaterialParameters",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/SuburbsPack/MasterMaterials/MPC_CollectionMaterialParameters",
+        "PackagePath": "/Game/Marketplace/SuburbsPack/MasterMaterials"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "UltraDynamicWeather_Parameters",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Weather/UltraDynamicWeather_Parameters",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Weather"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_LSC_DD_Controller",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-External_Library/DuneDesert/Materials/MASTER/Par/MPC_LSC_DD_Controller",
+        "PackagePath": "/Game/Stage/Asset-External_Library/DuneDesert/Materials/MASTER/Par"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_LightingOverrides",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Asset/BNSMY_Materials/FixtureMaterials/MPC_LightingOverrides",
+        "PackagePath": "/Game/Stage/ST01_Arena/Asset/BNSMY_Materials/FixtureMaterials"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_Hologram",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Asset/Hologram_ST01/MPC_Hologram",
+        "PackagePath": "/Game/Stage/ST01_Arena/Asset/Hologram_ST01"
+    },
+    {
+        "AssetClass": "MaterialParameterCollection",
+        "AssetName": "MPC_Ocean",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialParameterCollection",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Asset/BNSMY_Materials/Ocean/Functions/MPC_Ocean",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Asset/BNSMY_Materials/Ocean/Functions"
+    }
+]

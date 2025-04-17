@@ -1,0 +1,82 @@
+[
+    {
+        "AssetClass": "ClothOverrideLcjDataAsset",
+        "AssetName": "OL_CH_cmn_bdf_f_halloween",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideLcjDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_f_halloween/meshes/OL_CH_cmn_bdf_f_halloween",
+        "PackagePath": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_f_halloween/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideLcjDataAsset",
+        "AssetName": "OL_CH_cmn_bdu_f_endbiker",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideLcjDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_endbiker/meshes/OL_CH_cmn_bdu_f_endbiker",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_endbiker/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideLcjDataAsset",
+        "AssetName": "OL_CH_rat_bdu_f_kunoichi_upper",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideLcjDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_kunoichi_upper/meshes/OL_CH_rat_bdu_f_kunoichi_upper",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_kunoichi_upper/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideLcjDataAsset",
+        "AssetName": "OL_CH_cmn_bdu_f_officedress",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideLcjDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_officedress/meshes/OL_CH_cmn_bdu_f_officedress",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_officedress/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideLcjDataAsset",
+        "AssetName": "OL_CH_cmn_bdu_f_oiran_furisode",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideLcjDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_oiran_furisode/meshes/OL_CH_cmn_bdu_f_oiran_furisode",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_oiran_furisode/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideLcjDataAsset",
+        "AssetName": "OL_CH_rat_bdu_f_prowrestling",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideLcjDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_prowrestling/meshes/OL_CH_rat_bdu_f_prowrestling",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_prowrestling/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideLcjDataAsset",
+        "AssetName": "OL_CH_rat_bdu_f_swimwear",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideLcjDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_swimwear/meshes/OL_CH_rat_bdu_f_swimwear",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_swimwear/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideLcjDataAsset",
+        "AssetName": "OL_CH_rat_bdu_f_tropical",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideLcjDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tropical/meshes/OL_CH_rat_bdu_f_tropical",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tropical/meshes"
+    }
+]

@@ -1,0 +1,1962 @@
+[
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_aml_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/aml/ECI_aml_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/aml"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_aml_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/aml/ECI_aml_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/aml"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_aml_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/aml/ECI_aml_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/aml"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_aml_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/aml/ECI_aml_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/aml"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ant_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ant/ECI_ant_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ant"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ant_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ant/ECI_ant_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ant"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ant_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ant/ECI_ant_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ant"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ant_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ant/ECI_ant_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ant"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bbn_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bbn/ECI_bbn_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bbn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bbn_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bbn/ECI_bbn_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bbn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bbn_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bbn/ECI_bbn_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bbn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bbn_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bbn/ECI_bbn_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bbn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bee_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bee/ECI_bee_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bee"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bee_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bee/ECI_bee_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bee"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bee_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bee/ECI_bee_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bee"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bee_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bee/ECI_bee_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bee"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bsn_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bsn/ECI_bsn_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bsn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bsn_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bsn/ECI_bsn_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bsn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bsn_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bsn/ECI_bsn_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bsn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_bsn_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/bsn/ECI_bsn_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/bsn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cat_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cat/ECI_cat_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cat"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cat_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cat/ECI_cat_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cat"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cat_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cat/ECI_cat_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cat"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cat_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cat/ECI_cat_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cat"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cbr_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cbr/ECI_cbr_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cbr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cbr_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cbr/ECI_cbr_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cbr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cbr_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cbr/ECI_cbr_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cbr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cbr_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cbr/ECI_cbr_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cbr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ccn_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ccn/ECI_ccn_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ccn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ccn_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ccn/ECI_ccn_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ccn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ccn_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ccn/ECI_ccn_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ccn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ccn_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ccn/ECI_ccn_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ccn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cht_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cht/ECI_cht_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cht"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cht_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cht/ECI_cht_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cht"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cht_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cht/ECI_cht_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cht"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cht_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cht/ECI_cht_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cht"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cml_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cml/ECI_cml_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cml"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cml_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cml/ECI_cml_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cml"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cml_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cml/ECI_cml_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cml"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cml_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cml/ECI_cml_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cml"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_30logo_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_30logo_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Chain_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Chain_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Chain_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Chain_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Chain_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Chain_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Chain_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Chain_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Chain_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Chain_04",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_chicken_mark_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_chicken_mark_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_chilipepper_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_chilipepper_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Circle_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Circle_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Circle_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Circle_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Circle_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Circle_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Circle_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Circle_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Circle_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Circle_04",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Cyclone_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Cyclone_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Cyclone_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Cyclone_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Cyclone_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Cyclone_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Cyclone_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Cyclone_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Cyclone_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Cyclone_04",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_damage_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_damage_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_damage_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_damage_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Feather_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Feather_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Feather_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Feather_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Feather_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Feather_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Feather_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Feather_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Feather_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Feather_04",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo0_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo0_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo0_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo0_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo0_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo0_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo1_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo1_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo1_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo1_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo1_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo1_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo2_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo2_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo2_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo2_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo2_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo2_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo3_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo3_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo3_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo3_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo3_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo3_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo4_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo4_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo4_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo4_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo4_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo4_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo5_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo5_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo5_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo5_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo5_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo5_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo6_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo6_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo6_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo6_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_fr21_logo6_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_fr21_logo6_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Ice_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Ice_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Ice_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Ice_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Ice_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Ice_04",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Manga_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Manga_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Manga_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Manga_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_cmn_eff_Manga_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/cmn/ECI_cmn_eff_Manga_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/cmn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_crw_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/crw/ECI_crw_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/crw"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_crw_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/crw/ECI_crw_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/crw"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_crw_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/crw/ECI_crw_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/crw"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_crw_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/crw/ECI_crw_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/crw"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ctr_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ctr/ECI_ctr_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ctr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ctr_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ctr/ECI_ctr_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ctr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ctr_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ctr/ECI_ctr_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ctr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ctr_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ctr/ECI_ctr_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ctr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_der_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/der/ECI_der_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/der"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_der_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/der/ECI_der_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/der"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_der_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/der/ECI_der_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/der"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_der_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/der/ECI_der_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/der"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_dog_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/dog/ECI_dog_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/dog"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_dog_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/dog/ECI_dog_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/dog"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_dog_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/dog/ECI_dog_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/dog"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_dog_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/dog/ECI_dog_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/dog"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ghp_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ghp/ECI_ghp_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ghp"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ghp_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ghp/ECI_ghp_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ghp"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ghp_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ghp/ECI_ghp_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ghp"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ghp_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ghp/ECI_ghp_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ghp"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_grf_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/grf/ECI_grf_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/grf"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_grf_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/grf/ECI_grf_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/grf"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_grf_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/grf/ECI_grf_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/grf"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_grf_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/grf/ECI_grf_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/grf"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_grl_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/grl/ECI_grl_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/grl"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_grl_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/grl/ECI_grl_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/grl"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_grl_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/grl/ECI_grl_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/grl"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_grl_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/grl/ECI_grl_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/grl"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_hms_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/hms/ECI_hms_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/hms"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_hms_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/hms/ECI_hms_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/hms"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_hms_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/hms/ECI_hms_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/hms"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_hms_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/hms/ECI_hms_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/hms"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_hrs_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/hrs/ECI_hrs_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/hrs"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_hrs_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/hrs/ECI_hrs_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/hrs"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_hrs_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/hrs/ECI_hrs_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/hrs"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_hrs_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/hrs/ECI_hrs_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/hrs"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_jly_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/jly/ECI_jly_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/jly"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_jly_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/jly/ECI_jly_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/jly"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_jly_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/jly/ECI_jly_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/jly"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_jly_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/jly/ECI_jly_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/jly"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_kal_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/kal/ECI_kal_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/kal"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_kal_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/kal/ECI_kal_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/kal"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_kal_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/kal/ECI_kal_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/kal"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_kal_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/kal/ECI_kal_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/kal"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_klw_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/klw/ECI_klw_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/klw"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_klw_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/klw/ECI_klw_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/klw"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_klw_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/klw/ECI_klw_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/klw"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_klw_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/klw/ECI_klw_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/klw"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_kmd_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/kmd/ECI_kmd_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/kmd"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_kmd_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/kmd/ECI_kmd_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/kmd"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_kmd_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/kmd/ECI_kmd_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/kmd"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_kmd_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/kmd/ECI_kmd_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/kmd"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_lon_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/lon/ECI_lon_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/lon"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_lon_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/lon/ECI_lon_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/lon"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_lon_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/lon/ECI_lon_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/lon"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_lon_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/lon/ECI_lon_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/lon"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_lzd_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/lzd/ECI_lzd_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/lzd"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_lzd_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/lzd/ECI_lzd_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/lzd"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_lzd_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/lzd/ECI_lzd_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/lzd"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_lzd_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/lzd/ECI_lzd_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/lzd"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_mnt_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/mnt/ECI_mnt_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/mnt"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_mnt_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/mnt/ECI_mnt_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/mnt"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_mnt_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/mnt/ECI_mnt_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/mnt"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_mnt_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/mnt/ECI_mnt_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/mnt"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_okm_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/okm/ECI_okm_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/okm"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_okm_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/okm/ECI_okm_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/okm"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_okm_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/okm/ECI_okm_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/okm"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_okm_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/okm/ECI_okm_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/okm"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_pgn_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/pgn/ECI_pgn_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/pgn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_pgn_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/pgn/ECI_pgn_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/pgn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_pgn_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/pgn/ECI_pgn_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/pgn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_pgn_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/pgn/ECI_pgn_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/pgn"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_pig_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/pig/ECI_pig_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/pig"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_pig_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/pig/ECI_pig_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/pig"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_pig_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/pig/ECI_pig_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/pig"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_pig_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/pig/ECI_pig_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/pig"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_rat_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/rat/ECI_rat_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/rat"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_rat_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/rat/ECI_rat_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/rat"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_rat_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/rat/ECI_rat_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/rat"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_rat_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/rat/ECI_rat_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/rat"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_rbt_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/rbt/ECI_rbt_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/rbt"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_rbt_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/rbt/ECI_rbt_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/rbt"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_rbt_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/rbt/ECI_rbt_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/rbt"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_rbt_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/rbt/ECI_rbt_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/rbt"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_snk_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/snk/ECI_snk_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/snk"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_snk_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/snk/ECI_snk_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/snk"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_snk_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/snk/ECI_snk_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/snk"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_snk_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/snk/ECI_snk_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/snk"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_swl_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/swl/ECI_swl_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/swl"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_swl_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/swl/ECI_swl_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/swl"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_swl_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/swl/ECI_swl_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/swl"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_swl_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/swl/ECI_swl_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/swl"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ttr_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ttr/ECI_ttr_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ttr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ttr_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ttr/ECI_ttr_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ttr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ttr_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ttr/ECI_ttr_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ttr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_ttr_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/ttr/ECI_ttr_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/ttr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_wlf_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/wlf/ECI_wlf_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/wlf"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_wlf_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/wlf/ECI_wlf_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/wlf"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_wlf_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/wlf/ECI_wlf_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/wlf"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_wlf_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/wlf/ECI_wlf_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/wlf"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_zbr_eff_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/zbr/ECI_zbr_eff_00",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/zbr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_zbr_eff_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/zbr/ECI_zbr_eff_01",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/zbr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_zbr_eff_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/zbr/ECI_zbr_eff_02",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/zbr"
+    },
+    {
+        "AssetClass": "EffectCharacterItem",
+        "AssetName": "ECI_zbr_eff_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "EffectCharacterItem",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Effect_Character_Item/zbr/ECI_zbr_eff_03",
+        "PackagePath": "/Game/Character/Item/Effect_Character_Item/zbr"
+    }
+]

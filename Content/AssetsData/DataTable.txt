@@ -1,0 +1,1482 @@
+[
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Command",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Command/DT_UI_Command",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Command"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ja/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/ja"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "ReductionTagTable",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Common/Reduction/ReductionTagTable",
+        "PackagePath": "/Game/Stage/Common/Reduction"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_Avatar_emote_list_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/motion/DT_Avatar_emote_list_Onl",
+        "PackagePath": "/Game/Lobby/Character/motion"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_Stamp_Rarity_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Parameters/DT_Stamp_Rarity_Onl",
+        "PackagePath": "/Game/Lobby/Parameters"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Button",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Button/UI_PS5/DT_UI_Button",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Button/UI_PS5"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ar/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/ar"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/de/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/de"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/es"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/it/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/it"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pl/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/pl"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ru/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/ru"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-CN/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/zh-CN"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/fr/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/fr"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ko/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/ko"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pt-BR/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/pt-BR"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/en/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/en"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es-US/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/es-US"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/th/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/th"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "Font_UI_TextStyle",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-TW/Font_UI_TextStyle",
+        "PackagePath": "/Game/UI/Font/zh-TW"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/es_ES/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/es_ES"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/ar_AE/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/ar_AE"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/de_DE/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/de_DE"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/en_US/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/en_US"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/ko_KR/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/ko_KR"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/pl_PL/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/pl_PL"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/ru_RU/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/ru_RU"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/zh_CN/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/zh_CN"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/zh_TW/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/zh_TW"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/fr_FR/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/fr_FR"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/pt_BR/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/pt_BR"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/ja_JP/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/ja_JP"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/es_US/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/es_US"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/it_IT/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/it_IT"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Keyboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Keyboard/th_TH/DT_UI_Keyboard",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Keyboard/th_TH"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_UI_Button",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font_Icon/UI_Button/UI_XSX/DT_UI_Button",
+        "PackagePath": "/Game/UI/Font_Icon/UI_Button/UI_XSX"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_BlackPen_CharacterViewer_AccessoryTransform",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/CharacterViewer/DT_BlackPen_CharacterViewer_AccessoryTransform",
+        "PackagePath": "/Game/BlackPen/CharacterViewer"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_Blackpen_EmoteAdditionalWait",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/DataTables/DT_Blackpen_EmoteAdditionalWait",
+        "PackagePath": "/Game/BlackPen/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_BlackPen_Sequence",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/DataTables/DT_BlackPen_Sequence",
+        "PackagePath": "/Game/BlackPen/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_BlackPenSetItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/DataTables/DT_BlackPenSetItem",
+        "PackagePath": "/Game/BlackPen/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_NinjaLive_VolumeSmokeSwirl2_test2",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/FluidNinja/sub/DT_NinjaLive_VolumeSmokeSwirl2_test2",
+        "PackagePath": "/Game/Blueprints/FluidNinja/sub"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_StoreCategoryTitleColor",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/DT_StoreCategoryTitleColor",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_StoreLobbyMenuSelectItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/DT_StoreLobbyMenuSelectItem",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_StoreOtherMenuSelectItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/DT_StoreOtherMenuSelectItem",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_StorePlayerCusSelectItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/DT_StorePlayerCusSelectItem",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_StoreProfileCusSelectItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/DT_StoreProfileCusSelectItem",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_StoreViewerGuidItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/DT_StoreViewerGuidItem",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_StoreSetItemList",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/Items/DT_StoreSetItemList",
+        "PackagePath": "/Game/IngameStore/DataTables/Items"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_StorePickUpDataList",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/Pickup/DT_StorePickUpDataList",
+        "PackagePath": "/Game/IngameStore/DataTables/Pickup"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_Lobby_HelpButton_Chat",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/ButtonHelp/DT_Lobby_HelpButton_Chat",
+        "PackagePath": "/Game/Lobby/Blueprints/ButtonHelp"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_Lobby_HelpButton_MatchingAnywhere",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/ButtonHelp/DT_Lobby_HelpButton_MatchingAnywhere",
+        "PackagePath": "/Game/Lobby/Blueprints/ButtonHelp"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TemplateMessages",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/Chat/TemplateMessage/DT_TemplateMessages",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/Chat/TemplateMessage"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_NewsResource",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/News/DT_NewsResource",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/News"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_Stamp_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Parameters/DT_Stamp_Onl",
+        "PackagePath": "/Game/Lobby/Parameters"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_Treasure_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Parameters/DT_Treasure_Onl",
+        "PackagePath": "/Game/Lobby/Parameters"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "MovementModelTable",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/DataTables/MovementModelTable",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_NinjaLive_Default",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Presets/DT_NinjaLive_Default",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Presets"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_NinjaLive_Fluidblast_ST01_demo",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Presets/DT_NinjaLive_Fluidblast_ST01_demo",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Presets"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_NinjaLive_Viscous2",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Presets/DT_NinjaLive_Viscous2",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Presets"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_Usecase_Ripples2_Noiseless",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/UseCases/001_WorldSpaceOffset_FluidSurface/DT_Usecase_Ripples2_Noiseless",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/UseCases/001_WorldSpaceOffset_FluidSurface"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_Chapter",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Chapter/DT_TAM_Chapter",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Chapter"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_ScenarioNavi",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/ScenarioNavi/DT_TAM_ScenarioNavi",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/ScenarioNavi"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_ShopWindow",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/ShopWindow/DT_TAM_ShopWindow",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/ShopWindow"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_SpotScenarioID",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotScenarioID/DT_TAM_SpotScenarioID",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotScenarioID"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3010",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3010",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3021",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3021",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3030",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3030",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3050",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3050",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3070",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3070",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3090",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3090",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3110",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3110",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3130",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3130",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3150",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3150",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3170",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3170",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3190",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3190",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3210",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3210",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3230",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3230",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3250",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3250",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3270",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3270",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_3290",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_3290",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4010",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4010",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4030",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4030",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4050",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4050",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4070",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4070",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4090",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4090",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4110",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4110",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4130",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4130",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4150",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4150",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4170",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4170",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4190",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4190",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4210",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4210",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4230",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4230",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4250",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4250",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4270",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4270",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4290",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4290",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_4310",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_4310",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5070",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5070",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5090",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5090",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5110",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5110",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5140",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5140",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5160",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5160",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5180",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5180",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5210",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5210",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5230",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5230",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5250",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5250",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5280",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5280",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5300",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5300",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5320",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5320",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5350",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5350",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5370",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5370",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_5390",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_5390",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6070",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6070",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6090",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6090",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6110",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6110",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6140",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6140",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6160",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6160",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6180",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6180",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6210",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6210",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6230",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6230",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6250",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6250",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6280",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6280",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6300",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6300",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_6320",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_6320",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7040",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7040",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7060",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7060",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7080",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7080",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7100",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7100",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7120",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7120",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7140",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7140",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7160",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7160",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7180",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7180",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7200",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7200",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7220",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7220",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7240",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7240",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7260",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7260",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7280",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7280",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7300",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7300",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7320",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7320",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7340",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7340",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7360",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7360",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_7380",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/SpotTalk/DT_TAM_7380",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/SpotTalk"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_Tournament_Holy",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Tournament/DT_TAM_Tournament_Holy",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Tournament"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_Tournament_Home",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Tournament/DT_TAM_Tournament_Home",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Tournament"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_TAM_Tournament_TWT",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Tournament/DT_TAM_Tournament_TWT",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Tournament"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_CUS_CH_ColorPanel_Palette_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/CUS_CH/DataTables/DT_CUS_CH_ColorPanel_Palette_00",
+        "PackagePath": "/Game/UI/Widget/CUS_CH/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_CUS_CH_ColorPanel_Palette_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/CUS_CH/DataTables/DT_CUS_CH_ColorPanel_Palette_01",
+        "PackagePath": "/Game/UI/Widget/CUS_CH/DataTables"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "DT_Photo_SubGuide",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Photo/DT_Photo_SubGuide",
+        "PackagePath": "/Game/UI/Widget/Photo"
+    },
+    {
+        "AssetClass": "DataTable",
+        "AssetName": "StaffrollDatatable",
+        "FTopLevelAssetPath": {
+            "AssetName": "DataTable",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/StaffRoll/StaffRollParts/StaffrollDatatable",
+        "PackagePath": "/Game/UI/Widget/StaffRoll/StaffRollParts"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "AkRtpc",
+        "AssetName": "Stg13_Firework_Cheers",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkRtpc",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/StageSe/Stg13/Stg13_Firework_Cheers",
+        "PackagePath": "/Game/Sound/StageSe/Stg13"
+    }
+]

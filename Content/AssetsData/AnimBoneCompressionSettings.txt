@@ -1,0 +1,22 @@
+[
+    {
+        "AssetClass": "AnimBoneCompressionSettings",
+        "AssetName": "DefaultAnimBoneCompressionSettings",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBoneCompressionSettings",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/Animation/DefaultAnimBoneCompressionSettings",
+        "PackagePath": "/Engine/Animation"
+    },
+    {
+        "AssetClass": "AnimBoneCompressionSettings",
+        "AssetName": "DefaultRecorderBoneCompression",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBoneCompressionSettings",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/Animation/DefaultRecorderBoneCompression",
+        "PackagePath": "/Engine/Animation"
+    }
+]

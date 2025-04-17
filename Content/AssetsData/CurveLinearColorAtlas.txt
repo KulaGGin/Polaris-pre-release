@@ -1,0 +1,52 @@
+[
+    {
+        "AssetClass": "CurveLinearColorAtlas",
+        "AssetName": "T_FogGradientsPolaris",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColorAtlas",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/T_FogGradientsPolaris",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColorAtlas",
+        "AssetName": "T_FogGradients",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColorAtlas",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/T_FogGradients",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColorAtlas",
+        "AssetName": "CA_ScrollText",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColorAtlas",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Elements/Curve/CA_ScrollText",
+        "PackagePath": "/Game/UI/Widget/Elements/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColorAtlas",
+        "AssetName": "MCA_LobbySelectMap_BG",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColorAtlas",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Lobby/Material/MCA_LobbySelectMap_BG",
+        "PackagePath": "/Game/UI/Widget/Lobby/Material"
+    },
+    {
+        "AssetClass": "CurveLinearColorAtlas",
+        "AssetName": "CA_UI_Gradation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColorAtlas",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Story_STE/Curve/CA_UI_Gradation",
+        "PackagePath": "/Game/UI/Widget/Story_STE/Curve"
+    }
+]

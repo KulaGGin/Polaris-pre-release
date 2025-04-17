@@ -1,0 +1,1152 @@
+[
+    {
+        "AssetClass": "Font",
+        "AssetName": "RobotoDistanceField",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/RobotoDistanceField",
+        "PackagePath": "/Engine/EngineFonts"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Roboto",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/Roboto",
+        "PackagePath": "/Engine/EngineFonts"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ja/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/ja"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ja/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/ja"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ja/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/ja"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ar/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/ar"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ja/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/ja"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Org_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/Font_UI_Org_ID",
+        "PackagePath": "/Game/UI/Font"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Org_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/Font_UI_Org_Headline",
+        "PackagePath": "/Game/UI/Font"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Org_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/Font_UI_Org_Normal",
+        "PackagePath": "/Game/UI/Font"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ar/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/ar"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ar/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/ar"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ar/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/ar"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ar/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/ar"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/en/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/en"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/de/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/de"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/de/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/de"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/de/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/de"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/de/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/de"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/es"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/es"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/es"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/es"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ja/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/ja"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/it/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/it"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/it/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/it"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/it/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/it"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/it/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/it"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ko/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/ko"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ko/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/ko"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pl/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/pl"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pl/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/pl"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pl/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/pl"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pl/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/pl"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ko/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/ko"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/de/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/de"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es-US/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/es-US"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/es"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pl/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/pl"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pt-BR/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/pt-BR"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/fr/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/fr"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/it/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/it"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-TW/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/zh-TW"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ar/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/ar"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ar/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/ar"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/de/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/de"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/en/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/en"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/es"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es-US/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/es-US"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/fr/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/fr"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/it/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/it"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ja/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/ja"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/en/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/en"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/en/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/en"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/en/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/en"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/en/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/en"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/de/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/de"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/es"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/fr/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/fr"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/it/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/it"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/en/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/en"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ru/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/ru"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/th/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/th"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/th/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/th"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/th/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/th"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/th/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/th"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-TW/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/zh-TW"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-TW/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/zh-TW"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-TW/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/zh-TW"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-TW/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/zh-TW"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es-US/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/es-US"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es-US/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/es-US"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es-US/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/es-US"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es-US/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/es-US"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-TW/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/zh-TW"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/es-US/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/es-US"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ru/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/ru"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ru/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/ru"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ru/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/ru"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ru/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/ru"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/th/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/th"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-CN/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/zh-CN"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-CN/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/zh-CN"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-CN/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/zh-CN"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-CN/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/zh-CN"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-CN/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/zh-CN"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/fr/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/fr"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/fr/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/fr"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/fr/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/fr"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/fr/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/fr"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ja/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/ja"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ko/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/ko"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ko/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/ko"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ko/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/ko"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ko/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/ko"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Headline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pt-BR/Font_UI_Headline",
+        "PackagePath": "/Game/UI/Font/pt-BR"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_ID",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pt-BR/Font_UI_ID",
+        "PackagePath": "/Game/UI/Font/pt-BR"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Normal",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pt-BR/Font_UI_Normal",
+        "PackagePath": "/Game/UI/Font/pt-BR"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pt-BR/Font_UI_Telop",
+        "PackagePath": "/Game/UI/Font/pt-BR"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pl/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/pl"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pl/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/pl"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pt-BR/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/pt-BR"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/pt-BR/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/pt-BR"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ru/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/ru"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/ru/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/ru"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/th/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/th"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-CN/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/zh-CN"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-CN/Font_UI_Title",
+        "PackagePath": "/Game/UI/Font/zh-CN"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/zh-TW/Font_UI_Subtitle",
+        "PackagePath": "/Game/UI/Font/zh-TW"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/th/Font_UI_Subheadline",
+        "PackagePath": "/Game/UI/Font/th"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "DroidSansMono",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineFonts/DroidSansMono",
+        "PackagePath": "/Engine/EngineFonts"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Org_Subheadline",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/Font_UI_Org_Subheadline",
+        "PackagePath": "/Game/UI/Font"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Org_Subtitle",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/Font_UI_Org_Subtitle",
+        "PackagePath": "/Game/UI/Font"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Org_Telop",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/Font_UI_Org_Telop",
+        "PackagePath": "/Game/UI/Font"
+    },
+    {
+        "AssetClass": "Font",
+        "AssetName": "Font_UI_Org_Title",
+        "FTopLevelAssetPath": {
+            "AssetName": "Font",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Font/Font_UI_Org_Title",
+        "PackagePath": "/Game/UI/Font"
+    }
+]

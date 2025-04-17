@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "AnimCurveCompressionSettings",
+        "AssetName": "DefaultAnimCurveCompressionSettings",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimCurveCompressionSettings",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/Animation/DefaultAnimCurveCompressionSettings",
+        "PackagePath": "/Engine/Animation"
+    }
+]

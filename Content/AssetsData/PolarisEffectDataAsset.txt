@@ -1,0 +1,22 @@
+[
+    {
+        "AssetClass": "PolarisEffectDataAsset",
+        "AssetName": "DA_CommonEffect",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/DA_CommonEffect",
+        "PackagePath": "/Game/Effect/Polariswork/Common"
+    },
+    {
+        "AssetClass": "PolarisEffectDataAsset",
+        "AssetName": "DA_CommonEffect_Story",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisEffectDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Story/DA_CommonEffect_Story",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Story"
+    }
+]

@@ -1,0 +1,3122 @@
+[
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_CH_cmn_acc_mokujin_arm_left",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes/KP_CH_cmn_acc_mokujin_arm_left",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_CH_cmn_acc_mokujin_arm_right",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes/KP_CH_cmn_acc_mokujin_arm_right",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_CH_cmn_acc_mokujin_body_left",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes/KP_CH_cmn_acc_mokujin_body_left",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_CH_cmn_acc_mokujin_body_right",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes/KP_CH_cmn_acc_mokujin_body_right",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_CH_cmn_acc_mokujin_head",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes/KP_CH_cmn_acc_mokujin_head",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_CH_cmn_acc_mokujin_leg_left",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes/KP_CH_cmn_acc_mokujin_leg_left",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_CH_cmn_acc_mokujin_leg_right",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes/KP_CH_cmn_acc_mokujin_leg_right",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mokujin/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_acc_bnny_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/add/acc_bnny/meshes/KP_LCH_acc_bnny_00",
+        "PackagePath": "/Game/Lobby/Character/item/add/acc_bnny/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_acc_bnny_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/add/acc_bnny/meshes/KP_LCH_acc_bnny_01",
+        "PackagePath": "/Game/Lobby/Character/item/add/acc_bnny/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_dread_b01_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_dread_b01/meshes/KP_LCH_har_dread_b01_00",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_dread_b01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_dread_b01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_dread_b01/meshes/KP_LCH_har_dread_b01_01",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_dread_b01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_longcurl_a01_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_longcurl_a01/mesh/KP_LCH_har_longcurl_a01_00",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_longcurl_a01/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_longcurl_a01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_longcurl_a01/mesh/KP_LCH_har_longcurl_a01_01",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_longcurl_a01/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_medium_a01_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_medium_a01/mesh/KP_LCH_har_medium_a01_00",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_medium_a01/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_medium_a01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_medium_a01/mesh/KP_LCH_har_medium_a01_01",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_medium_a01/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_medium_a01_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_medium_a01/mesh/KP_LCH_har_medium_a01_02",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_medium_a01/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_pigtails_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_pigtail_a01/meshes/KP_LCH_har_pigtails_00",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_pigtail_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_pigtails_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_pigtail_a01/meshes/KP_LCH_har_pigtails_01",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_pigtail_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_ponytail_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_ponytail/meshes/KP_LCH_har_ponytail_00",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_ponytail/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_ponytail_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_ponytail/meshes/KP_LCH_har_ponytail_01",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_ponytail/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_ponytail_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_ponytail/meshes/KP_LCH_har_ponytail_02",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_ponytail/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_ponytail_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_ponytail/meshes/KP_LCH_har_ponytail_03",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_ponytail/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_ponytail_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_ponytail/meshes/KP_LCH_har_ponytail_04",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_ponytail/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_ponytail_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_ponytail/meshes/KP_LCH_har_ponytail_05",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_ponytail/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_ponytail_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_ponytail/meshes/KP_LCH_har_ponytail_06",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_ponytail/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_swave_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_swave/mesh/KP_LCH_har_swave_00",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_swave/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_swave_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_swave/mesh/KP_LCH_har_swave_01",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_swave/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_har_swave_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hair/har_swave/mesh/KP_LCH_har_swave_02",
+        "PackagePath": "/Game/Lobby/Character/item/hair/har_swave/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_hat_headband_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hat/hat_headband/meshes/KP_LCH_hat_headband_00",
+        "PackagePath": "/Game/Lobby/Character/item/hat/hat_headband/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_hat_headband_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hat/hat_headband/meshes/KP_LCH_hat_headband_01",
+        "PackagePath": "/Game/Lobby/Character/item/hat/hat_headband/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_hat_santa_001_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/hat/hat_santa/meshes/KP_LCH_hat_santa_001_00",
+        "PackagePath": "/Game/Lobby/Character/item/hat/hat_santa/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdl_dance_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/lower/bdl_dance/meshes/KP_LCH_bdl_dance_00",
+        "PackagePath": "/Game/Lobby/Character/item/lower/bdl_dance/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdl_yumekawa_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes/KP_LCH_bdl_yumekawa_00",
+        "PackagePath": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdl_yumekawa_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes/KP_LCH_bdl_yumekawa_01",
+        "PackagePath": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdl_yumekawa_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes/KP_LCH_bdl_yumekawa_02",
+        "PackagePath": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdl_yumekawa_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes/KP_LCH_bdl_yumekawa_03",
+        "PackagePath": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdl_yumekawa_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes/KP_LCH_bdl_yumekawa_04",
+        "PackagePath": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdl_yumekawa_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes/KP_LCH_bdl_yumekawa_05",
+        "PackagePath": "/Game/Lobby/Character/item/lower/bdl_yumekawa/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_sho_diverflippers_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/shoes/sho_diverflippers/meshes/KP_LCH_sho_diverflippers_00",
+        "PackagePath": "/Game/Lobby/Character/item/shoes/sho_diverflippers/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_sho_diverflippers_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/shoes/sho_diverflippers/meshes/KP_LCH_sho_diverflippers_01",
+        "PackagePath": "/Game/Lobby/Character/item/shoes/sho_diverflippers/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KPX_LCH_bdu_angel_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_angel/meshes/KPX_LCH_bdu_angel_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_angel/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KPX_LCH_bdu_angel_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_angel/meshes/KPX_LCH_bdu_angel_01",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_angel/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KPX_LCH_bdu_angel_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_angel/meshes/KPX_LCH_bdu_angel_02",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_angel/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KPX_LCH_bdu_angel_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_angel/meshes/KPX_LCH_bdu_angel_03",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_angel/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KPX_LCH_bdu_angel_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_angel/meshes/KPX_LCH_bdu_angel_04",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_angel/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KPX_LCH_bdu_angel_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_angel/meshes/KPX_LCH_bdu_angel_05",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_angel/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KPX_LCH_bdu_angel_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_angel/meshes/KPX_LCH_bdu_angel_06",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_angel/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt02_bdu_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_avt02/meshes/KP_LCH_avt02_bdu_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_avt02/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_chicken_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_chicken/meshes/KP_LCH_bdu_chicken_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_chicken/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_dress_a01_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_dress_a01/meshes/KP_LCH_bdu_dress_a01_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_dress_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_dress_a01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_dress_a01/meshes/KP_LCH_bdu_dress_a01_01",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_dress_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_dress_a01_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_dress_a01/meshes/KP_LCH_bdu_dress_a01_02",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_dress_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_dress_a01_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_dress_a01/meshes/KP_LCH_bdu_dress_a01_03",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_dress_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_furcoat_001_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes/KP_LCH_bdu_furcoat_001_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_furcoat_001_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes/KP_LCH_bdu_furcoat_001_01",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_furcoat_001_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes/KP_LCH_bdu_furcoat_001_02",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_furcoat_001_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes/KP_LCH_bdu_furcoat_001_03",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_furcoat_001_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes/KP_LCH_bdu_furcoat_001_04",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_furcoat_001_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes/KP_LCH_bdu_furcoat_001_05",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_furcoat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_hoodiecap_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_hoodiecap/meshes/KP_LCH_bdu_hoodiecap_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_hoodiecap/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_hoodiecap_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_hoodiecap/meshes/KP_LCH_bdu_hoodiecap_01",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_hoodiecap/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_hoodiecap_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_hoodiecap/meshes/KP_LCH_bdu_hoodiecap_02",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_hoodiecap/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_hoodiecap_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_hoodiecap/meshes/KP_LCH_bdu_hoodiecap_03",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_hoodiecap/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_longcoat_a01_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes/KP_LCH_bdu_longcoat_a01_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_longcoat_a01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes/KP_LCH_bdu_longcoat_a01_01",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_longcoat_a01_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes/KP_LCH_bdu_longcoat_a01_02",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_longcoat_a01_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes/KP_LCH_bdu_longcoat_a01_03",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_longcoat_a01_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes/KP_LCH_bdu_longcoat_a01_04",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_longcoat_a01_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes/KP_LCH_bdu_longcoat_a01_05",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_longcoat_a01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_shark_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_shark/meshes/KP_LCH_bdu_shark_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_shark/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_tiger_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_tiger/meshes/KP_LCH_bdu_tiger_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_tiger/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_vampire_001_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes/KP_LCH_bdu_vampire_001_00",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_vampire_001_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes/KP_LCH_bdu_vampire_001_01",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_vampire_001_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes/KP_LCH_bdu_vampire_001_02",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_vampire_001_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes/KP_LCH_bdu_vampire_001_03",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_vampire_001_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes/KP_LCH_bdu_vampire_001_04",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_bdu_vampire_001_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes/KP_LCH_bdu_vampire_001_05",
+        "PackagePath": "/Game/Lobby/Character/item/upper/bdu_vampire/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_npc_rival_bdf_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/npc/npc_rival/meshes/KP_LCH_npc_rival_bdf_00",
+        "PackagePath": "/Game/Lobby/Character/npc/npc_rival/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_npc_rival_bdf_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/npc/npc_rival/meshes/KP_LCH_npc_rival_bdf_01",
+        "PackagePath": "/Game/Lobby/Character/npc/npc_rival/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_npc_rival_bdf_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/npc/npc_rival/meshes/KP_LCH_npc_rival_bdf_02",
+        "PackagePath": "/Game/Lobby/Character/npc/npc_rival/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_npc_rival_bdf_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/npc/npc_rival/meshes/KP_LCH_npc_rival_bdf_03",
+        "PackagePath": "/Game/Lobby/Character/npc/npc_rival/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_npc_rival_bdf_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/npc/npc_rival/meshes/KP_LCH_npc_rival_bdf_04",
+        "PackagePath": "/Game/Lobby/Character/npc/npc_rival/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_npc_rival_bdf_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/npc/npc_rival/meshes/KP_LCH_npc_rival_bdf_05",
+        "PackagePath": "/Game/Lobby/Character/npc/npc_rival/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_10",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_11",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_12",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_12",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_13",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_13",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_14",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_14",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_15",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_15",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_16",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_16",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_aml_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_aml/meshes/KP_LCH_avt_aml_09",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_aml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ant_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ant/meshes/KP_LCH_avt_ant_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ant/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ant_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ant/meshes/KP_LCH_avt_ant_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ant/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ant_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ant/meshes/KP_LCH_avt_ant_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ant/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bbn_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bbn/meshes/KP_LCH_avt_bbn_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bbn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bbn_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bbn/meshes/KP_LCH_avt_bbn_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bbn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bbn_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bbn/meshes/KP_LCH_avt_bbn_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bbn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bsn_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bsn/meshes/KP_LCH_avt_bsn_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bsn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bsn_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bsn/meshes/KP_LCH_avt_bsn_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bsn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bsn_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bsn/meshes/KP_LCH_avt_bsn_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bsn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bsn_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bsn/meshes/KP_LCH_avt_bsn_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bsn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bsn_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bsn/meshes/KP_LCH_avt_bsn_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bsn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bsn_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bsn/meshes/KP_LCH_avt_bsn_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bsn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_bsn_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_bsn/meshes/KP_LCH_avt_bsn_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_bsn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cat00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cat/meshes/KP_LCH_avt_cat00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cat01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cat/meshes/KP_LCH_avt_cat01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cat02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cat/meshes/KP_LCH_avt_cat02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cat03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cat/meshes/KP_LCH_avt_cat03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cat04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cat/meshes/KP_LCH_avt_cat04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cat05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cat/meshes/KP_LCH_avt_cat05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cbr_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cbr/meshes/KP_LCH_avt_cbr_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cbr_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cbr/meshes/KP_LCH_avt_cbr_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cbr_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cbr/meshes/KP_LCH_avt_cbr_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cbr_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cbr/meshes/KP_LCH_avt_cbr_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cbr_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cbr/meshes/KP_LCH_avt_cbr_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cbr_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cbr/meshes/KP_LCH_avt_cbr_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cbr_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cbr/meshes/KP_LCH_avt_cbr_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cbr_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cbr/meshes/KP_LCH_avt_cbr_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cbr_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cbr/meshes/KP_LCH_avt_cbr_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cht_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cht/meshes/KP_LCH_avt_cht_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cht/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cht_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cht/meshes/KP_LCH_avt_cht_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cht/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cml_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cml/meshes/KP_LCH_avt_cml_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_cml_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_cml/meshes/KP_LCH_avt_cml_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_cml/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_crw_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_crw/meshes/KP_LCH_avt_crw_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_crw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_crw_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_crw/meshes/KP_LCH_avt_crw_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_crw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_crw_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_crw/meshes/KP_LCH_avt_crw_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_crw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_crw_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_crw/meshes/KP_LCH_avt_crw_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_crw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_crw_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_crw/meshes/KP_LCH_avt_crw_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_crw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ctr_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ctr/meshes/KP_LCH_avt_ctr_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ctr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ctr_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ctr/meshes/KP_LCH_avt_ctr_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ctr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ctr_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ctr/meshes/KP_LCH_avt_ctr_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ctr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ctr_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ctr/meshes/KP_LCH_avt_ctr_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ctr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ctr_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ctr/meshes/KP_LCH_avt_ctr_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ctr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_der_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_der/meshes/KP_LCH_avt_der_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_der/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_der_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_der/meshes/KP_LCH_avt_der_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_der/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_der_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_der/meshes/KP_LCH_avt_der_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_der/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_der_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_der/meshes/KP_LCH_avt_der_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_der/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_der_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_der/meshes/KP_LCH_avt_der_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_der/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_der_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_der/meshes/KP_LCH_avt_der_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_der/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_der_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_der/meshes/KP_LCH_avt_der_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_der/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_der_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_der/meshes/KP_LCH_avt_der_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_der/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_dog_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_dog/meshes/KP_LCH_avt_dog_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_dog/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_dog_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_dog/meshes/KP_LCH_avt_dog_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_dog/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_dog_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_dog/meshes/KP_LCH_avt_dog_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_dog/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_10",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_11",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_12",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_12",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_13",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_13",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_14",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_14",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ghp_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ghp/meshes/KP_LCH_avt_ghp_09",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ghp/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_glr_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_glr/meshes/KP_SK_LCH_avt_glr_09",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_glr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_10",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_11",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hms_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hms/meshes/KP_LCH_avt_hms_09",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hms/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hrs_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hrs/meshes/KP_LCH_avt_hrs_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hrs/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hrs_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hrs/meshes/KP_LCH_avt_hrs_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hrs/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hrs_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hrs/meshes/KP_LCH_avt_hrs_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hrs/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hrs_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hrs/meshes/KP_LCH_avt_hrs_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hrs/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hrs_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hrs/meshes/KP_LCH_avt_hrs_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hrs/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hrs_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hrs/meshes/KP_LCH_avt_hrs_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hrs/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hrs_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hrs/meshes/KP_LCH_avt_hrs_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hrs/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hrs_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hrs/meshes/KP_LCH_avt_hrs_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hrs/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_hrs_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_hrs/meshes/KP_LCH_avt_hrs_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_hrs/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_jly_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_jly/meshes/KP_LCH_avt_jly_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_jly/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_jly_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_jly/meshes/KP_LCH_avt_jly_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_jly/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_jly_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_jly/meshes/KP_LCH_avt_jly_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_jly/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_jly_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_jly/meshes/KP_LCH_avt_jly_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_jly/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_jly_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_jly/meshes/KP_LCH_avt_jly_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_jly/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_jly_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_jly/meshes/KP_LCH_avt_jly_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_jly/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_jly_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_jly/meshes/KP_LCH_avt_jly_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_jly/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kal_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kal/meshes/KP_LCH_avt_kal_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kal/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kal_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kal/meshes/KP_LCH_avt_kal_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kal/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kal_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kal/meshes/KP_LCH_avt_kal_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kal/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kal_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kal/meshes/KP_LCH_avt_kal_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kal/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kal_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kal/meshes/KP_LCH_avt_kal_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kal/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kal_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kal/meshes/KP_LCH_avt_kal_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kal/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kal_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kal/meshes/KP_LCH_avt_kal_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kal/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kal_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kal/meshes/KP_LCH_avt_kal_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kal/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kal_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kal/meshes/KP_LCH_avt_kal_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kal/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_klw_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_klw/meshes/KP_LCH_avt_klw_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_klw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_klw_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_klw/meshes/KP_LCH_avt_klw_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_klw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_klw_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_klw/meshes/KP_LCH_avt_klw_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_klw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_klw_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_klw/meshes/KP_LCH_avt_klw_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_klw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_klw_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_klw/meshes/KP_LCH_avt_klw_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_klw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_klw_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_klw/meshes/KP_LCH_avt_klw_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_klw/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kmd_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kmd/meshes/KP_LCH_avt_kmd_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kmd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kmd_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kmd/meshes/KP_LCH_avt_kmd_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kmd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kmd_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kmd/meshes/KP_LCH_avt_kmd_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kmd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kmd_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kmd/meshes/KP_LCH_avt_kmd_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kmd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kmd_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kmd/meshes/KP_LCH_avt_kmd_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kmd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kmd_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kmd/meshes/KP_LCH_avt_kmd_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kmd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kmd_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kmd/meshes/KP_LCH_avt_kmd_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kmd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kmd_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kmd/meshes/KP_LCH_avt_kmd_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kmd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_kmd_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_kmd/meshes/KP_LCH_avt_kmd_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_kmd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_lzd_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_lzd/meshes/KP_LCH_avt_lzd_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_lzd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_lzd_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_lzd/meshes/KP_LCH_avt_lzd_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_lzd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_lzd_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_lzd/meshes/KP_LCH_avt_lzd_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_lzd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_lzd_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_lzd/meshes/KP_LCH_avt_lzd_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_lzd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_lzd_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_lzd/meshes/KP_LCH_avt_lzd_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_lzd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_lzd_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_lzd/meshes/KP_LCH_avt_lzd_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_lzd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_lzd_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_lzd/meshes/KP_LCH_avt_lzd_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_lzd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_lzd_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_lzd/meshes/KP_LCH_avt_lzd_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_lzd/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_mnt_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mnt/meshes/KP_LCH_avt_mnt_09",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mnt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_mok_01_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/meshes/KP_SK_LCH_avt_mok_01_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_mok_01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/meshes/KP_SK_LCH_avt_mok_01_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_mok_01_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/meshes/KP_SK_LCH_avt_mok_01_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_mok_01_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/meshes/KP_SK_LCH_avt_mok_01_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_mok_01_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/meshes/KP_SK_LCH_avt_mok_01_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_mok_01_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/meshes/KP_SK_LCH_avt_mok_01_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_mok_01_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/meshes/KP_SK_LCH_avt_mok_01_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_mok_01_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/meshes/KP_SK_LCH_avt_mok_01_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_SK_LCH_avt_mok_01_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/meshes/KP_SK_LCH_avt_mok_01_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_okm_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_okm/meshes/KP_LCH_avt_okm_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_okm/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_okm_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_okm/meshes/KP_LCH_avt_okm_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_okm/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_okm_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_okm/meshes/KP_LCH_avt_okm_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_okm/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_okm_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_okm/meshes/KP_LCH_avt_okm_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_okm/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_pgn_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_pgn/meshes/KP_LCH_avt_pgn_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_pgn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_pgn_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_pgn/meshes/KP_LCH_avt_pgn_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_pgn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_pgn_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_pgn/meshes/KP_LCH_avt_pgn_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_pgn/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_10",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_11",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_06",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_07",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_08",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rat_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rat/meshes/KP_LCH_avt_rat_09",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rat/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rbt_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rbt/meshes/KP_LCH_avt_rbt_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rbt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rbt_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rbt/meshes/KP_LCH_avt_rbt_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rbt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rbt_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rbt/meshes/KP_LCH_avt_rbt_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rbt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_rbt_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_rbt/meshes/KP_LCH_avt_rbt_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_rbt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_snk_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_snk/meshes/KP_LCH_avt_snk_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_snk/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_snk_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_snk/meshes/KP_LCH_avt_snk_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_snk/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_snk_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_snk/meshes/KP_LCH_avt_snk_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_snk/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_snk_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_snk/meshes/KP_LCH_avt_snk_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_snk/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_swl_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_swl/meshes/KP_LCH_avt_swl_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_swl/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_swl_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_swl/meshes/KP_LCH_avt_swl_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_swl/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_swl_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_swl/meshes/KP_LCH_avt_swl_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_swl/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_swl_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_swl/meshes/KP_LCH_avt_swl_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_swl/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_swl_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_swl/meshes/KP_LCH_avt_swl_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_swl/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_swl_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_swl/meshes/KP_LCH_avt_swl_05",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_swl/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ttr_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ttr/meshes/KP_LCH_avt_ttr_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ttr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ttr_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ttr/meshes/KP_LCH_avt_ttr_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ttr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_ttr_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_ttr/meshes/KP_LCH_avt_ttr_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_ttr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_zbr_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_zbr/meshes/KP_LCH_avt_zbr_00",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_zbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_zbr_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_zbr/meshes/KP_LCH_avt_zbr_01",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_zbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_zbr_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_zbr/meshes/KP_LCH_avt_zbr_02",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_zbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_zbr_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_zbr/meshes/KP_LCH_avt_zbr_03",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_zbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt_zbr_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_zbr/meshes/KP_LCH_avt_zbr_04",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_zbr/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt05_bdu_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/style/avt05/meshes/KP_LCH_avt05_bdu_00",
+        "PackagePath": "/Game/Lobby/Character/style/avt05/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt05_bdu_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/style/avt05/meshes/KP_LCH_avt05_bdu_01",
+        "PackagePath": "/Game/Lobby/Character/style/avt05/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt03_bdu_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/avt03/mesh/KP_LCH_avt03_bdu_00",
+        "PackagePath": "/Game/Lobby/Character/test/avt03/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt03_bdu_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/avt03/mesh/KP_LCH_avt03_bdu_01",
+        "PackagePath": "/Game/Lobby/Character/test/avt03/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt03_bdu_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/avt03/mesh/KP_LCH_avt03_bdu_02",
+        "PackagePath": "/Game/Lobby/Character/test/avt03/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt03_bdu_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/avt03/mesh/KP_LCH_avt03_bdu_03",
+        "PackagePath": "/Game/Lobby/Character/test/avt03/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt03_bdu_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/avt03/mesh/KP_LCH_avt03_bdu_04",
+        "PackagePath": "/Game/Lobby/Character/test/avt03/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_avt03_bdu_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/avt03/mesh/KP_LCH_avt03_bdu_05",
+        "PackagePath": "/Game/Lobby/Character/test/avt03/mesh"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_longSkirt_bdl_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/bdl_skirt/meshes/KP_LCH_longSkirt_bdl_00",
+        "PackagePath": "/Game/Lobby/Character/test/bdl_skirt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_longSkirt_bdl_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/bdl_skirt/meshes/KP_LCH_longSkirt_bdl_01",
+        "PackagePath": "/Game/Lobby/Character/test/bdl_skirt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_longSkirt_bdl_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/bdl_skirt/meshes/KP_LCH_longSkirt_bdl_02",
+        "PackagePath": "/Game/Lobby/Character/test/bdl_skirt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_longSkirt_bdl_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/bdl_skirt/meshes/KP_LCH_longSkirt_bdl_03",
+        "PackagePath": "/Game/Lobby/Character/test/bdl_skirt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_longSkirt_bdl_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/bdl_skirt/meshes/KP_LCH_longSkirt_bdl_04",
+        "PackagePath": "/Game/Lobby/Character/test/bdl_skirt/meshes"
+    },
+    {
+        "AssetClass": "KawaiiPhysicsDynamicBoneDataAsset",
+        "AssetName": "KP_LCH_longSkirt_bdl_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "KawaiiPhysicsDynamicBoneDataAsset",
+            "PackageName": "/Script/KawaiiPhysics"
+        },
+        "PackageName": "/Game/Lobby/Character/test/bdl_skirt/meshes/KP_LCH_longSkirt_bdl_05",
+        "PackagePath": "/Game/Lobby/Character/test/bdl_skirt/meshes"
+    }
+]

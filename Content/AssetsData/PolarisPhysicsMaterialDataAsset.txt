@@ -1,0 +1,232 @@
+[
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST01_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST01/DA_PhysicsMaterial_ST01_PL",
+        "PackagePath": "/Game/Stage/Physical/ST01"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST02_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST02/DA_PhysicsMaterial_ST02_PL",
+        "PackagePath": "/Game/Stage/Physical/ST02"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST03_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST03/DA_PhysicsMaterial_ST03_PL",
+        "PackagePath": "/Game/Stage/Physical/ST03"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST04_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST04/DA_PhysicsMaterial_ST04_PL",
+        "PackagePath": "/Game/Stage/Physical/ST04"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST05_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST05/DA_PhysicsMaterial_ST05_PL",
+        "PackagePath": "/Game/Stage/Physical/ST05"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST07_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST07/DA_PhysicsMaterial_ST07_PL",
+        "PackagePath": "/Game/Stage/Physical/ST07"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST08_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST08/DA_PhysicsMaterial_ST08_PL",
+        "PackagePath": "/Game/Stage/Physical/ST08"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST09_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST09/DA_PhysicsMaterial_ST09_PL",
+        "PackagePath": "/Game/Stage/Physical/ST09"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST10_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST10/DA_PhysicsMaterial_ST10_PL",
+        "PackagePath": "/Game/Stage/Physical/ST10"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST11_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST11/DA_PhysicsMaterial_ST11_PL",
+        "PackagePath": "/Game/Stage/Physical/ST11"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST12_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST12/DA_PhysicsMaterial_ST12_PL",
+        "PackagePath": "/Game/Stage/Physical/ST12"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST13_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST13/DA_PhysicsMaterial_ST13_PL",
+        "PackagePath": "/Game/Stage/Physical/ST13"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST14_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST14/DA_PhysicsMaterial_ST14_PL",
+        "PackagePath": "/Game/Stage/Physical/ST14"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST15_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST15/DA_PhysicsMaterial_ST15_PL",
+        "PackagePath": "/Game/Stage/Physical/ST15"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST16_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST16/DA_PhysicsMaterial_ST16_PL",
+        "PackagePath": "/Game/Stage/Physical/ST16"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST17_Demo1_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST17/DA_PhysicsMaterial_ST17_Demo1_PL",
+        "PackagePath": "/Game/Stage/Physical/ST17"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST17_Demo2_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST17/DA_PhysicsMaterial_ST17_Demo2_PL",
+        "PackagePath": "/Game/Stage/Physical/ST17"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST17_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST17/DA_PhysicsMaterial_ST17_PL",
+        "PackagePath": "/Game/Stage/Physical/ST17"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST18_Demo3_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST18/DA_PhysicsMaterial_ST18_Demo3_PL",
+        "PackagePath": "/Game/Stage/Physical/ST18"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST18_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST18/DA_PhysicsMaterial_ST18_PL",
+        "PackagePath": "/Game/Stage/Physical/ST18"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST19_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST19/DA_PhysicsMaterial_ST19_PL",
+        "PackagePath": "/Game/Stage/Physical/ST19"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_ST90_PL",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/ST90/DA_PhysicsMaterial_ST90_PL",
+        "PackagePath": "/Game/Stage/Physical/ST90"
+    },
+    {
+        "AssetClass": "PolarisPhysicsMaterialDataAsset",
+        "AssetName": "DA_PhysicsMaterial_DevBattle",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisPhysicsMaterialDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Physical/TestAsset/DA_PhysicsMaterial_DevBattle",
+        "PackagePath": "/Game/Stage/Physical/TestAsset"
+    }
+]

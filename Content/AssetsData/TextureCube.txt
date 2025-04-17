@@ -1,0 +1,912 @@
+[
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "DefaultTextureCube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineResources/DefaultTextureCube",
+        "PackagePath": "/Engine/EngineResources"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "studio_small_06_256x128",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/Textures/studio_small_06_256x128",
+        "PackagePath": "/Game/Common/Textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "190111EitaiBridgeA_L30000_SunOff_sRGB",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/Textures/190111EitaiBridgeA_L30000_SunOff_sRGB",
+        "PackagePath": "/Game/Common/Textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_CH_okm_exp_pmi_wave_cubemap_foam",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/okm/extra/okm_exp_pmi/textures/T_CH_okm_exp_pmi_wave_cubemap_foam",
+        "PackagePath": "/Game/Character/Item/model/unique/okm/extra/okm_exp_pmi/textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_CH_okm_exp_pmi_wave_cubemap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/okm/extra/okm_exp_pmi/textures/T_CH_okm_exp_pmi_wave_cubemap",
+        "PackagePath": "/Game/Character/Item/model/unique/okm/extra/okm_exp_pmi/textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "GrayLightTextureCube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineResources/GrayLightTextureCube",
+        "PackagePath": "/Engine/EngineResources"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_BEERage_SkyLight_tex_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_BEERage_SkyLight_tex_01",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_CAT_SkyLight_tex_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_CAT_SkyLight_tex_01",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_CBRRage_SkyLight_tex_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_CBRRage_SkyLight_tex_01",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_DOGRage_SkyLight_tex_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_DOGRage_SkyLight_tex_01",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_OKMRage_SkyLight_tex_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_OKMRage_SkyLight_tex_01",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_XXA_SkyLight_tex_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_XXA_SkyLight_tex_01",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_XXA_SkyLight_tex_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_XXA_SkyLight_tex_02",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_XXA_SkyLight_tex_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_XXA_SkyLight_tex_03",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_XXB_SkyLight_tex_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_XXB_SkyLight_tex_01",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_XXE_SkyLight_tex_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_XXE_SkyLight_tex_01",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_COL_ZBR_SkyLight_tex_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Asset/Texture/T_COL_ZBR_SkyLight_tex_01",
+        "PackagePath": "/Game/Character/Levels/Sublevels/Asset/Texture"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "arena_demo_cube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/cinematics/chara_episode/polaris/arena_demo_cube",
+        "PackagePath": "/Game/cinematics/chara_episode/polaris"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_BlankHDR",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/Textures/T_BlankHDR",
+        "PackagePath": "/Game/Common/Textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_CB_HDRI_Epic_Courtyard_512x512",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/Textures/T_CB_HDRI_Epic_Courtyard_512x512",
+        "PackagePath": "/Game/Common/Textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_HDRCube_White",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Common/Textures/T_HDRCube_White",
+        "PackagePath": "/Game/Common/Textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_CH_crw_crystal_sky",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Demo/Materials/crw_crystal/T_CH_crw_crystal_sky",
+        "PackagePath": "/Game/Demo/Materials/crw_crystal"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_CH_item_CubeGalaxy4",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Demo/Materials/crw_crystal/T_CH_item_CubeGalaxy4",
+        "PackagePath": "/Game/Demo/Materials/crw_crystal"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_CHR_crw_crystalmap_typeA",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Demo/Materials/crw_crystal/T_CHR_crw_crystalmap_typeA",
+        "PackagePath": "/Game/Demo/Materials/crw_crystal"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ST18_CraterEnvCube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Environment/Materials/WIP/ST18_Test/T_ST18_CraterEnvCube",
+        "PackagePath": "/Game/Environment/Materials/WIP/ST18_Test"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Capture_Stg",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Environment/Textures/T_Capture_Stg",
+        "PackagePath": "/Game/Environment/Textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_CB_ST09_DownStire",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Environment/Textures/T_CB_ST09_DownStire",
+        "PackagePath": "/Game/Environment/Textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "HDA_CMT_DoorMrrL_Tex2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/LightingStage/Vehicle/NSX/Texture/Cubemap/HDA_CMT_DoorMrrL_Tex2",
+        "PackagePath": "/Game/LightingStage/Vehicle/NSX/Texture/Cubemap"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "HDA_CMT_World_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/LightingStage/Vehicle/NSX/Texture/Cubemap/HDA_CMT_World_Tex",
+        "PackagePath": "/Game/LightingStage/Vehicle/NSX/Texture/Cubemap"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "HDA_CMT_World_Tex2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/LightingStage/Vehicle/NSX/Texture/Cubemap/HDA_CMT_World_Tex2",
+        "PackagePath": "/Game/LightingStage/Vehicle/NSX/Texture/Cubemap"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "TextureRenderTargetCube_A_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/item/add/acc_trophy/textures/TextureRenderTargetCube_A_Tex",
+        "PackagePath": "/Game/Lobby/Character/item/add/acc_trophy/textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_HDR_Test",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_jly/textures/T_HDR_Test",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_jly/textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "TextureRenderTargetCube_A_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_mok_01/textures/TextureRenderTargetCube_A_Tex",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_mok_01/textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "conference_room_ibl_okm",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/skin/avt_okm/textures/conference_room_ibl_okm",
+        "PackagePath": "/Game/Lobby/Character/skin/avt_okm/textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ONL02_cubeMap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/Tests/WB/T_ONL02_cubeMap",
+        "PackagePath": "/Game/Lobby/Maps/Tests/WB"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ONL06_cubeMap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/Tests/WB/T_ONL06_cubeMap",
+        "PackagePath": "/Game/Lobby/Maps/Tests/WB"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ONL00_WindowA_RoomC",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL00_Env/Asset/Buildings/T_ONL00_WindowA_RoomC",
+        "PackagePath": "/Game/Lobby/Stage/ONL00_Env/Asset/Buildings"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ONL00_WindowA_RoomD",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL00_Env/Asset/Buildings/T_ONL00_WindowA_RoomD",
+        "PackagePath": "/Game/Lobby/Stage/ONL00_Env/Asset/Buildings"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ONL01_cubeMap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL01_Entrance/T_ONL01_cubeMap",
+        "PackagePath": "/Game/Lobby/Stage/ONL01_Entrance"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ONL02_cubeMap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL02_Battle/T_ONL02_cubeMap",
+        "PackagePath": "/Game/Lobby/Stage/ONL02_Battle"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ONL05_cubeMap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL05_Minigame/T_ONL05_cubeMap",
+        "PackagePath": "/Game/Lobby/Stage/ONL05_Minigame"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ONL06_cubeMap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Stage/ONL06_Custom/T_ONL06_cubeMap",
+        "PackagePath": "/Game/Lobby/Stage/ONL06_Custom"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_HDRI01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/ControlRoom/Textures/BaseTextures/T_HDRI01",
+        "PackagePath": "/Game/Marketplace/ControlRoom/Textures/BaseTextures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "HDR_T",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/ModularSciFiEnv_I/Textures/HDR_T",
+        "PackagePath": "/Game/Marketplace/ModularSciFiEnv_I/Textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "NewTextureRenderTargetCube_Tex3",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/ParisBuildings/Textures/Interior_Cubemaps/NewTextureRenderTargetCube_Tex3",
+        "PackagePath": "/Game/Marketplace/ParisBuildings/Textures/Interior_Cubemaps"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_SkyCloudy10_Cube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/Skies/Textures/Cubemaps/T_SkyCloudy10_Cube",
+        "PackagePath": "/Game/Marketplace/Skies/Textures/Cubemaps"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Cubemap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/Waterfalls/Textures/T_Cubemap",
+        "PackagePath": "/Game/Marketplace/Waterfalls/Textures"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Bld_Snake_GlassA_Cube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake/T_Bld_Snake_GlassA_Cube",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Bld_Snake_GlassC_Cube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake/T_Bld_Snake_GlassC_Cube",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Bld_Snake_GlassD_Cube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake/T_Bld_Snake_GlassD_Cube",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Bld_Snake_ShopA_Cube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake/T_Bld_Snake_ShopA_Cube",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Bld_Snake_ShopB_Cube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake/T_Bld_Snake_ShopB_Cube",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Snake"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Bld_Turtle_CubeD",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Turtle/T_Bld_Turtle_CubeD",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Turtle"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Bld_Turtle_CubeF",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Turtle/T_Bld_Turtle_CubeF",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Building/Bld_Turtle"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "conference_room_ibl_ST02",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Building/CubeMap/conference_room_ibl_ST02",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Building/CubeMap"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "ST09_02_cube_1024",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Architecture/Floor/Floor_GlassST09/ST09_02_cube_1024",
+        "PackagePath": "/Game/Stage/Asset-Library/Architecture/Floor/Floor_GlassST09"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "HDA_CMT_World_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Etc/Obj/Obj_GoldCoinB/HDA_CMT_World_Tex",
+        "PackagePath": "/Game/Stage/Asset-Library/Etc/Obj/Obj_GoldCoinB"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ST05_Cube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Militaly/Equip_WorkCommandHangarA/T_ST05_Cube",
+        "PackagePath": "/Game/Stage/Asset-Library/Militaly/Equip_WorkCommandHangarA"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ST13_Cubemap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Vehicle/Ship/Amsterdam_Cruise_Boat/T_ST13_Cubemap",
+        "PackagePath": "/Game/Stage/Asset-Library/Vehicle/Ship/Amsterdam_Cruise_Boat"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "ST01TextureRenderTargetCube_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Asset/Light/ST01TextureRenderTargetCube_Tex",
+        "PackagePath": "/Game/Stage/ST01_Arena/Asset/Light"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "ST01TextureRenderTargetCube_Tex3",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Asset/Light/ST01TextureRenderTargetCube_Tex3",
+        "PackagePath": "/Game/Stage/ST01_Arena/Asset/Light"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "ST01TextureRenderTargetCube_Tex6",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Asset/Light/ST01TextureRenderTargetCube_Tex6",
+        "PackagePath": "/Game/Stage/ST01_Arena/Asset/Light"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ST02_Cubemap01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Asset/Cubemap_ST02/T_ST02_Cubemap01",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Asset/Cubemap_ST02"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "NewTextureRenderTargetCube_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST03_IslandA/Asset/cubecap/NewTextureRenderTargetCube_Tex",
+        "PackagePath": "/Game/Stage/ST03_IslandA/Asset/cubecap"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Cubemap_ST04A",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Asset/Cubemap_ST04/T_Cubemap_ST04A",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Asset/Cubemap_ST04"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Cubemap_ST12_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST12_InTheMist/Asset/Cubemap_ST12/T_Cubemap_ST12_Tex",
+        "PackagePath": "/Game/Stage/ST12_InTheMist/Asset/Cubemap_ST12"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Cubemap_ST12_Tex1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST12_InTheMist/Asset/Cubemap_ST12/T_Cubemap_ST12_Tex1",
+        "PackagePath": "/Game/Stage/ST12_InTheMist/Asset/Cubemap_ST12"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "NewTextureRenderTargetCube_Tex1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST12_InTheMist/Asset/fog/NewTextureRenderTargetCube_Tex1",
+        "PackagePath": "/Game/Stage/ST12_InTheMist/Asset/fog"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_FloorHDRI_F3_Tex5",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Asset/BNSMY_Materials/FloorHDRI/T_FloorHDRI_F3_Tex5",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Asset/BNSMY_Materials/FloorHDRI"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Cubemap_ST15_a",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Asset/Cubemap_ST15/T_Cubemap_ST15_a",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Asset/Cubemap_ST15"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Cubemap_st15_Effect_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Asset/Cubemap_ST15/T_Cubemap_st15_Effect_01",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Asset/Cubemap_ST15"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Cubemap_ST15_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Asset/Cubemap_ST15/T_Cubemap_ST15_Tex",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Asset/Cubemap_ST15"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Cube_st16",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST16_WarZone/Asset/GlassDebris/T_Cube_st16",
+        "PackagePath": "/Game/Stage/ST16_WarZone/Asset/GlassDebris"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_ST17_Day_CB_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST17_Sea/Asset/Sky/T_ST17_Day_CB_Tex",
+        "PackagePath": "/Game/Stage/ST17_Sea/Asset/Sky"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_st18_cubemap_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sky/T_st18_cubemap_Tex",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sky"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "st19_cube2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST19_OKM/Asset/Sky/st19_cube2",
+        "PackagePath": "/Game/Stage/ST19_OKM/Asset/Sky"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Cubemap_ST19_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST19_OKM/Asset/Sky/T_Cubemap_ST19_Tex",
+        "PackagePath": "/Game/Stage/ST19_OKM/Asset/Sky"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Chr_CubeMap",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Asset/CubeMap/T_Chr_CubeMap",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust/Asset/CubeMap"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "studio_small_06_256x128_Cs",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_sele/Asset/Cubemap/studio_small_06_256x128_Cs",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_sele/Asset/Cubemap"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T7_T_ENV_s1_daylight2",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/PracticeInfinite/Asset/Floor/T7_T_ENV_s1_daylight2",
+        "PackagePath": "/Game/Stage/UI_Stage/PracticeInfinite/Asset/Floor"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_TAM_NewLobby02_CubeMap01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/NewLobby02/CubeMap/T_TAM_NewLobby02_CubeMap01",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/NewLobby02/CubeMap"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_TAM_NewLobby02_CubeMap02",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/NewLobby02/CubeMap/T_TAM_NewLobby02_CubeMap02",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/NewLobby02/CubeMap"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_gust_cube_Tex01",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Ghost/T_gust_cube_Tex01",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Ghost"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_gust_cube_Tex02",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Ghost/T_gust_cube_Tex02",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Ghost"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_home_cube",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Home01/T_home_cube",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Home01"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_TAM_Home01_cubeMapA",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Home01/T_TAM_Home01_cubeMapA",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Home01"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Lobby01_Cube_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Lobby01/T_Lobby01_Cube_Tex",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Lobby01"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_Lobby02_cub_Tex",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Lobby02/T_Lobby02_cub_Tex",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/Lobby02"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "T_TAM_NewLobby01_Tex1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/NewLobby01/T_TAM_NewLobby01_Tex1",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/NewLobby01"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "RT_TAM_NewLobby03_RenderTargetCube_Tex1",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/NewLobby03/RT_TAM_NewLobby03_RenderTargetCube_Tex1",
+        "PackagePath": "/Game/TrueArcadeMode/Stage/_fromDWE/Asset/NewLobby03"
+    },
+    {
+        "AssetClass": "TextureCube",
+        "AssetName": "approaching_storm_4k",
+        "FTopLevelAssetPath": {
+            "AssetName": "TextureCube",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/HDRIBackdrop/Textures/approaching_storm_4k",
+        "PackagePath": "/HDRIBackdrop/Textures"
+    }
+]

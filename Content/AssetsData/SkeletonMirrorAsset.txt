@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "SkeletonMirrorAsset",
+        "AssetName": "SMA_cmn",
+        "FTopLevelAssetPath": {
+            "AssetName": "SkeletonMirrorAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Blueprints/SkelMiror/SMA_cmn",
+        "PackagePath": "/Game/Character/Blueprints/SkelMiror"
+    }
+]

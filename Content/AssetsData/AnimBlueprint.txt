@@ -1,0 +1,262 @@
+[
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_Character_AML_YCrow",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Missile/aml/ycrow/AnimationBlueprint/AB_Character_AML_YCrow",
+        "PackagePath": "/Game/Character/Blueprints/Missile/aml/ycrow/AnimationBlueprint"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_Character_BBN_Shadow",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Missile/bbn/shadow/AnimationBlueprint/AB_Character_BBN_Shadow",
+        "PackagePath": "/Game/Character/Blueprints/Missile/bbn/shadow/AnimationBlueprint"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_Character_JLY_Dog",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Missile/jly/dog/AnimationBlueprint/AB_Character_JLY_Dog",
+        "PackagePath": "/Game/Character/Blueprints/Missile/jly/dog/AnimationBlueprint"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_Character_XXB_ABit",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Missile/xxb/abit/AnimationBlueprint/AB_Character_XXB_ABit",
+        "PackagePath": "/Game/Character/Blueprints/Missile/xxb/abit/AnimationBlueprint"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "ABP_cmn_acc_alien",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/alien/ABP_cmn_acc_alien",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/alien"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_cmn_acc_crow",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/crow/AB_cmn_acc_crow",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/crow"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_cmn_acc_ghost",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/ghost/AB_cmn_acc_ghost",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/ghost"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_cmn_acc_mokujin",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/mokujin/AB_cmn_acc_mokujin",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/mokujin"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "ABP_cmn_acc_wild_tribes",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/wild_tribes/ABP_cmn_acc_wild_tribes",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/wild_tribes"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_Item_StageSalmon",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/rbt/salmon/AB_Item_StageSalmon",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/rbt/salmon"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_SKT_CH_zako_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Demo/Ingame/Model/Chara/AB_SKT_CH_zako_base_msl",
+        "PackagePath": "/Game/Demo/Ingame/Model/Chara"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_SKT_CH_zako_base_msl_wait",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Demo/Ingame/Model/Chara/AB_SKT_CH_zako_base_msl_wait",
+        "PackagePath": "/Game/Demo/Ingame/Model/Chara"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_AvatarCustomizeAvatar",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/AvatarCustomize/AB_AvatarCustomizeAvatar",
+        "PackagePath": "/Game/Lobby/Blueprints/AvatarCustomize"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_LobbyAvatar_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/LobbyAvatar/AB_LobbyAvatar_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/LobbyAvatar"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "ABP_Female_Npc_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Npc/ABP_Female_Npc_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/Npc"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "ABP_Male_Npc_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Npc/ABP_Male_Npc_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/Npc"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_Alpaca_Original",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AB_Alpaca_Original",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_Mob_PigeonA",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AB_Mob_PigeonA",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_Mob_RedDeer",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AB_Mob_RedDeer",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_Mob_RedDeer_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AB_Mob_RedDeer_2",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "Mob_Base_Low",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/Mob_Base_Low",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "Mob_BaseAnimBP",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/Mob_BaseAnimBP",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "Mob_W_AnimBP",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/Mob_W_AnimBP",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "Mob_WL_AnimBP",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/Mob_WL_AnimBP",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_TAM_NPC",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/BluePrints/NPC/Base/AB_TAM_NPC",
+        "PackagePath": "/Game/TrueArcadeMode/BluePrints/NPC/Base"
+    },
+    {
+        "AssetClass": "AnimBlueprint",
+        "AssetName": "AB_TAM_Avatar",
+        "FTopLevelAssetPath": {
+            "AssetName": "AnimBlueprint",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Character/AB_TAM_Avatar",
+        "PackagePath": "/Game/TrueArcadeMode/Character"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Acoustic_Banner",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Acoustic_Banner",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Anechoic",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Anechoic",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Brick",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Brick",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Carpet",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Carpet",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Concrete",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Concrete",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Cork_Tiles",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Cork_Tiles",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Curtains",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Curtains",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Drywall",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Drywall",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Fabric",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Fabric",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Mountain",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Mountain",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "test",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Test",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Tile",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Tile",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Wood",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Wood",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Wood_Bright",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Wood_Bright",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    },
+    {
+        "AssetClass": "AkAcousticTexture",
+        "AssetName": "Wood_Deep",
+        "FTopLevelAssetPath": {
+            "AssetName": "AkAcousticTexture",
+            "PackageName": "/Script/AkAudio"
+        },
+        "PackageName": "/Game/Sound/GameCom/OnlineLobby/Textures/Wood_Deep",
+        "PackagePath": "/Game/Sound/GameCom/OnlineLobby/Textures"
+    }
+]

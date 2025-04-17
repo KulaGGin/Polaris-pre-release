@@ -1,0 +1,1092 @@
+[
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_female_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/SKB_CH_female_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_male_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/SKB_CH_male_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_okm_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/okm/SKB_CH_okm_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/okm"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_okm_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/okm/SKB_CH_okm_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/okm"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bbn_exp_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/bbn/extra/bbn_exp_1p/meshes/SKB_CH_bbn_exp_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/bbn/extra/bbn_exp_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bbn_exp_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/bbn/extra/bbn_exp_1p_p/meshes/SKB_CH_bbn_exp_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/bbn/extra/bbn_exp_1p_p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bbn_exp_bluecaw",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/bbn/extra/bbn_exp_bluecaw/meshes/SKB_CH_bbn_exp_bluecaw",
+        "PackagePath": "/Game/Character/Item/model/unique/bbn/extra/bbn_exp_bluecaw/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bbn_exp_1p_shadow",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/bbn/extra/bbn_exp_shadow/meshes/SKB_CH_bbn_exp_1p_shadow",
+        "PackagePath": "/Game/Character/Item/model/unique/bbn/extra/bbn_exp_shadow/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cht_bdf_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/cht/full_body/cht_bdf_1p/meshes/SKB_CH_cht_bdf_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/cht/full_body/cht_bdf_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cht_bdf_1p_v1",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/cht/full_body/cht_bdf_1p/meshes/SKB_CH_cht_bdf_1p_v1",
+        "PackagePath": "/Game/Character/Item/model/unique/cht/full_body/cht_bdf_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cht_bdf_1p_v2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/cht/full_body/cht_bdf_1p/meshes/SKB_CH_cht_bdf_1p_v2",
+        "PackagePath": "/Game/Character/Item/model/unique/cht/full_body/cht_bdf_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cml_bdf_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/cml/full_body/cml_bdf_1p_p/meshes/SKB_CH_cml_bdf_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/cml/full_body/cml_bdf_1p_p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cml_bdf_acala",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/cml/full_body/cml_bdf_acala/meshes/SKB_CH_cml_bdf_acala",
+        "PackagePath": "/Game/Character/Item/model/unique/cml/full_body/cml_bdf_acala/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cml_hef_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/cml/full_head/cml_hef_1p_p/meshes/SKB_CH_cml_hef_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/cml/full_head/cml_hef_1p_p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_crw_acc_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/crw/accessorie/crw_acc_1p/meshes/SKB_CH_crw_acc_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/crw/accessorie/crw_acc_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_crw_acc_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/crw/accessorie/crw_acc_1p_p/meshes/SKB_CH_crw_acc_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/crw/accessorie/crw_acc_1p_p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_dog_har_rev_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/dog/hair/dog_har_rev_001/meshes/SKB_CH_dog_har_rev_001",
+        "PackagePath": "/Game/Character/Item/model/unique/dog/hair/dog_har_rev_001/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_got_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/got/face/got_fac/meshes/SKB_CH_got_base_msl",
+        "PackagePath": "/Game/Character/Item/model/unique/got/face/got_fac/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_grl_exp_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/grl/extra/grl_exp_1p/meshes/SKB_CH_grl_exp_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/grl/extra/grl_exp_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_hrs_bdf_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/hrs/full_body/hrs_bdf_1p_p/meshes/SKB_CH_hrs_bdf_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/hrs/full_body/hrs_bdf_1p_p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_jly_har_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/jly/hair/jly_har_1p/meshes/SKB_CH_jly_har_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/jly/hair/jly_har_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_klw_har_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/klw/hair/klw_har_1p/meshes/SKB_CH_klw_har_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/klw/hair/klw_har_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_klw_har_1p_A",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/klw/hair/klw_har_1p/meshes/SKB_CH_klw_har_1p_A",
+        "PackagePath": "/Game/Character/Item/model/unique/klw/hair/klw_har_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_klw_har_1p_B",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/klw/hair/klw_har_1p/meshes/SKB_CH_klw_har_1p_B",
+        "PackagePath": "/Game/Character/Item/model/unique/klw/hair/klw_har_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_pgn_exp_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/pgn/extra/pgn_exp_1p/meshes/SKB_CH_pgn_exp_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/pgn/extra/pgn_exp_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_swl_exp_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/swl/extra/swl_exp_1p/meshes/SKB_CH_swl_exp_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/swl/extra/swl_exp_1p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ttr_bdf_1p_p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p_p/meshes/SKB_CH_ttr_bdf_1p_p",
+        "PackagePath": "/Game/Character/Item/model/unique/ttr/full_body/ttr_bdf_1p_p/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_xxa_exp_1p",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/xxa/extra/xxa_exp/meshes/SKB_CH_xxa_exp_1p",
+        "PackagePath": "/Game/Character/Item/model/unique/xxa/extra/xxa_exp/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_zbr_bdf_kimono",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/unique/zbr/full_body/zbr_bdf_kimono/meshes/SKB_CH_zbr_bdf_kimono",
+        "PackagePath": "/Game/Character/Item/model/unique/zbr/full_body/zbr_bdf_kimono/meshes"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_aml_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/aml/SKB_CH_aml_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/aml"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_aml_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/aml/SKB_CH_aml_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/aml"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ant_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ant/SKB_CH_ant_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ant"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ant_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ant/SKB_CH_ant_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ant"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bbn_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/bbn/SKB_CH_bbn_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/bbn"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bbn_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/bbn/SKB_CH_bbn_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/bbn"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bee_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/bee/SKB_CH_bee_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/bee"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bee_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/bee/SKB_CH_bee_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/bee"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bsn_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/bsn/SKB_CH_bsn_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/bsn"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_bsn_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/bsn/SKB_CH_bsn_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/bsn"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cat_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/cat/SKB_CH_cat_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/cat"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cat_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/cat/SKB_CH_cat_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/cat"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cbr_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/cbr/SKB_CH_cbr_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/cbr"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cbr_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/cbr/SKB_CH_cbr_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/cbr"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ccn_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ccn/SKB_CH_ccn_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ccn"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ccn_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ccn/SKB_CH_ccn_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ccn"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cht_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/cht/SKB_CH_cht_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/cht"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cht_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/cht/SKB_CH_cht_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/cht"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cml_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/cml/SKB_CH_cml_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/cml"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_cml_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/cml/SKB_CH_cml_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/cml"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_crw_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/crw/SKB_CH_crw_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/crw"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_crw_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/crw/SKB_CH_crw_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/crw"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ctr_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ctr/SKB_CH_ctr_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ctr"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ctr_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ctr/SKB_CH_ctr_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ctr"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_dek_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/dek/SKB_CH_dek_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/dek"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_dek_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/dek/SKB_CH_dek_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/dek"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_der_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/der/SKB_CH_der_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/der"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_der_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/der/SKB_CH_der_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/der"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_dog_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/dog/SKB_CH_dog_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/dog"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_dog_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/dog/SKB_CH_dog_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/dog"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ghp_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ghp/SKB_CH_ghp_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ghp"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ghp_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ghp/SKB_CH_ghp_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ghp"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_got_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/got/SKB_CH_got_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/got"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_got_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/got/SKB_CH_got_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/got"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_grf_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/grf/SKB_CH_grf_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/grf"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_grf_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/grf/SKB_CH_grf_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/grf"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_grl_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/grl/SKB_CH_grl_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/grl"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_grl_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/grl/SKB_CH_grl_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/grl"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_hms_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/hms/SKB_CH_hms_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/hms"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_hms_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/hms/SKB_CH_hms_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/hms"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_hrs_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/hrs/SKB_CH_hrs_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/hrs"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_hrs_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/hrs/SKB_CH_hrs_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/hrs"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ja4_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ja4/SKB_CH_ja4_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ja4"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_jly_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/jly/SKB_CH_jly_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/jly"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_jly_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/jly/SKB_CH_jly_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/jly"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_kal_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/kal/SKB_CH_kal_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/kal"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_kal_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/kal/SKB_CH_kal_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/kal"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_klw_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/klw/SKB_CH_klw_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/klw"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_klw_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/klw/SKB_CH_klw_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/klw"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_kmd_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/kmd/SKB_CH_kmd_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/kmd"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_kmd_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/kmd/SKB_CH_kmd_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/kmd"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_lon_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/lon/SKB_CH_lon_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/lon"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_lon_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/lon/SKB_CH_lon_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/lon"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_lzd_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/lzd/SKB_CH_lzd_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/lzd"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_lzd_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/lzd/SKB_CH_lzd_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/lzd"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_mnt_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/mnt/SKB_CH_mnt_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/mnt"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_mnt_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/mnt/SKB_CH_mnt_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/mnt"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_pgn_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/pgn/SKB_CH_pgn_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/pgn"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_pgn_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/pgn/SKB_CH_pgn_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/pgn"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_pig_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/pig/SKB_CH_pig_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/pig"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_pig_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/pig/SKB_CH_pig_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/pig"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_rat_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/rat/SKB_CH_rat_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/rat"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_rat_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/rat/SKB_CH_rat_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/rat"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_rbt_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/rbt/SKB_CH_rbt_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/rbt"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_rbt_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/rbt/SKB_CH_rbt_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/rbt"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_snk_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/snk/SKB_CH_snk_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/snk"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_snk_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/snk/SKB_CH_snk_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/snk"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_swl_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/swl/SKB_CH_swl_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/swl"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_swl_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/swl/SKB_CH_swl_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/swl"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ttr_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ttr/SKB_CH_ttr_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ttr"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_ttr_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/ttr/SKB_CH_ttr_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/ttr"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_wlf_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/wlf/SKB_CH_wlf_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/wlf"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_wlf_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/wlf/SKB_CH_wlf_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/wlf"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_xxa_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/xxa/SKB_CH_xxa_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/xxa"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_xxb_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/xxb/SKB_CH_xxb_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/xxb"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_xxd_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/xxd/SKB_CH_xxd_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/xxd"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_xxf_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/xxf/SKB_CH_xxf_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/xxf"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_xxg_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/xxg/SKB_CH_xxg_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/xxg"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_zbr_base_msl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/zbr/SKB_CH_zbr_base_msl",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/zbr"
+    },
+    {
+        "AssetClass": "PhoenixSkeletonBinary",
+        "AssetName": "SKB_CH_zbr_prp",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhoenixSkeletonBinary",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/shared/skeleton/zbr/SKB_CH_zbr_prp",
+        "PackagePath": "/Game/Character/Item/shared/skeleton/zbr"
+    }
+]

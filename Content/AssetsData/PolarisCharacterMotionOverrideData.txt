@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "PolarisCharacterMotionOverrideData",
+        "AssetName": "MOD_bsn_acc_focus_mitts",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisCharacterMotionOverrideData",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/Motion_Override_Data/bsn/acc/MOD_bsn_acc_focus_mitts",
+        "PackagePath": "/Game/Character/Item/Motion_Override_Data/bsn/acc"
+    }
+]

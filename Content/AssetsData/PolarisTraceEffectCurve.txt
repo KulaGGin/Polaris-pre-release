@@ -1,0 +1,382 @@
+[
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_OKM_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/okm/FC_OKM_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/okm"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_OKM_KisekiParamCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/okm/FC_OKM_KisekiParamCurve2",
+        "PackagePath": "/Game/Character/Trace/okm"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_OKM_KisekiParamCurve3",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/okm/FC_OKM_KisekiParamCurve3",
+        "PackagePath": "/Game/Character/Trace/okm"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_ANT_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ant/FC_ANT_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/ant"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_ANT_KisekiParamCurve02",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ant/FC_ANT_KisekiParamCurve02",
+        "PackagePath": "/Game/Character/Trace/ant"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_ANT_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ant/FC_ANT_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/ant"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_ANT_KisekiParamCurve_Delta02",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ant/FC_ANT_KisekiParamCurve_Delta02",
+        "PackagePath": "/Game/Character/Trace/ant"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_ANT_S_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ant/FC_ANT_S_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/ant"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_ANT_S_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ant/FC_ANT_S_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/ant"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_CML_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/cml/FC_CML_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_CML_KisekiParamCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/cml/FC_CML_KisekiParamCurve2",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_CML_KisekiParamCurve2_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/cml/FC_CML_KisekiParamCurve2_Delta",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_CML_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/cml/FC_CML_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/cml"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_CRW_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/crw/FC_CRW_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/crw"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_CRW_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/crw/FC_CRW_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/crw"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_JLY_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/jly/FC_JLY_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/jly"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_JLY_KisekiParamCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/jly/FC_JLY_KisekiParamCurve2",
+        "PackagePath": "/Game/Character/Trace/jly"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_JLY_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/jly/FC_JLY_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/jly"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_LON_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/lon/FC_LON_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/lon"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_LON_KisekiParamCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/lon/FC_LON_KisekiParamCurve2",
+        "PackagePath": "/Game/Character/Trace/lon"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_LON_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/lon/FC_LON_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/lon"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_MNT_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/mnt/FC_MNT_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/mnt"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_MNT_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/mnt/FC_MNT_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/mnt"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_OKM_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/okm/FC_OKM_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/okm"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_PIG_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/pig/FC_PIG_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/pig"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_PIG_KisekiParamCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/pig/FC_PIG_KisekiParamCurve2",
+        "PackagePath": "/Game/Character/Trace/pig"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_PIG_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/pig/FC_PIG_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/pig"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_RBT_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/rbt/FC_RBT_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/rbt"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_RBT_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/rbt/FC_RBT_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/rbt"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_SWL_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/swl/FC_SWL_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/swl"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_SWL_KisekiParamCurve2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/swl/FC_SWL_KisekiParamCurve2",
+        "PackagePath": "/Game/Character/Trace/swl"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_SWL_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/swl/FC_SWL_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/swl"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_TTR_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ttr/FC_TTR_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/ttr"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_TTR_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/ttr/FC_TTR_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/ttr"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_XXA_KisekiParamCurve",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/xxa/FC_XXA_KisekiParamCurve",
+        "PackagePath": "/Game/Character/Trace/xxa"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_XXA_KisekiParamCurve3",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/xxa/FC_XXA_KisekiParamCurve3",
+        "PackagePath": "/Game/Character/Trace/xxa"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_XXA_KisekiParamCurve_Delta",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/xxa/FC_XXA_KisekiParamCurve_Delta",
+        "PackagePath": "/Game/Character/Trace/xxa"
+    },
+    {
+        "AssetClass": "PolarisTraceEffectCurve",
+        "AssetName": "FC_XXA_KisekiParamCurve_Delta2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PolarisTraceEffectCurve",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Trace/xxa/FC_XXA_KisekiParamCurve_Delta2",
+        "PackagePath": "/Game/Character/Trace/xxa"
+    }
+]

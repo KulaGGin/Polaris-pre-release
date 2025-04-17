@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "BP_AvatarPresetDataAsset_C",
+        "AssetName": "DA_AvatarPresetDataAsset",
+        "FTopLevelAssetPath": {
+            "AssetName": "BP_AvatarPresetDataAsset_C",
+            "PackageName": "/Game/Lobby/Character/DataTables/Item/BP_AvatarPresetDataAsset"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/Data/DA_AvatarPresetDataAsset",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item/Data"
+    }
+]

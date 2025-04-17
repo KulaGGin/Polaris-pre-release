@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "WwiseAudioLinkSettings",
+        "AssetName": "TTSWwiseAudioLinkSettings",
+        "FTopLevelAssetPath": {
+            "AssetName": "WwiseAudioLinkSettings",
+            "PackageName": "/Script/Wwise"
+        },
+        "PackageName": "/Game/Sound/GameCom/TTSinput/TTSWwiseAudioLinkSettings",
+        "PackagePath": "/Game/Sound/GameCom/TTSinput"
+    }
+]

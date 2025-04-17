@@ -1,0 +1,82 @@
+[
+    {
+        "AssetClass": "CatwalkClothLcjOverrideAsset",
+        "AssetName": "CLO_CH_rat_bdf_f_halloween",
+        "FTopLevelAssetPath": {
+            "AssetName": "CatwalkClothLcjOverrideAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_f_halloween/meshes/CLO_CH_rat_bdf_f_halloween",
+        "PackagePath": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_f_halloween/meshes"
+    },
+    {
+        "AssetClass": "CatwalkClothLcjOverrideAsset",
+        "AssetName": "CLO_CH_rat_bdu_f_endbiker",
+        "FTopLevelAssetPath": {
+            "AssetName": "CatwalkClothLcjOverrideAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_endbiker/meshes/CLO_CH_rat_bdu_f_endbiker",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_endbiker/meshes"
+    },
+    {
+        "AssetClass": "CatwalkClothLcjOverrideAsset",
+        "AssetName": "CLO_CH_rat_bdu_f_kunoichi_upper",
+        "FTopLevelAssetPath": {
+            "AssetName": "CatwalkClothLcjOverrideAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_kunoichi_upper/meshes/CLO_CH_rat_bdu_f_kunoichi_upper",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_kunoichi_upper/meshes"
+    },
+    {
+        "AssetClass": "CatwalkClothLcjOverrideAsset",
+        "AssetName": "CLO_CH_rat_bdu_f_officedressnos",
+        "FTopLevelAssetPath": {
+            "AssetName": "CatwalkClothLcjOverrideAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_officedress/meshes/CLO_CH_rat_bdu_f_officedressnos",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_officedress/meshes"
+    },
+    {
+        "AssetClass": "CatwalkClothLcjOverrideAsset",
+        "AssetName": "CLO_CH_rat_bdu_f_oiran_furisode",
+        "FTopLevelAssetPath": {
+            "AssetName": "CatwalkClothLcjOverrideAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_oiran_furisode/meshes/CLO_CH_rat_bdu_f_oiran_furisode",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_oiran_furisode/meshes"
+    },
+    {
+        "AssetClass": "CatwalkClothLcjOverrideAsset",
+        "AssetName": "CLO_CH_rat_bdu_f_prowrestling",
+        "FTopLevelAssetPath": {
+            "AssetName": "CatwalkClothLcjOverrideAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_prowrestling/meshes/CLO_CH_rat_bdu_f_prowrestling",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_prowrestling/meshes"
+    },
+    {
+        "AssetClass": "CatwalkClothLcjOverrideAsset",
+        "AssetName": "CLO_CH_rat_bdu_f_swimwear",
+        "FTopLevelAssetPath": {
+            "AssetName": "CatwalkClothLcjOverrideAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_swimwear/meshes/CLO_CH_rat_bdu_f_swimwear",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_swimwear/meshes"
+    },
+    {
+        "AssetClass": "CatwalkClothLcjOverrideAsset",
+        "AssetName": "CLO_CH_rat_bdu_f_tropical",
+        "FTopLevelAssetPath": {
+            "AssetName": "CatwalkClothLcjOverrideAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tropical/meshes/CLO_CH_rat_bdu_f_tropical",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tropical/meshes"
+    }
+]

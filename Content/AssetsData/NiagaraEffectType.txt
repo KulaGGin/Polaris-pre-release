@@ -1,0 +1,92 @@
+[
+    {
+        "AssetClass": "NiagaraEffectType",
+        "AssetName": "NT_Common_Battle",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraEffectType",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Lod/NT_Common_Battle",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Lod"
+    },
+    {
+        "AssetClass": "NiagaraEffectType",
+        "AssetName": "NT_Character_Battle",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraEffectType",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Lod/NT_Character_Battle",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Lod"
+    },
+    {
+        "AssetClass": "NiagaraEffectType",
+        "AssetName": "NT_Character_Battle_Rage",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraEffectType",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Lod/NT_Character_Battle_Rage",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Lod"
+    },
+    {
+        "AssetClass": "NiagaraEffectType",
+        "AssetName": "NT_Common",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraEffectType",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Lod/NT_Common",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Lod"
+    },
+    {
+        "AssetClass": "NiagaraEffectType",
+        "AssetName": "NT_Stage_Battle",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraEffectType",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Lod/NT_Stage_Battle",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Lod"
+    },
+    {
+        "AssetClass": "NiagaraEffectType",
+        "AssetName": "NT_Stage_Break",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraEffectType",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Lod/NT_Stage_Break",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Lod"
+    },
+    {
+        "AssetClass": "NiagaraEffectType",
+        "AssetName": "NT_Stage_Gimmick",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraEffectType",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Lod/NT_Stage_Gimmick",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Lod"
+    },
+    {
+        "AssetClass": "NiagaraEffectType",
+        "AssetName": "NT_Stage_Step",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraEffectType",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/Lod/NT_Stage_Step",
+        "PackagePath": "/Game/Effect/Polariswork/Common/Lod"
+    },
+    {
+        "AssetClass": "NiagaraEffectType",
+        "AssetName": "NT_Motion",
+        "FTopLevelAssetPath": {
+            "AssetName": "NiagaraEffectType",
+            "PackageName": "/Script/Niagara"
+        },
+        "PackageName": "/Game/Effect/Polariswork/OnlineLobby/common/LOD/NT_Motion",
+        "PackagePath": "/Game/Effect/Polariswork/OnlineLobby/common/LOD"
+    }
+]

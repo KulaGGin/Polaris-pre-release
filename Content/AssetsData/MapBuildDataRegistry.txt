@@ -1,0 +1,1542 @@
+[
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST_CommonUtil_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Common/SubLevels/ST_CommonUtil_BuiltData",
+        "PackagePath": "/Game/Stage/Common/SubLevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "MainMenuDemo_Lighting_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/Sublevels/MainMenuDemo_Lighting_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "BlackPen_AvatarView_Level_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/AvatarViewer/BlackPen_AvatarView_Level_BuiltData",
+        "PackagePath": "/Game/BlackPen/AvatarViewer"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "BlackPen_CharacterView_Level_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/CharacterViewer/BlackPen_CharacterView_Level_BuiltData",
+        "PackagePath": "/Game/BlackPen/CharacterViewer"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "BlackPen_ProfCustView_Level_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/ProfCustViewer/BlackPen_ProfCustView_Level_BuiltData",
+        "PackagePath": "/Game/BlackPen/ProfCustViewer"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "BlackPen_SequenceView_Level_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/SequenceViewer/BlackPen_SequenceView_Level_BuiltData",
+        "PackagePath": "/Game/BlackPen/SequenceViewer"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "AML_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/AML_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "BBN_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/BBN_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "CAT_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/CAT_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "CML_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/CML_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "CRW_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/CRW_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Grf_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/Grf_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "KMD_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/KMD_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "SWL_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/SWL_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "XXB_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/XXB_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ZBR_RageArts_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Levels/Sublevels/ZBR_RageArts_BuiltData",
+        "PackagePath": "/Game/Character/Levels/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "AvatarCustomize_Onl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/AvatarCustomize/AvatarCustomize_Onl_BuiltData",
+        "PackagePath": "/Game/Lobby/Maps/AvatarCustomize"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "AvatarCustomizeBg_Onl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/AvatarCustomize/AvatarCustomizeBg_Onl_BuiltData",
+        "PackagePath": "/Game/Lobby/Maps/AvatarCustomize"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "AvatarCustomizeLight_Onl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/AvatarCustomize/AvatarCustomizeLight_Onl_BuiltData",
+        "PackagePath": "/Game/Lobby/Maps/AvatarCustomize"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "DummyBattle_Onl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/DummyBattle_Onl_BuiltData",
+        "PackagePath": "/Game/Lobby/Maps"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ProfileAvatarLight_Onl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/Profile/ProfileAvatarLight_Onl_BuiltData",
+        "PackagePath": "/Game/Lobby/Maps/Profile"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ProfileCharaLight_Onl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/Profile/ProfileCharaLight_Onl_BuiltData",
+        "PackagePath": "/Game/Lobby/Maps/Profile"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ProfileLevel_Onl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/Profile/ProfileLevel_Onl_BuiltData",
+        "PackagePath": "/Game/Lobby/Maps/Profile"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ONL_Lobby_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Maps/Stage/ONL_Lobby_Light_BuiltData",
+        "PackagePath": "/Game/Lobby/Maps/Stage"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST_CommonBattle_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Common/SubLevels/ST_CommonBattle_BuiltData",
+        "PackagePath": "/Game/Stage/Common/SubLevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "DevBattle_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/DevBattle/Sublevels/DevBattle_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/DevBattle/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "NiagaraBreakParameterTest_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Physical/TestAsset/maps/NiagaraBreakParameterTest_BuiltData",
+        "PackagePath": "/Game/Stage/Physical/TestAsset/maps"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST01_Battle1_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Sublevels/ST01_Battle1_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST01_Arena/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST01_Demo1_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Sublevels/ST01_Demo1_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST01_Arena/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST01_Demo2_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Sublevels/ST01_Demo2_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST01_Arena/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST01_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Sublevels/ST01_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST01_Arena/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST01_Sound_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST01_Arena/Sublevels/ST01_Sound_BuiltData",
+        "PackagePath": "/Game/Stage/ST01_Arena/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST02_Demo1_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST02_Demo1_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Demo1_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST02_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST02_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST02_Light_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Sublevels/ST02_Light_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST03_Light_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST03_IslandA/Sublevels/ST03_Light_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST03_IslandA/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST03_Light_Demo_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST03_IslandA/Sublevels/ST03_Light_Demo_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST03_IslandA/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST04_Demo1_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Sublevels/ST04_Demo1_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST04_Demo1_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Sublevels/ST04_Demo1_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST04_Demo1_Light_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Sublevels/ST04_Demo1_Light_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST04_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Sublevels/ST04_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST05_Demo1_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST05_Hangar/Sublevels/ST05_Demo1_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST05_Hangar/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST05_Demo3_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST05_Hangar/Sublevels/ST05_Demo3_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST05_Hangar/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST05_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST05_Hangar/Sublevels/ST05_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST05_Hangar/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST05_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST05_Hangar/Sublevels/ST05_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST05_Hangar/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST07_Light_2_Battle_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST07_FinalBattle/Sublevels/ST07_Light_2_Battle_BuiltData",
+        "PackagePath": "/Game/Stage/ST07_FinalBattle/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST07_Light_2_Demo_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST07_FinalBattle/Sublevels/ST07_Light_2_Demo_BuiltData",
+        "PackagePath": "/Game/Stage/ST07_FinalBattle/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Demo2_PL_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/ST08_Demo2_PL_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Demo3_PL_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/ST08_Demo3_PL_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Demo4_PL_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/ST08_Demo4_PL_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_BattleWall_4_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_BattleWall_4_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Demo1_Demo_OFF_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Demo1_Demo_OFF_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Demo1_Sound_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Demo1_Sound_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Demo4_Program_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Demo4_Program_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Geom_Base_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Geom_Base_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Geom_Base_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Geom_Base_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_10_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_10_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_11_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_11_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_12_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_12_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_4_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_4_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_5_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_5_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_6_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_6_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_7_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_7_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_8_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_8_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST08_Light_9_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Sublevels/ST08_Light_9_BuiltData",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST09_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST09_SpiritWorld/Sublevels/ST09_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST09_SpiritWorld/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST09_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST09_SpiritWorld/Sublevels/ST09_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST09_SpiritWorld/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST09_Light_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST09_SpiritWorld/Sublevels/ST09_Light_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST09_SpiritWorld/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST09_Light_Demo_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST09_SpiritWorld/Sublevels/ST09_Light_Demo_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST09_SpiritWorld/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST09_Light_Demo_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST09_SpiritWorld/Sublevels/ST09_Light_Demo_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST09_SpiritWorld/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST09_Light_Demo_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST09_SpiritWorld/Sublevels/ST09_Light_Demo_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST09_SpiritWorld/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST10_PL_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST10_Mountains/ST10_PL_BuiltData",
+        "PackagePath": "/Game/Stage/ST10_Mountains"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST10_Demo_Light_2b_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST10_Mountains/Sublevels/ST10_Demo_Light_2b_BuiltData",
+        "PackagePath": "/Game/Stage/ST10_Mountains/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST10_Geom_Base_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST10_Mountains/Sublevels/ST10_Geom_Base_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST10_Mountains/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST10_Light_1b_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST10_Mountains/Sublevels/ST10_Light_1b_BuiltData",
+        "PackagePath": "/Game/Stage/ST10_Mountains/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST10_Light_2b_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST10_Mountains/Sublevels/ST10_Light_2b_BuiltData",
+        "PackagePath": "/Game/Stage/ST10_Mountains/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST10_Mob_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST10_Mountains/Sublevels/ST10_Mob_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST10_Mountains/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST10_Program_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST10_Mountains/Sublevels/ST10_Program_BuiltData",
+        "PackagePath": "/Game/Stage/ST10_Mountains/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST11_Demo1_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST11_VolcanicBomb/Sublevels/ST11_Demo1_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST11_VolcanicBomb/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST11_Demo1_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST11_VolcanicBomb/Sublevels/ST11_Demo1_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST11_VolcanicBomb/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST11_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST11_VolcanicBomb/Sublevels/ST11_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST11_VolcanicBomb/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST11_NEW_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST11_VolcanicBomb/Sublevels/ST11_NEW_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST11_VolcanicBomb/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST12_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST12_InTheMist/Sublevels/ST12_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST12_InTheMist/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST12_Light_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST12_InTheMist/Sublevels/ST12_Light_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST12_InTheMist/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST13_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST13_River/Sublevels/ST13_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST13_River/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST14_Battle1_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST14_Garden/Sublevels/ST14_Battle1_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST14_Garden/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST14_Demo1_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST14_Garden/Sublevels/ST14_Demo1_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST14_Garden/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST14_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST14_Garden/Sublevels/ST14_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST14_Garden/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_PL_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/ST15_PL_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Debug_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Debug_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Demo_OFF_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Demo_OFF_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Demo_ON_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Demo_ON_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Effect_2a_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Effect_2a_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Geom_Base_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Geom_Base_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Geom_Base_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Geom_Base_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Geom_Base_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Geom_Base_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Program_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Program_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST15_Sound_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Sublevels/ST15_Sound_BuiltData",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST16_Demo1_Light_1_Bake_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST16_WarZone/Sublevels/ST16_Demo1_Light_1_Bake_BuiltData",
+        "PackagePath": "/Game/Stage/ST16_WarZone/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST16_Light_1_Bake_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST16_WarZone/Sublevels/ST16_Light_1_Bake_BuiltData",
+        "PackagePath": "/Game/Stage/ST16_WarZone/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST17_Demo1_Light_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST17_Sea/Sublevels/ST17_Demo1_Light_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST17_Sea/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST17_Demo2_Light_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST17_Sea/Sublevels/ST17_Demo2_Light_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST17_Sea/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST17_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST17_Sea/Sublevels/ST17_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST17_Sea/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST17_Light_2_new_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST17_Sea/Sublevels/ST17_Light_2_new_BuiltData",
+        "PackagePath": "/Game/Stage/ST17_Sea/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST17_Light_3_new_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST17_Sea/Sublevels/ST17_Light_3_new_BuiltData",
+        "PackagePath": "/Game/Stage/ST17_Sea/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Battle1_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Battle1_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Debug_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Debug_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Demo1_Geom_1a_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Demo1_Geom_1a_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Demo1_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Demo1_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Demo1_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Demo1_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Demo3_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Demo3_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Demo4_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Demo4_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Demo_OFF_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Demo_OFF_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Demo_ON_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Demo_ON_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Effect_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Effect_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Geom_Base_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Geom_Base_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Geom_Base_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Geom_Base_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Geom_Base_3_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Geom_Base_3_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Geom_Base_4_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Geom_Base_4_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST18_Sound_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Sublevels/ST18_Sound_BuiltData",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST19_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST19_OKM/Sublevels/ST19_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST19_OKM/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST19_Light_2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST19_OKM/Sublevels/ST19_Light_2_BuiltData",
+        "PackagePath": "/Game/Stage/ST19_OKM/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST90_Light_1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST90_BeachSide/Sublevels/ST90_Light_1_BuiltData",
+        "PackagePath": "/Game/Stage/ST90_BeachSide/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "ST99_Demo_PL_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/ST99_AssetCheck/ST99_Demo_PL_BuiltData",
+        "PackagePath": "/Game/Stage/ST99_AssetCheck"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_cust_PL_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Chr_cust_PL_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_cust_Effect_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Sublevels/Chr_cust_Effect_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_cust_Geom_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Sublevels/Chr_cust_Geom_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_cust_Geom_Chromakey_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Sublevels/Chr_cust_Geom_Chromakey_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_cust_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Sublevels/Chr_cust_Light_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_cust_Light_Chara1_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Sublevels/Chr_cust_Light_Chara1_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_cust_Light_Chara2_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Sublevels/Chr_cust_Light_Chara2_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_cust_Light_Chromakey_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Sublevels/Chr_cust_Light_Chromakey_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_cust_Program_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_cust/Sublevels/Chr_cust_Program_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_cust/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "Chr_sele_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_sele/Sublevels/Chr_sele_Light_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_sele/Sublevels"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "MainMenuDemo_grl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/grl/MainMenuDemo_grl_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/grl"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TekkenShopBg_Onl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/TekkenShop/TekkenShopBg_Onl_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/TekkenShop"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TekkenShopLight_Onl_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/TekkenShop/TekkenShopLight_Onl_BuiltData",
+        "PackagePath": "/Game/Stage/UI_Stage/TekkenShop"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TAM_Ghost_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/Ghost/TAM_Ghost_Light_BuiltData",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/Ghost"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TAM_Home01_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/Home01/TAM_Home01_Light_BuiltData",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/Home01"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TAM_Lobby01_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/Lobby01/TAM_Lobby01_Light_BuiltData",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/Lobby01"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TAM_Lobby02_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/Lobby02/TAM_Lobby02_Light_BuiltData",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/Lobby02"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TAM_NewLobby01_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/NewLobby01/TAM_NewLobby01_Light_BuiltData",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/NewLobby01"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TAM_NewLobby02_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/NewLobby02/TAM_NewLobby02_Light_BuiltData",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/NewLobby02"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TAM_NewLobby03_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/NewLobby03/TAM_NewLobby03_Light_BuiltData",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/NewLobby03"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TAM_Prologue_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/Prologue/TAM_Prologue_Light_BuiltData",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/Prologue"
+    },
+    {
+        "AssetClass": "MapBuildDataRegistry",
+        "AssetName": "TAM_TWT_Light_BuiltData",
+        "FTopLevelAssetPath": {
+            "AssetName": "MapBuildDataRegistry",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/Maps/TWT/TAM_TWT_Light_BuiltData",
+        "PackagePath": "/Game/TrueArcadeMode/Maps/TWT"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "MediaTexture",
+        "AssetName": "T_Live_MediaTexture",
+        "FTopLevelAssetPath": {
+            "AssetName": "MediaTexture",
+            "PackageName": "/Script/MediaAssets"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/MediaPlayer/T_Live_MediaTexture",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core/MediaPlayer"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "AssetClass": "BlendSpace",
+        "AssetName": "AvatarBlend_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BlendSpace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/motion/AvatarBlend_Onl",
+        "PackagePath": "/Game/Lobby/Character/motion"
+    },
+    {
+        "AssetClass": "BlendSpace",
+        "AssetName": "NewBlendSpace",
+        "FTopLevelAssetPath": {
+            "AssetName": "BlendSpace",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaSandBox/NewBlendSpace",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaSandBox"
+    }
+]

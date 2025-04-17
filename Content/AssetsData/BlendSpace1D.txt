@@ -1,0 +1,22 @@
+[
+    {
+        "AssetClass": "BlendSpace1D",
+        "AssetName": "AvatarBlend_F_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BlendSpace1D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/motion/AvatarBlend_F_Onl",
+        "PackagePath": "/Game/Lobby/Character/motion"
+    },
+    {
+        "AssetClass": "BlendSpace1D",
+        "AssetName": "AvatarBlend_M_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "BlendSpace1D",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/motion/AvatarBlend_M_Onl",
+        "PackagePath": "/Game/Lobby/Character/motion"
+    }
+]

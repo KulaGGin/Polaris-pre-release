@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "GeometryCache",
+        "AssetName": "DefaultGeometryCacheAsset",
+        "FTopLevelAssetPath": {
+            "AssetName": "GeometryCache",
+            "PackageName": "/Script/GeometryCache"
+        },
+        "PackageName": "/Niagara/DefaultAssets/GeometryCache/DefaultGeometryCacheAsset",
+        "PackagePath": "/Niagara/DefaultAssets/GeometryCache"
+    }
+]

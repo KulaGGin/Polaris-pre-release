@@ -1,0 +1,732 @@
+[
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_RageFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_RageFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_ZoneFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ZoneFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_BlinkFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_BlinkFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_FinishZoneFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_FinishZoneFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_ZoneRageFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ZoneRageFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_ChipDamageFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_ChipDamageFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_DevilFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_DevilFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_PreExplosionFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PreExplosionFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_PowerCrushFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PowerCrushFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_WarpFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_WarpFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_FinishDevilFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_FinishDevilFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_LightningFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_LightningFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "C_Sky_Cloud_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSky/C_Sky_Cloud_Color",
+        "PackagePath": "/Engine/EngineSky"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "C_Sky_Zenith_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSky/C_Sky_Zenith_Color",
+        "PackagePath": "/Engine/EngineSky"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "C_Sky_Horizon_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/EngineSky/C_Sky_Horizon_Color",
+        "PackagePath": "/Engine/EngineSky"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_MountainsNear1_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_MountainsNear1_2",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_Interactable_Blackpolaris",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_Interactable_Blackpolaris",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_Interactable_polaris",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_Interactable_polaris",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_MountainsFar1_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_MountainsFar1_2",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_MountainsNear1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_MountainsNear1",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_Forest3",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_Forest3",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_ValleyMist1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_ValleyMist1",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_ForestPolaris",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_ForestPolaris",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_Forest2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_Forest2",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_Mist",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_Mist",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_MountainsSun1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_MountainsSun1",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_MountainsSun1_2",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_MountainsSun1_2",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_Forest4",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_Forest4",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_Forest5",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_Forest5",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_Forest1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_Forest1",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_Interactable1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_Interactable1",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Curve_MountainsFar1",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FogGradients/Gradients/Curve_MountainsFar1",
+        "PackagePath": "/Game/Marketplace/FogGradients/Gradients"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_04",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/04/FX_Okm_Fresnel_Color_Curve_04",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/04"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_DodgeFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_DodgeFresnel_Color",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_ex0Fresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/Demo/FX_Okm_ex0Fresnel_Color",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/Demo"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_00",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/00/FX_Okm_Fresnel_Color_Curve_00",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/00"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_03",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/03/FX_Okm_Fresnel_Color_Curve_03",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/03"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_09",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/09/FX_Okm_Fresnel_Color_Curve_09",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/09"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_02",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/02/FX_Okm_Fresnel_Color_Curve_02",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/02"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_11",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11/FX_Okm_Fresnel_Color_Curve_11",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_06",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/06/FX_Okm_Fresnel_Color_Curve_06",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/06"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_07",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/07/FX_Okm_Fresnel_Color_Curve_07",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/07"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_10",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/10/FX_Okm_Fresnel_Color_Curve_10",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/10"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_08",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/08/FX_Okm_Fresnel_Color_Curve_08",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/08"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/01/FX_Okm_Fresnel_Color_Curve_01",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/01"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_Fresnel_Color_Curve_05",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/05/FX_Okm_Fresnel_Color_Curve_05",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/05"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_WarpFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_WarpFresnel_Color",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_PhkFresnelFinish_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11/FX_Okm_PhkFresnelFinish_Color",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/PcaCurve/11"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_Okm_PhkFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve/FX_Okm_PhkFresnel_Color",
+        "PackagePath": "/Game/Effect/PolarisOKMwork/Character/OKM/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_BlinkZoneRageFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_BlinkZoneRageFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_HeatFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_HeatFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_LightningFresnel_Color_test",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_LightningFresnel_Color_test",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_PoisonFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_PoisonFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "FX_RageDriveFresnel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/FX_RageDriveFresnel_Color",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Ambient_Color_Curve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Ambient_Curves/Ambient_Color_Curve",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Ambient_Curves"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Directional_Scattering_Color_Curve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Ambient_Curves/Directional_Scattering_Color_Curve",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Ambient_Curves"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Fog_Inscattering_Color_Curve",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Ambient_Curves/Fog_Inscattering_Color_Curve",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Ambient_Curves"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Cloud_Dark_Color_Legacy",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy/Cloud_Dark_Color_Legacy",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Cloud_Light_Color_Legacy",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy/Cloud_Light_Color_Legacy",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Horizon_Base_Color_Legacy",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy/Horizon_Base_Color_Legacy",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Sun_Cloudy_Color_Legacy",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy/Sun_Cloudy_Color_Legacy",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Sun_Color_Legacy",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy/Sun_Color_Legacy",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "Zenith_Base_Color_Legacy",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy/Zenith_Base_Color_Legacy",
+        "PackagePath": "/Game/Marketplace/UltraDynamicSky/Materials/Color_Curves/Legacy"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "CB_UI_InOut_U",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Elements/Curve/CB_UI_InOut_U",
+        "PackagePath": "/Game/UI/Widget/Elements/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "MC_LobbySelectMap_BG",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Lobby/Material/MC_LobbySelectMap_BG",
+        "PackagePath": "/Game/UI/Widget/Lobby/Material"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "A_UI_PF_RadarChart_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/MyProfile/Material/A_UI_PF_RadarChart_Color",
+        "PackagePath": "/Game/UI/Widget/MyProfile/Material"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "CB_UI_Hold_Gradation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Story_STE/Curve/CB_UI_Hold_Gradation",
+        "PackagePath": "/Game/UI/Widget/Story_STE/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "CB_UI_Hold_ON_Gradation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Story_STE/Curve/CB_UI_Hold_ON_Gradation",
+        "PackagePath": "/Game/UI/Widget/Story_STE/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "CB_UI_Main_Gradation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Story_STE/Curve/CB_UI_Main_Gradation",
+        "PackagePath": "/Game/UI/Widget/Story_STE/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "CB_UI_Off_Gradation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Story_STE/Curve/CB_UI_Off_Gradation",
+        "PackagePath": "/Game/UI/Widget/Story_STE/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "CB_UI_On_Gradation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Story_STE/Curve/CB_UI_On_Gradation",
+        "PackagePath": "/Game/UI/Widget/Story_STE/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "CB_UI_ToOff_Gradation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Story_STE/Curve/CB_UI_ToOff_Gradation",
+        "PackagePath": "/Game/UI/Widget/Story_STE/Curve"
+    },
+    {
+        "AssetClass": "CurveLinearColor",
+        "AssetName": "CB_UI_ToOff_Hold_Gradation",
+        "FTopLevelAssetPath": {
+            "AssetName": "CurveLinearColor",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Story_STE/Curve/CB_UI_ToOff_Hold_Gradation",
+        "PackagePath": "/Game/UI/Widget/Story_STE/Curve"
+    }
+]

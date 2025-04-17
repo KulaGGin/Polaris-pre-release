@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "TouchInterface",
+        "AssetName": "DefaultVirtualJoysticks",
+        "FTopLevelAssetPath": {
+            "AssetName": "TouchInterface",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
+        "PackagePath": "/Engine/MobileResources/HUD"
+    }
+]

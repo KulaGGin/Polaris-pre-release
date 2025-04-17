@@ -1,0 +1,532 @@
+[
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_105",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_105",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_111",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_111",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_121",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_121",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_001",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_001",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_001x",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_001x",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_002",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_002",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_002x",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_002x",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_003",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_003",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_004",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_004",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_004x",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_004x",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_005",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_005",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_005x",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_005x",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_006",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_006",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_007",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_007",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_008",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_008",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_009",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_009",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_010",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_010",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_011",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_011",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_013",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_013",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_014",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_014",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_015",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_015",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_016",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_016",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_018",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_018",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_019",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_019",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_020",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_020",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_021",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_021",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_022",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_022",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_023",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_023",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_026",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_026",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_027",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_027",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_031",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_031",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_032",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_032",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_033",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_033",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_042",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_042",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_043",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_043",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_044",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_044",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_048",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_048",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_050",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_050",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_052",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_052",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_053",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_053",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_062",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_062",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_063",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_063",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_063x",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_063x",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_064",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_064",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_066",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_066",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_067",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_067",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_068",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_068",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_069",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_069",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_070",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/MobAnimation_070",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_01_old",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/old/MobAnimation_01_old",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/old"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_02_old",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/old/MobAnimation_02_old",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/old"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_03_old",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/old/MobAnimation_03_old",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/old"
+    },
+    {
+        "AssetClass": "MobAnimationSet",
+        "AssetName": "MobAnimation_04_old",
+        "FTopLevelAssetPath": {
+            "AssetName": "MobAnimationSet",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/old/MobAnimation_04_old",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/MobAnimationLists/old"
+    }
+]

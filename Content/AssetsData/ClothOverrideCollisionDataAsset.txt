@@ -1,0 +1,602 @@
+[
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_btm_f_dogi_damage",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/bottom/cmn_btm_f_dogi_damage/meshes/OCL_CH_cmn_btm_f_dogi_damage",
+        "PackagePath": "/Game/Character/Item/model/common/female/bottom/cmn_btm_f_dogi_damage/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_btm_f_tropical",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/bottom/cmn_btm_f_tropical/meshes/OCL_CH_cmn_btm_f_tropical",
+        "PackagePath": "/Game/Character/Item/model/common/female/bottom/cmn_btm_f_tropical/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_btm_f_widepants_denim",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/bottom/cmn_btm_f_widepants_denim/meshes/catwalkcloth/OCL_CH_cmn_btm_f_widepants_denim",
+        "PackagePath": "/Game/Character/Item/model/common/female/bottom/cmn_btm_f_widepants_denim/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_CKO_clothes",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_CKO_clothes/meshes/OCL_CH_cmn_bdf_CKO_clothes",
+        "PackagePath": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_CKO_clothes/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_f_armor_miko",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_f_armor_miko/meshes/OCL_CH_cmn_bdf_f_armor_miko",
+        "PackagePath": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_f_armor_miko/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CL_CH_cmn_bdf_f_halloween",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_f_halloween/meshes/OCL_CL_CH_cmn_bdf_f_halloween",
+        "PackagePath": "/Game/Character/Item/model/common/female/full_body/cmn_bdf_f_halloween/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_sho_f_furshortboots",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_furshortboots/meshes/OCL_CH_cmn_sho_f_furshortboots",
+        "PackagePath": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_furshortboots/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_sho_f_heellongboots",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_heellongboots/meshes/OCL_CH_cmn_sho_f_heellongboots",
+        "PackagePath": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_heellongboots/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_sho_f_mini_santa",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_mini_santa/meshes/OCL_CH_cmn_sho_f_mini_santa",
+        "PackagePath": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_mini_santa/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_sho_f_oiran_zori",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_oiran_zori/meshes/OCL_CH_cmn_sho_f_oiran_zori",
+        "PackagePath": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_oiran_zori/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_sho_f_straighttip",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_straighttip/meshes/OCL_CH_cmn_sho_f_straighttip",
+        "PackagePath": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_straighttip/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_sho_f_trackshoes",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_trackshoes/meshes/OCL_CH_cmn_sho_f_trackshoes",
+        "PackagePath": "/Game/Character/Item/model/common/female/shoes/cmn_sho_f_trackshoes/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_f002",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f002/meshes/catwalkcloth/OCL_CH_cmn_bdf_f002",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f002/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_f004",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f004/meshes/catwalkcloth/OCL_CH_cmn_bdf_f004",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f004/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_f005",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f005/meshes/catwalkcloth/OCL_CH_cmn_bdf_f005",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f005/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_dogiwildB",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_dogiwildB/meshes/OCL_CH_cmn_bdu_f_dogiwildB",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_dogiwildB/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CL_CH_cmn_bdu_f_endbiker",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_endbiker/meshes/OCL_CL_CH_cmn_bdu_f_endbiker",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_endbiker/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_kunoichi_upper",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_kunoichi_upper/meshes/OCL_CH_cmn_bdu_f_kunoichi_upper",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_kunoichi_upper/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_maidclothes",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_maidclothes/meshes/OCL_CH_cmn_bdu_f_maidclothes",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_maidclothes/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_mini_santa",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_mini_santa/meshes/OCL_CH_cmn_bdu_f_mini_santa",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_mini_santa/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_mlongcoat_houndstooth",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_mlongcoat_houndstooth/meshes/catwalkcloth/OCL_CH_cmn_bdu_f_mlongcoat_houndstooth",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_mlongcoat_houndstooth/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_oiran_furisode",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_oiran_furisode/meshes/OCL_CH_cmn_bdu_f_oiran_furisode",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_oiran_furisode/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_parker_s",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_parker_s/meshes/OCL_CH_cmn_bdu_f_parker_s",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_parker_s/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_ridershineck",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_ridershineck/meshes/OCL_CH_cmn_bdu_f_ridershineck",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_ridershineck/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_sukajan",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_sukajan/meshes/catwalkcloth/OCL_CH_cmn_bdu_f_sukajan",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_sukajan/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_swimwear",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_swimwear/meshes/catwalkcloth/OCL_CH_cmn_bdu_f_swimwear",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_swimwear/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_tropical",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tropical/meshes/OCL_CH_cmn_bdu_f_tropical",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tropical/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_tshirt_hrak",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tshirt_hrak/meshes/OCL_CH_cmn_bdu_f_tshirt_hrak",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tshirt_hrak/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_tshirtcamisole",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tshirtcamisole/meshes/OCL_CH_cmn_bdu_f_tshirtcamisole",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tshirtcamisole/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_f_tshirtcroped",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tshirtcroped/meshes/OCL_CH_cmn_bdu_f_tshirtcroped",
+        "PackagePath": "/Game/Character/Item/model/common/female/upper/cmn_bdu_f_tshirtcroped/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_btm_m_denimchain",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/bottom/cmn_btm_m_denimchain/meshes/OCL_CH_cmn_btm_m_denimchain",
+        "PackagePath": "/Game/Character/Item/model/common/male/bottom/cmn_btm_m_denimchain/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_btm_m_easy",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/bottom/cmn_btm_m_easy/meshes/OCL_CH_cmn_btm_m_easy",
+        "PackagePath": "/Game/Character/Item/model/common/male/bottom/cmn_btm_m_easy/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_btm_m_swimwear",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/bottom/cmn_btm_m_swimwear/meshes/OCL_CH_cmn_btm_m_swimwear",
+        "PackagePath": "/Game/Character/Item/model/common/male/bottom/cmn_btm_m_swimwear/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_btm_m_tropical",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/bottom/cmn_btm_m_tropical/meshes/OCL_CH_cmn_btm_m_tropical",
+        "PackagePath": "/Game/Character/Item/model/common/male/bottom/cmn_btm_m_tropical/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_CHO_clothes",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/full_body/cmn_bdf_CHO_clothes/meshes/OCL_CH_cmn_bdf_CHO_clothes",
+        "PackagePath": "/Game/Character/Item/model/common/male/full_body/cmn_bdf_CHO_clothes/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_m_halloween",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/full_body/cmn_bdf_m_halloween/meshes/OCL_CH_cmn_bdf_m_halloween",
+        "PackagePath": "/Game/Character/Item/model/common/male/full_body/cmn_bdf_m_halloween/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_m_oni_armor",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/full_body/cmn_bdf_m_oni_armor/meshes/OCL_CH_cmn_bdf_m_oni_armor",
+        "PackagePath": "/Game/Character/Item/model/common/male/full_body/cmn_bdf_m_oni_armor/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_sho_m_straighttip",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/shoes/cmn_sho_m_straighttip/meshes/OCL_CH_cmn_sho_m_straighttip",
+        "PackagePath": "/Game/Character/Item/model/common/male/shoes/cmn_sho_m_straighttip/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_sho_m_trackshoes",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/shoes/cmn_sho_m_trackshoes/meshes/OCL_CH_cmn_sho_m_trackshoes",
+        "PackagePath": "/Game/Character/Item/model/common/male/shoes/cmn_sho_m_trackshoes/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_m001",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m001/meshes/catwalkcloth/OCL_CH_cmn_bdf_m001",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m001/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_m002",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m002/meshes/catwalkcloth/OCL_CH_cmn_bdf_m002",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m002/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_m003",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m003/meshes/catwalkcloth/OCL_CH_cmn_bdf_m003",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m003/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdf_m004",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m004/meshes/catwalkcloth/OCL_CH_cmn_bdf_m004",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m004/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_endbiker",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_endbiker/meshes/OCL_CH_cmn_bdu_m_endbiker",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_endbiker/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_golden_style",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_golden_style/meshes/OCL_CH_cmn_bdu_m_golden_style",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_golden_style/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_kk_hakama",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_kk_hakama/meshes/OCL_CH_cmn_bdu_m_kk_hakama",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_kk_hakama/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_ninja_upper",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_ninja_upper/meshes/OCL_CH_cmn_bdu_m_ninja_upper",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_ninja_upper/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_parker_s",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_parker_s/meshes/OCL_CH_cmn_bdu_m_parker_s",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_parker_s/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_santa",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_santa/meshes/OCL_CH_cmn_bdu_m_santa",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_santa/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_shirtrollup",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_shirtrollup/meshes/OCL_CH_cmn_bdu_m_shirtrollup",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_shirtrollup/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_simple_down",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_simple_down/meshes/OCL_CH_cmn_bdu_m_simple_down",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_simple_down/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_sukajan",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_sukajan/meshes/catwalkcloth/OCL_CH_cmn_bdu_m_sukajan",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_sukajan/meshes/catwalkcloth"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_swimwear",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_swimwear/meshes/OCL_CH_cmn_bdu_m_swimwear",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_swimwear/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_tropical",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_tropical/meshes/OCL_CH_cmn_bdu_m_tropical",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_tropical/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_bdu_m_tshirt_hrak",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_tshirt_hrak/meshes/OCL_CH_cmn_bdu_m_tshirt_hrak",
+        "PackagePath": "/Game/Character/Item/model/common/male/upper/cmn_bdu_m_tshirt_hrak/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_acc_hairpiece_braid_L",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_hairpiece_braid_L/meshes/OCL_CH_cmn_acc_hairpiece_braid_L",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_hairpiece_braid_L/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_acc_mantle_red",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mantle_red/meshes/OCL_CH_cmn_acc_mantle_red",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/accessorie/cmn_acc_mantle_red/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_hef_oni_helmet",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/full_head/cmn_hef_oni_helmet/meshes/OCL_CH_cmn_hef_oni_helmet",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/full_head/cmn_hef_oni_helmet/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_hed_hachimaki",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/head/cmn_hed_hachimaki/meshes/OCL_CH_cmn_hed_hachimaki",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/head/cmn_hed_hachimaki/meshes"
+    },
+    {
+        "AssetClass": "ClothOverrideCollisionDataAsset",
+        "AssetName": "OCL_CH_cmn_hed_hachimaki_f",
+        "FTopLevelAssetPath": {
+            "AssetName": "ClothOverrideCollisionDataAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Character/Item/model/common/unisex/head/cmn_hed_hachimaki/meshes/OCL_CH_cmn_hed_hachimaki_f",
+        "PackagePath": "/Game/Character/Item/model/common/unisex/head/cmn_hed_hachimaki/meshes"
+    }
+]

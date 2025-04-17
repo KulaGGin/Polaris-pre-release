@@ -1,0 +1,12 @@
+[
+    {
+        "AssetClass": "SlateBrushAsset",
+        "AssetName": "SB_UI_RadarChart_Blush",
+        "FTopLevelAssetPath": {
+            "AssetName": "SlateBrushAsset",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/MyProfile/Material/SB_UI_RadarChart_Blush",
+        "PackagePath": "/Game/UI/Widget/MyProfile/Material"
+    }
+]

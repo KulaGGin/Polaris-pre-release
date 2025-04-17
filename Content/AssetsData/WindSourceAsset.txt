@@ -1,0 +1,322 @@
+[
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "MainMenu_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/MainMenu/BP/MainMenu_Wind",
+        "PackagePath": "/Game/Stage/UI_Stage/MainMenu/BP"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST02_Demo1_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Asset/Wind/ST02_Demo1_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST02_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Asset/Wind/ST02_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST02_Light_2_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Asset/Wind/ST02_Light_2_Wind",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST02_Light_3_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST02_NeoCity/Asset/Wind/ST02_Light_3_Wind",
+        "PackagePath": "/Game/Stage/ST02_NeoCity/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST03_Light_3_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST03_IslandA/Asset/Wind/ST03_Light_3_Wind",
+        "PackagePath": "/Game/Stage/ST03_IslandA/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST04_Demo1_Light1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Asset/Wind/ST04_Demo1_Light1_Wind",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST04_Demo2_Light1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Asset/Wind/ST04_Demo2_Light1_Wind",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST04_Demo3_Light1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Asset/Wind/ST04_Demo3_Light1_Wind",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST04_Light1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST04_Colosseum/Asset/Wind/ST04_Light1_Wind",
+        "PackagePath": "/Game/Stage/ST04_Colosseum/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST05_Light1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST05_Hangar/Asset/Wind/ST05_Light1_Wind",
+        "PackagePath": "/Game/Stage/ST05_Hangar/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST07_Light3_Wind_Max",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST07_FinalBattle/Asset/Wind/ST07_Light3_Wind_Max",
+        "PackagePath": "/Game/Stage/ST07_FinalBattle/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST08_Light1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST08_Grassland/Asset/Wind/ST08_Light1_Wind",
+        "PackagePath": "/Game/Stage/ST08_Grassland/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST09_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST09_SpiritWorld/Asset/Wind/ST09_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST09_SpiritWorld/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST09_Light_2_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST09_SpiritWorld/Asset/Wind/ST09_Light_2_Wind",
+        "PackagePath": "/Game/Stage/ST09_SpiritWorld/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST09_Light_3_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST09_SpiritWorld/Asset/Wind/ST09_Light_3_Wind",
+        "PackagePath": "/Game/Stage/ST09_SpiritWorld/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST10_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST10_Mountains/Asset/Wind/ST10_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST10_Mountains/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST10_Light_2_wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST10_Mountains/ST10_Light_2_wind",
+        "PackagePath": "/Game/Stage/ST10_Mountains"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST11_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST11_VolcanicBomb/Asset/Wind/ST11_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST11_VolcanicBomb/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST12_Light2_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST12_InTheMist/Asset/Wind/ST12_Light2_Wind",
+        "PackagePath": "/Game/Stage/ST12_InTheMist/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST13_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST13_River/Asset/Wind/ST13_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST13_River/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST14_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST14_Garden/Asset/Wind/ST14_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST14_Garden/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST15_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST15_Penthouse/Asset/Wind/ST15_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST15_Penthouse/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST16_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST16_WarZone/Asset/Wind/ST16_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST16_WarZone/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST18_Battle1_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Asset/Wind/ST18_Battle1_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST18_Demo1_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Asset/Wind/ST18_Demo1_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST18_Demo1_Light_2_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Asset/Wind/ST18_Demo1_Light_2_Wind",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST18_Demo3_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Asset/Wind/ST18_Demo3_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST18_Demo4_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Asset/Wind/ST18_Demo4_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST18_Light_1_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Asset/Wind/ST18_Light_1_Wind",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "ST18_Light_2_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/ST18_Shiren/Asset/Wind/ST18_Light_2_Wind",
+        "PackagePath": "/Game/Stage/ST18_Shiren/Asset/Wind"
+    },
+    {
+        "AssetClass": "WindSourceAsset",
+        "AssetName": "Chr_sele_Light_Wind",
+        "FTopLevelAssetPath": {
+            "AssetName": "WindSourceAsset",
+            "PackageName": "/Script/Polaris"
+        },
+        "PackageName": "/Game/Stage/UI_Stage/Chr_sele/Asset/Wind/Chr_sele_Light_Wind",
+        "PackagePath": "/Game/Stage/UI_Stage/Chr_sele/Asset/Wind"
+    }
+]

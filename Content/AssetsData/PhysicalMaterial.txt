@@ -1,0 +1,1152 @@
+[
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "DefaultPhysicalMaterial",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Engine/EngineMaterials/DefaultPhysicalMaterial",
+        "PackagePath": "/Engine/EngineMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "DefaultDestructiblePhysicalMaterial",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Engine/EngineMaterials/DefaultDestructiblePhysicalMaterial",
+        "PackagePath": "/Engine/EngineMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "LandscapeHolePhysicalMaterial",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Engine/EngineMaterials/LandscapeHolePhysicalMaterial",
+        "PackagePath": "/Engine/EngineMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PhysMat_Carboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Engine/EngineMaterials/PhysMat_Carboard",
+        "PackagePath": "/Engine/EngineMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PhysMat_Ice",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Engine/EngineMaterials/PhysMat_Ice",
+        "PackagePath": "/Engine/EngineMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PhysMat_Metal",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Engine/EngineMaterials/PhysMat_Metal",
+        "PackagePath": "/Engine/EngineMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PhysMat_Rubber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Engine/EngineMaterials/PhysMat_Rubber",
+        "PackagePath": "/Engine/EngineMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PhysMat_Vehicle",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Engine/EngineMaterials/PhysMat_Vehicle",
+        "PackagePath": "/Engine/EngineMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PhysMat_VehicleRagdoll",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Engine/EngineMaterials/PhysMat_VehicleRagdoll",
+        "PackagePath": "/Engine/EngineMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_throwed_fireknife",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/fireknife/PM_throwed_fireknife",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/fireknife"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "throwed_proprestling_pipechair",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Character/Item/Item_Blueprint/cmn/acc/prowrestling_pipechair/throwed_proprestling_pipechair",
+        "PackagePath": "/Game/Character/Item/Item_Blueprint/cmn/acc/prowrestling_pipechair"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Concrete",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedMagicFX08/DemoRoomData/Physical_Materials/Concrete",
+        "PackagePath": "/Game/Marketplace/AdvancedMagicFX08/DemoRoomData/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Metal",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedMagicFX08/DemoRoomData/Physical_Materials/Metal",
+        "PackagePath": "/Game/Marketplace/AdvancedMagicFX08/DemoRoomData/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Rubber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedMagicFX08/DemoRoomData/Physical_Materials/Rubber",
+        "PackagePath": "/Game/Marketplace/AdvancedMagicFX08/DemoRoomData/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Acid",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Acid",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Asphalt",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Asphalt",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Bark",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Bark",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Brick",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Brick",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "CarbonFibre",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/CarbonFibre",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Ceramic",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Ceramic",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Concrete",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Concrete",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Dirt",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Dirt",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Dirt2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Dirt2",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Electrical",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Electrical",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "EnergyShield",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/EnergyShield",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Fabric",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Fabric",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Flesh",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Flesh",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Glass",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Glass",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Grass",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Grass",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Gravel",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Gravel",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Ice",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Ice",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Lava",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Lava",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Leather",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Leather",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Limestone",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Limestone",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Metal",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Metal",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "MetalDull",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/MetalDull",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Mud",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Mud",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Oil",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Oil",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Paper",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Paper",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Plastic",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Plastic",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Polystyrene",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Polystyrene",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Powder",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Powder",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Rock",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Rock",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Rubber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Rubber",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Sand",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Sand",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Snow",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Snow",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Soil",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Soil",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Vegetation",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Vegetation",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Water",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Water",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Wood",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BallisticsVFX/PhysMats/Wood",
+        "PackagePath": "/Game/Marketplace/BallisticsVFX/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Water",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BambooValley/Demo/PM_Water",
+        "PackagePath": "/Game/Marketplace/BambooValley/Demo"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Soil",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/BambooValley/Physics/PM_Soil",
+        "PackagePath": "/Game/Marketplace/BambooValley/Physics"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Physics_PushableBlock",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/DynamicChainsProjectFiles/Materials/PushableBlock/Physics_PushableBlock",
+        "PackagePath": "/Game/Marketplace/DynamicChainsProjectFiles/Materials/PushableBlock"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PhysicalMaterial_GreatWhiteShark",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/Fishes/Materials/PhysicalMaterial_GreatWhiteShark",
+        "PackagePath": "/Game/Marketplace/Fishes/Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Sedan_PhysMat",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/UseCases/005_VehicleTrail/Sedan/Sedan_PhysMat",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/UseCases/005_VehicleTrail/Sedan"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Concrete",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/LaserShowSystem/Demo/DemoAsset/DemoRoom/Audio/Physical_Materials/Concrete",
+        "PackagePath": "/Game/Marketplace/LaserShowSystem/Demo/DemoAsset/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Metal",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/LaserShowSystem/Demo/DemoAsset/DemoRoom/Audio/Physical_Materials/Metal",
+        "PackagePath": "/Game/Marketplace/LaserShowSystem/Demo/DemoAsset/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Rubber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/LaserShowSystem/Demo/DemoAsset/DemoRoom/Audio/Physical_Materials/Rubber",
+        "PackagePath": "/Game/Marketplace/LaserShowSystem/Demo/DemoAsset/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Concrete",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/LocalSobel/DemoRoom/Audio/Physical_Materials/Concrete",
+        "PackagePath": "/Game/Marketplace/LocalSobel/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Default",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/LocalSobel/DemoRoom/Audio/Physical_Materials/Default",
+        "PackagePath": "/Game/Marketplace/LocalSobel/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Metal",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/LocalSobel/DemoRoom/Audio/Physical_Materials/Metal",
+        "PackagePath": "/Game/Marketplace/LocalSobel/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Rubber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/LocalSobel/DemoRoom/Audio/Physical_Materials/Rubber",
+        "PackagePath": "/Game/Marketplace/LocalSobel/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Concrete",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/Modulated_Lighting/Example_Content/Demo_Room/ExampleContent/Audio/Physical_Materials/Concrete",
+        "PackagePath": "/Game/Marketplace/Modulated_Lighting/Example_Content/Demo_Room/ExampleContent/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Metal",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/Modulated_Lighting/Example_Content/Demo_Room/ExampleContent/Audio/Physical_Materials/Metal",
+        "PackagePath": "/Game/Marketplace/Modulated_Lighting/Example_Content/Demo_Room/ExampleContent/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Rubber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/Modulated_Lighting/Example_Content/Demo_Room/ExampleContent/Audio/Physical_Materials/Rubber",
+        "PackagePath": "/Game/Marketplace/Modulated_Lighting/Example_Content/Demo_Room/ExampleContent/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_MW_Dirt",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat/PM_MW_Dirt",
+        "PackagePath": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_MW_Forest",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat/PM_MW_Forest",
+        "PackagePath": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_MW_Plants",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat/PM_MW_Plants",
+        "PackagePath": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_MW_Sand",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat/PM_MW_Sand",
+        "PackagePath": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_MW_Stone",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat/PM_MW_Stone",
+        "PackagePath": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_MW_Water",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat/PM_MW_Water",
+        "PackagePath": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_MW_Wood",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat/PM_MW_Wood",
+        "PackagePath": "/Game/Marketplace/MW_Conifer_Forest_TreesBiome/MWCommon/_Legacy2/Materials/MASTER/PhyMat"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Concrete",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/OutlineMaker/ExampleContent/Audio/Physical_Materials/Concrete",
+        "PackagePath": "/Game/Marketplace/OutlineMaker/ExampleContent/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Default",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/OutlineMaker/ExampleContent/Audio/Physical_Materials/Default",
+        "PackagePath": "/Game/Marketplace/OutlineMaker/ExampleContent/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Metal",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/OutlineMaker/ExampleContent/Audio/Physical_Materials/Metal",
+        "PackagePath": "/Game/Marketplace/OutlineMaker/ExampleContent/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Rubber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/OutlineMaker/ExampleContent/Audio/Physical_Materials/Rubber",
+        "PackagePath": "/Game/Marketplace/OutlineMaker/ExampleContent/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Aurora_GlacialEmpress_PhysMat",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/ParagonAurora/Characters/Heroes/Aurora/Skins/GlacialEmpress/Meshes/Aurora_GlacialEmpress_PhysMat",
+        "PackagePath": "/Game/Marketplace/ParagonAurora/Characters/Heroes/Aurora/Skins/GlacialEmpress/Meshes"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_ShallowWater",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/ParagonGreystone/FX/Materials/PhysMats/PM_ShallowWater",
+        "PackagePath": "/Game/Marketplace/ParagonGreystone/FX/Materials/PhysMats"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Rock_01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/TemplesOfCambodia/BaseMaterials/PhysicalMaterials/PM_Rock_01_01",
+        "PackagePath": "/Game/Marketplace/TemplesOfCambodia/BaseMaterials/PhysicalMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Stones_01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/TemplesOfCambodia/BaseMaterials/PhysicalMaterials/PM_Stones_01_01",
+        "PackagePath": "/Game/Marketplace/TemplesOfCambodia/BaseMaterials/PhysicalMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Water_01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/TemplesOfCambodia/BaseMaterials/PhysicalMaterials/PM_Water_01_01",
+        "PackagePath": "/Game/Marketplace/TemplesOfCambodia/BaseMaterials/PhysicalMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Wood_01_01",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Marketplace/TemplesOfCambodia/BaseMaterials/PhysicalMaterials/PM_Wood_01_01",
+        "PackagePath": "/Game/Marketplace/TemplesOfCambodia/BaseMaterials/PhysicalMaterials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Asphalt",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Asphalt",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Asphalt_Wet",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Asphalt_Wet",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Bush",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Bush",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Cardboard",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Cardboard",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Extra",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Extra",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Extra2",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Extra2",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_FieldStone",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_FieldStone",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Glass",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Glass",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Gravel",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Gravel",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Ice",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Ice",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Iron",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Iron",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Leaf",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Leaf",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Marble",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Marble",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Mud",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Mud",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_OldTimber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_OldTimber",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Paper",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Paper",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Plastic",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Plastic",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Pool",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Pool",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_QualityCarpet",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_QualityCarpet",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Sand",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Sand",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Snow",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Snow",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_SoftSoil",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_SoftSoil",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Soil",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Soil",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Stone",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Stone",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Timber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Timber",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Turf",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Turf",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Vinyl",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Vinyl",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Water",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Water",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "PM_Wood",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/Game/Stage/Physical/PhysicsMaterial/PM_Wood",
+        "PackagePath": "/Game/Stage/Physical/PhysicsMaterial"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Concrete",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/GFur/GFurPRO/DemoRoom/DemoRoom/Audio/Physical_Materials/Concrete",
+        "PackagePath": "/GFur/GFurPRO/DemoRoom/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Default",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/GFur/GFurPRO/DemoRoom/DemoRoom/Audio/Physical_Materials/Default",
+        "PackagePath": "/GFur/GFurPRO/DemoRoom/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Metal",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/GFur/GFurPRO/DemoRoom/DemoRoom/Audio/Physical_Materials/Metal",
+        "PackagePath": "/GFur/GFurPRO/DemoRoom/DemoRoom/Audio/Physical_Materials"
+    },
+    {
+        "AssetClass": "PhysicalMaterial",
+        "AssetName": "Rubber",
+        "FTopLevelAssetPath": {
+            "AssetName": "PhysicalMaterial",
+            "PackageName": "/Script/PhysicsCore"
+        },
+        "PackageName": "/GFur/GFurPRO/DemoRoom/DemoRoom/Audio/Physical_Materials/Rubber",
+        "PackagePath": "/GFur/GFurPRO/DemoRoom/DemoRoom/Audio/Physical_Materials"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "AssetClass": "MaterialFunctionMaterialLayer",
+        "AssetName": "ML_BoneAnimation",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialFunctionMaterialLayer",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/AnimToTexture/Materials/ML_BoneAnimation",
+        "PackagePath": "/AnimToTexture/Materials"
+    },
+    {
+        "AssetClass": "MaterialFunctionMaterialLayer",
+        "AssetName": "ML_VertexAnimation",
+        "FTopLevelAssetPath": {
+            "AssetName": "MaterialFunctionMaterialLayer",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/AnimToTexture/Materials/ML_VertexAnimation",
+        "PackagePath": "/AnimToTexture/Materials"
+    }
+]

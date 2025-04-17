@@ -1,0 +1,902 @@
+[
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_FresnelCurves",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Effect/Polariswork/Common/RageFresnel/ST_FresnelCurves",
+        "PackagePath": "/Game/Effect/Polariswork/Common/RageFresnel"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_BakeParameterSkinGlobal",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/Struct_BakeParameterSkinGlobal",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_BakeParameterGlobal",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/Struct_BakeParameterGlobal",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_CSBakeResources",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/Struct_CSBakeResources",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_BakeParameter1Pass",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/Struct_BakeParameter1Pass",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_SubColorParameter",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/SubColor/Struct_SubColorParameter",
+        "PackagePath": "/Game/Character/Blueprints/SubColor"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_SubColorKey",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/SubColor/Struct_SubColorKey",
+        "PackagePath": "/Game/Character/Blueprints/SubColor"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_BakeParameterSkin1Pass",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/Struct_BakeParameterSkin1Pass",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_SubColorParameterSet",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/SubColor/Struct_SubColorParameterSet",
+        "PackagePath": "/Game/Character/Blueprints/SubColor"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_SubColorKeySet",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/SubColor/Struct_SubColorKeySet",
+        "PackagePath": "/Game/Character/Blueprints/SubColor"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarPresetData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/ST_AvatarPresetData",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Character_OKM_Pca_Curve",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Missile/okm/pca/ST_Character_OKM_Pca_Curve",
+        "PackagePath": "/Game/Character/Blueprints/Missile/okm/pca"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Character_OKM_Pca_Curve_Info",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Missile/okm/pca/ST_Character_OKM_Pca_Curve_Info",
+        "PackagePath": "/Game/Character/Blueprints/Missile/okm/pca"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Character_OKM_Pca_MaterialParam",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Missile/okm/pca/ST_Character_OKM_Pca_MaterialParam",
+        "PackagePath": "/Game/Character/Blueprints/Missile/okm/pca"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_BlackPen_CharacterViewer_AccessoryTransform",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/CharacterViewer/ST_BlackPen_CharacterViewer_AccessoryTransform",
+        "PackagePath": "/Game/BlackPen/CharacterViewer"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_EmoteAdditionalWait",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/BlackPen/DataTables/ST_EmoteAdditionalWait",
+        "PackagePath": "/Game/BlackPen/DataTables"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "BPS_PostProcessScalar",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/PostProcess/BPS_PostProcessScalar",
+        "PackagePath": "/Game/Blueprints/PostProcess"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_DialogBehaviorParam",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Blueprints/Profile/ST_DialogBehaviorParam",
+        "PackagePath": "/Game/Blueprints/Profile"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_BakeSESTParameter",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/Struct_BakeSESTParameter",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Struct_BakeSESTResources",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Bake/Struct_BakeSESTResources",
+        "PackagePath": "/Game/Character/Blueprints/Bake"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "FGOTMaterialParam",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Component/FGOTMaterialParam",
+        "PackagePath": "/Game/Character/Blueprints/Component"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "FXXBABitAnimationData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Character/Blueprints/Missile/xxb/abit/FXXBABitAnimationData",
+        "PackagePath": "/Game/Character/Blueprints/Missile/xxb/abit"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_StoreCategoryTitleColor",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/ST_StoreCategoryTitleColor",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_StoreMenuSelectItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/ST_StoreMenuSelectItem",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_StoreViewerGuidItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/IngameStore/DataTables/ST_StoreViewerGuidItem",
+        "PackagePath": "/Game/IngameStore/DataTables"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarCustomizeCameraData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/AvatarCustomize/Camera/ST_AvatarCustomizeCameraData",
+        "PackagePath": "/Game/Lobby/Blueprints/AvatarCustomize/Camera"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarCustomizeEffectSettingData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/AvatarCustomize/Camera/ST_AvatarCustomizeEffectSettingData",
+        "PackagePath": "/Game/Lobby/Blueprints/AvatarCustomize/Camera"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarCustomizeFocusData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/AvatarCustomize/Camera/ST_AvatarCustomizeFocusData",
+        "PackagePath": "/Game/Lobby/Blueprints/AvatarCustomize/Camera"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarCustomizeInputData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/AvatarCustomize/Camera/ST_AvatarCustomizeInputData",
+        "PackagePath": "/Game/Lobby/Blueprints/AvatarCustomize/Camera"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarCustomizePartFocusData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/AvatarCustomize/Camera/ST_AvatarCustomizePartFocusData",
+        "PackagePath": "/Game/Lobby/Blueprints/AvatarCustomize/Camera"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarCustomizeItemColorListData_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/AvatarCustomize/Data/ColorList/ST_AvatarCustomizeItemColorListData_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/AvatarCustomize/Data/ColorList"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarCustomizeTabColor",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/AvatarCustomize/Data/ColorTab/ST_AvatarCustomizeTabColor",
+        "PackagePath": "/Game/Lobby/Blueprints/AvatarCustomize/Data/ColorTab"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Lobby_HelpButon_Element",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/ButtonHelp/ST_Lobby_HelpButon_Element",
+        "PackagePath": "/Game/Lobby/Blueprints/ButtonHelp"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Lobby_HelpButton_Elements",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/ButtonHelp/ST_Lobby_HelpButton_Elements",
+        "PackagePath": "/Game/Lobby/Blueprints/ButtonHelp"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarFacial_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/AvatarFacial/ST_AvatarFacial_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/AvatarFacial"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Stamp_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/Chat/Stamp/ST_Stamp_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/Chat/Stamp"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_TemplateMessage",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/Chat/TemplateMessage/ST_TemplateMessage",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/Chat/TemplateMessage"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_TemplateMessages",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/Chat/TemplateMessage/ST_TemplateMessages",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/Chat/TemplateMessage"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AmbientNoizeSetting_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/DataTables/Sound/ST_AmbientNoizeSetting_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/DataTables/Sound"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_UI_DebugWidgetHandleInitProp",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Debug/UI/ST_UI_DebugWidgetHandleInitProp",
+        "PackagePath": "/Game/Lobby/Blueprints/Debug/UI"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Lobby_Area_Npc_Data",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Npc/Data/ST_Lobby_Area_Npc_Data",
+        "PackagePath": "/Game/Lobby/Blueprints/Npc/Data"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Lobby_Area_Npc_Menu_Data",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Npc/Data/ST_Lobby_Area_Npc_Menu_Data",
+        "PackagePath": "/Game/Lobby/Blueprints/Npc/Data"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Lobby_Area_Npc_Override_Data",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Npc/Data/ST_Lobby_Area_Npc_Override_Data",
+        "PackagePath": "/Game/Lobby/Blueprints/Npc/Data"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Balloon_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Others/ST_Balloon_Onl",
+        "PackagePath": "/Game/Lobby/Blueprints/Others"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ProfileVisualSettingSubItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Profile/ProfileVisualSettingSubItem",
+        "PackagePath": "/Game/Lobby/Blueprints/Profile"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ProfileVisualSettingSubItemData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Blueprints/Profile/ProfileVisualSettingSubItemData",
+        "PackagePath": "/Game/Lobby/Blueprints/Profile"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarItemColorData_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/ST_AvatarItemColorData_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarItemData_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/Item/ST_AvatarItemData_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/Item"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarItemColor_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/ItemColor/ST_AvatarItemColor_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/ItemColor"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarItemColorTable_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/ItemColor/ST_AvatarItemColorTable_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/ItemColor"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_KpMesh2_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/KawaiiPhysics/ST_KpMesh2_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/KawaiiPhysics"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_AvatarSkinColor_Onl",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Character/DataTables/SkinColor/ST_AvatarSkinColor_Onl",
+        "PackagePath": "/Game/Lobby/Character/DataTables/SkinColor"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Profile_AvatarPoseData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Profile/DataTables/Data/ST_Profile_AvatarPoseData",
+        "PackagePath": "/Game/Lobby/Profile/DataTables/Data"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Profile_BgData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Profile/DataTables/Data/ST_Profile_BgData",
+        "PackagePath": "/Game/Lobby/Profile/DataTables/Data"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Profile_CharacterPoseData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Profile/DataTables/Data/ST_Profile_CharacterPoseData",
+        "PackagePath": "/Game/Lobby/Profile/DataTables/Data"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Profile_CharacterPoseList",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Lobby/Profile/DataTables/Data/ST_Profile_CharacterPoseList",
+        "PackagePath": "/Game/Lobby/Profile/DataTables/Data"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ALS_ComponentAndTransform",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs/ALS_ComponentAndTransform",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Mantle_Asset",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs/Mantle_Asset",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Mantle_Params",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs/Mantle_Params",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Mantle_TraceSettings",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs/Mantle_TraceSettings",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "MovementSettings",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs/MovementSettings",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "MovementSettings_Stance",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs/MovementSettings_Stance",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "MovementSettings_State",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs/MovementSettings_State",
+        "PackagePath": "/Game/Marketplace/AdvancedLocomotionV4/Data/Structs"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "AdvancedEffectFeatures",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/Chameleon/Structures/AdvancedEffectFeatures",
+        "PackagePath": "/Game/Marketplace/Chameleon/Structures"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "AdvancedEffectFeaturesNoCustomDepth",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/Chameleon/Structures/AdvancedEffectFeaturesNoCustomDepth",
+        "PackagePath": "/Game/Marketplace/Chameleon/Structures"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "Vector2DN",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/Chameleon/Structures/Vector2DN",
+        "PackagePath": "/Game/Marketplace/Chameleon/Structures"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "NinjaPreset",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/NinjaPreset",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "RenderTargetListItem",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/FluidNinjaLive/Core/RenderTargetListItem",
+        "PackagePath": "/Game/Marketplace/FluidNinjaLive/Core"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "MeshToSpawnAlong",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/SmartSplineGen/Blueprints/InternalLogic/MeshToSpawnAlong",
+        "PackagePath": "/Game/Marketplace/SmartSplineGen/Blueprints/InternalLogic"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "SkelMeshToSpawnAlong",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/SmartSplineGen/Blueprints/InternalLogic/SkelMeshToSpawnAlong",
+        "PackagePath": "/Game/Marketplace/SmartSplineGen/Blueprints/InternalLogic"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "SubStemStarter",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/SmartSplineGen/Blueprints/InternalLogic/SubStemStarter",
+        "PackagePath": "/Game/Marketplace/SmartSplineGen/Blueprints/InternalLogic"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_LineSegment",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/SuburbsPack/Blueprint/Building/Structures/BackgroundBuildings/ST_LineSegment",
+        "PackagePath": "/Game/Marketplace/SuburbsPack/Blueprint/Building/Structures/BackgroundBuildings"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_VertexID",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Marketplace/SuburbsPack/Blueprint/Building/Structures/BackgroundBuildings/ST_VertexID",
+        "PackagePath": "/Game/Marketplace/SuburbsPack/Blueprint/Building/Structures/BackgroundBuildings"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "S_AlpacaActoionStruct",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox/S_AlpacaActoionStruct",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaActionAsset/SandBox"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "AlpacaSpinDegree",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/AlpacaSpinDegree",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "MobEffectList",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/Stage/Asset-Library/Mob/Blueprints/MobEffectList",
+        "PackagePath": "/Game/Stage/Asset-Library/Mob/Blueprints"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_TAM_SQ_Event_Param",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/BluePrints/NPC/Event/ST_TAM_SQ_Event_Param",
+        "PackagePath": "/Game/TrueArcadeMode/BluePrints/NPC/Event"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_TAM_ChapterData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Struct/ST_TAM_ChapterData",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Struct"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_TAM_ScenarioNaviData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Struct/ST_TAM_ScenarioNaviData",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Struct"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_TAM_ShopWindowData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Struct/ST_TAM_ShopWindowData",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Struct"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_TAM_SpotTalkData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Struct/ST_TAM_SpotTalkData",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Struct"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_TAM_SpotTalkIdData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Struct/ST_TAM_SpotTalkIdData",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Struct"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_TAM_TournamentNpc",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/TrueArcadeMode/DataTable/Struct/ST_TAM_TournamentNpc",
+        "PackagePath": "/Game/TrueArcadeMode/DataTable/Struct"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_CUS_CH_ColorPanel_Color",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/CUS_CH/DataTables/ST_CUS_CH_ColorPanel_Color",
+        "PackagePath": "/Game/UI/Widget/CUS_CH/DataTables"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "BPS_UI_CUS_PL_ListInfo",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/CUS_PL/BPS_UI_CUS_PL_ListInfo",
+        "PackagePath": "/Game/UI/Widget/CUS_PL"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_Photo_SubGuide",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/Photo/ST_Photo_SubGuide",
+        "PackagePath": "/Game/UI/Widget/Photo"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "NameDataTableStructure",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/StaffRoll/StaffRollParts/NameDataTableStructure",
+        "PackagePath": "/Game/UI/Widget/StaffRoll/StaffRollParts"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "ST_UI_StageSelect_MovieData",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Game/UI/Widget/StageSelect/Blueprint/ST_UI_StageSelect_MovieData",
+        "PackagePath": "/Game/UI/Widget/StageSelect/Blueprint"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "CollisionEvent",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/DefaultAssets/Structs/CollisionEvent",
+        "PackagePath": "/Niagara/DefaultAssets/Structs"
+    },
+    {
+        "AssetClass": "UserDefinedStruct",
+        "AssetName": "LocationEvent_V2",
+        "FTopLevelAssetPath": {
+            "AssetName": "UserDefinedStruct",
+            "PackageName": "/Script/Engine"
+        },
+        "PackageName": "/Niagara/DefaultAssets/Structs/LocationEvent_V2",
+        "PackagePath": "/Niagara/DefaultAssets/Structs"
+    }
+]
